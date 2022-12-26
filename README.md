@@ -16,6 +16,10 @@ Vizija na kojoj je ovaj projekat zasnovan jeste otvaranje širokih mogućnosti z
 
 Želimo da buduće generacije budu u mogućnosti da uređajima oko sebe upravljaju koristeći srpski jezik, da kvalitetnije žive i efikasnije rade zahvaljujući moći računarske obrade i razumevanja prirodnog jezika.
 
+# Metodologija
+
+Najbolje rezultate u obradi prirodnih jezika trenutno postižu veliki jezički modeli (npr. BERT, GPT, i sl.), obučeni nad ogromnim količinama neobeleženih tekstova. Međutim, da bi se takvi modeli uspešno primenili na rešavanje konkretnih zadataka, njih je neophodno prilagoditi (engl. *fine-tuning*) uz pomoć manjih, posebno obeleženih skupova podataka specifičnih za zadatak i domen tekstova koji se razmatra. Projekat **COMtext.SR** je usmeren upravo na izradu namenskih, reprezentativnih i ekspertski proverenih označenih skupova podataka i njihovo korišćenje za izradu prilagođenih velikih jezičkih modela.
+
 # Moduli
 
 Projekat **COMtext.SR** je proistekao iz *Inicijative za otvorene NLP/NLU resurse srpskog jezika*, čiji su inicijatori obavili veliki broj sastanaka i konsultacija u okviru domaće IT zajednice, u kojima je učestvovalo preko 40 organizacija. Na osnovu obavljenih konsultacija, prioriteti za izradu NLP/NLU resursa za srpski jezik definisani su na sledeći način:
