@@ -50,11 +50,11 @@ Sledeće organizacije su podržale projekat **COMtext.SR**:
 
 | Sajt partnera | Logo partnera |
 | --- | --- |
-| <div align="center"> **[RNIDS](http://www.rnids.rs/)** </div> | <img src="./logos/RNIDS.png" height="100" /> |
-| <div align="center"> **[SAS](http://www.sas.com/en_si/home.html)** </div> | <img src="./logos/SAS.png" height="100" /> |
-| <div align="center"> **[Comtrade System Integration](http://comtradeintegration.com/sr/)** </div> | <img src="./logos/Comtrade.png" height="100" />  |
-| <div align="center"> **[Data Science Conference](http://datasciconference.com/)** </div> |<img src="./logos/DSC.png" height="100" /> |
-| <div align="center"> **[Inspira grupa](http://inspiragrupa.com/)** </div> | <div align="center"> <img src="./logos/Inspira.png" height="120" /> </div>|
-| <div align="center"> **[Alfanum](http://www.alfanum.co.rs)** </div> | <img src="./logos/Alfanum.png" height="100" /> |
-| <div align="center"> **[Kancelarija za IT i eUpravu](https://www.ite.gov.rs/)** </div> | <img src="./logos/E-uprava.png" height="100" /> |
+| **[RNIDS](http://www.rnids.rs/)** | <img src="./logos/RNIDS.png" height="100" /> |
+| **[SAS](http://www.sas.com/en_si/home.html)** | <img src="./logos/SAS.png" height="100" /> |
+| **[Comtrade System Integration](http://comtradeintegration.com/sr/)** | <img src="./logos/Comtrade.png" height="100" />  |
+| **[Data Science Conference](http://datasciconference.com/)** |<img src="./logos/DSC.png" height="100" /> |
+| **[Inspira grupa](http://inspiragrupa.com/)** | <p align="center"> <img src="./logos/Inspira.png" height="120" /> </p>|
+| **[Alfanum](http://www.alfanum.co.rs)** | <img src="./logos/Alfanum.png" height="100" /> |
+| **[Kancelarija za IT i eUpravu](https://www.ite.gov.rs/)** | <img src="./logos/E-uprava.png" height="100" /> |
 
