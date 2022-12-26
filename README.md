@@ -48,13 +48,42 @@ Projekat sprovodi konzorcijum sledećih institucija:
 
 Sledeće organizacije su podržale projekat **COMtext.SR**:
 
-| Sajt partnera | Logo partnera |
-| --- | --- |
-| **[RNIDS](http://www.rnids.rs/)** | <img src="./logos/RNIDS.png" height="100" /> |
-| **[SAS](http://www.sas.com/en_si/home.html)** | <img src="./logos/SAS.png" height="100" /> |
-| **[Comtrade System Integration](http://comtradeintegration.com/sr/)** | <img src="./logos/Comtrade.png" height="100" />  |
-| **[Data Science Conference](http://datasciconference.com/)** |<img src="./logos/DSC.png" height="100" /> |
-| **[Inspira grupa](http://inspiragrupa.com/)** | <p align="center"> <img src="./logos/Inspira.png" height="120" /> </p>|
-| **[Alfanum](http://www.alfanum.co.rs)** | <img src="./logos/Alfanum.png" height="100" /> |
-| **[Kancelarija za IT i eUpravu](https://www.ite.gov.rs/)** | <img src="./logos/E-uprava.png" height="100" /> |
 
+<table>
+  <thead>
+    <tr>
+      <th>Sajt partnera</th>
+      <th>Logo partnera</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><div align="center"><strong><a href="http://www.rnids.rs/">RNIDS</a></strong></div></td>
+      <td><img src="./logos/RNIDS.png" height="100" /></td>
+    </tr>
+    <tr>
+      <td><div align="center"><strong><a href="http://www.sas.com/en_si/home.html">SAS</a></strong></div></td>
+      <td><img src="./logos/SAS.png" height="100" /></td>
+    </tr>
+    <tr>
+      <td><div align="center"><strong><a href="http://comtradeintegration.com/sr/">Comtrade System Integration</a></strong></div></td>
+      <td><img src="./logos/Comtrade.png" height="100" /></td>
+    </tr>
+    <tr>
+      <td><div align="center"><strong><a href="http://datasciconference.com/">Data Science Conference</a></strong></div></td>
+      <td><img src="./logos/DSC.png" height="100" /></td>
+    </tr>
+    <tr>
+      <td><div align="center"><strong><a href="http://inspiragrupa.com/">Inspira grupa</a></strong></div></td>
+      <td><div align="center"><img src="./logos/Inspira.png" height="120" /></div></td>
+    </tr>
+    <tr>
+      <td><div align="center"><strong><a href="http://www.alfanum.co.rs">Alfanum</a></strong></div></td>
+      <td><img src="./logos/Alfanum.png" height="100" /></td>
+    </tr>
+    <tr>
+      <td><div align="center"><strong><a href="https://www.ite.gov.rs/">Kancelarija za IT i eUpravu</a></strong></div></td>
+      <td><img src="./logos/E-uprava.png" height="100" /></td>
+    </tr>
+  </tbody>
+</table>
