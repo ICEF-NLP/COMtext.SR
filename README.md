@@ -49,8 +49,8 @@ U nastavku je dat pregled i poređenje novog COMtext.SR.legal korpusa sa slični
 | **COMtext.SR.legal**                                        | 79              | 4762          | 105470      | pravno-administrativni | ekavica i ijekavica, odvojene paralelne varijante |
 
 **COMtext.SR.legal** anotirani korpus je dostupan za preuzimanje u connlu formatu:
-- [**COMtext.SR.legal.ekavica.connlu**](https://github.com/ICEF-NLP/COMtext.SR/blob/main/data/comtext.sr.legal.ekavica.connlu)
-- [**COMtext.SR.legal.ijekavica.connlu**](https://github.com/ICEF-NLP/COMtext.SR/blob/main/data/comtext.sr.legal.ijekavica.connlu)
+- [**COMtext.SR.legal.ekavica.conllu**](https://github.com/ICEF-NLP/COMtext.SR/blob/main/data/comtext.sr.legal.ekavica.conllu)
+- [**COMtext.SR.legal.ijekavica.conllu**](https://github.com/ICEF-NLP/COMtext.SR/blob/main/data/comtext.sr.legal.ijekavica.conllu)
 
 Izvorni tekstovi dokumenata iz ovog korpusa, bez pratećih anotacija, takođe su dostupni na sledećem direktorijumu:
 - [**COMtext.SR.legal.ekavica Plain Texts**](https://github.com/ICEF-NLP/COMtext.SR/blob/main/data/ekavica)
@@ -62,7 +62,7 @@ Uz pomoć izrađenog anotiranog korpusa, sprovedeno je prilagođavanje modela [B
 - [BERTic-COMtext-SR-legal-MSD-ekavica](http://huggingface.co/ICEF-NLP/bcms-bertic-comtext-sr-legal-msd-ekavica)
 - [BERTic-COMtext-SR-legal-MSD-ijekavica](http://huggingface.co/ICEF-NLP/bcms-bertic-comtext-sr-legal-msd-ijekavica)
 
-Takođe su evaluirani i upoređeni različiti modeli i pristupi na zadacima morfosintaktičkog označavanja i lematizacije pravnih tekstova, pri čemu je lematizacija sprovođena uz pomoć prediktovanih morfosintaktičkih oznaka i flektivnih leksikona [srLex](http://hdl.handle.net/11356/1233) i [hrLex](http://hdl.handle.net/11356/1232). Korišćene metrike su tačnost (engl. *accuracy*, ACC) i [*Word Error Rate* (WER)](http://en.wikipedia.org/wiki/Word_error_rate). Pored različitih varijanti BERTića, razmotren je i model [SrBERTa](http://huggingface.co/nemanjaPetrovic/SrBERTa), koji je posebno obučavan na pravnim tekstovima na srpskom jeziku. Prikazani rezultati velikih jezičkih modela su dobijeni nakon 15 epoha prilagođavanja. Ovaj repozitorijum sadrži sav programski kod korišćen u procesu prilagođavanja i evaluacije modela.
+Takođe su evaluirani i upoređeni različiti modeli i pristupi na zadacima morfosintaktičkog označavanja i lematizacije pravnih tekstova, pri čemu je lematizacija sprovođena uz pomoć prediktovanih morfosintaktičkih oznaka i flektivnih leksikona [srLex](http://hdl.handle.net/11356/1233) i [hrLex](http://hdl.handle.net/11356/1232). Korišćene metrike su tačnost (engl. *accuracy*, ACC) i [*Word Error Rate* (WER)](http://en.wikipedia.org/wiki/Word_error_rate). Pored različitih varijanti BERTića, razmotrena je i biblioteka [CLASSLA](http://pypi.org/project/classla/), kao i model [SrBERTa](http://huggingface.co/nemanjaPetrovic/SrBERTa), koji je posebno obučavan na pravnim tekstovima na srpskom jeziku. Prikazani rezultati velikih jezičkih modela su dobijeni nakon 15 epoha prilagođavanja. Ovaj repozitorijum sadrži sav programski kod korišćen u procesu prilagođavanja i evaluacije modela.
 
 ### Rezultati evaluacije - ekavica
 
