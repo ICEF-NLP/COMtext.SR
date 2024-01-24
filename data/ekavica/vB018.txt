@@ -1,0 +1,98 @@
+Na osnovu člana 17. Zakona o elektronskim komunikacijama („Službeni glasnik RS“, broj 44/10) i člana 21. Statuta Republičke agencije za elektronske komunikacije („Službeni glasnik RS“, broj 59/10), direktor Republičke agencije za elektronske komunikacije donosi Proceduru Za Postupanje I Odlučivanje Po Prigovorima I Žalbama Na Rad Republičke Agencije Za Elektronske Komunikacije U Vezi Sa Poslovima Ocenjivanja Usaglašenosti
+I Opšte Odredbe
+Član 1.
+Ovom procedurom uređuju se: postupanje i odlučivanje po prigovorima i žalbama korisnika usluga na rad i donete odluke Republičke agencije za elektronske komunikacije (u daljem tekstu: Agencija) u vezi sa poslovima ocenjivanja usaglašenosti (u daljem tekstu: Procedura); organi Agencije nadležni za odlučivanje po prigovorima i žalbama u vezi sa poslovima ocenjivanja usaglašenosti; pravila na osnovu kojih organi Agencije u postupku ocenjivanja usaglašenosti raspravljaju i odlučuju po prigovorima i žalbama korisnika usluga Agencije ili zainteresovanih strana (u daljem tekstu: podnosilac prigovora i žalbe).
+U postupku po prigovoru i žalbi u vezi sa poslovima ocenjivanja usaglašenosti od strane Agencije, organi Agencije, određeni ovom Procedurom, odlučuju u granicama navoda iz prigovora i žalbi.
+Značenje pojmova
+Član 2.
+Pojedini izrazi koji se upotrebljavaju u ovoj proceduri imaju sledeće značenje:
+Prigovor je izraz nezadovoljstva, upućen Agenciji od strane podnosioca zahteva, odnosno zainteresovanog lica za ocenjivanje usaglašenosti radio opreme i telekomunikacione terminalne opreme (u daljem tekstu: korisnik usluge), na koji se očekuje odgovor;
+Žalba je zahtev korisnika usluge, upućen Agenciji, da se ponovo razmotri, po njega nepovoljna odluka Agencije, koja se odnosi na željeni ishod ocenjivanja usaglašenosti.
+U nepovoljne odluke Agencije spada: odbijanje prihvatanja zahteva za ocenjivanje usaglašenosti; odbijanje da se ponovi ocenjivanje usaglašenosti; zahtevi za korektivnim merama; napomene u obimu kontrole usaglašenosti; odluke da se odbije, suspenduje ili oduzme isprava o usaglašenosti i bilo koja druga odluka koja sprečava sticanje isprave o usaglašenosti.
+II Organi Nadležni Za Odlučivanje Po Prigovoru I Žalbi I Razlozi Za Ulaganje Prigovora I Žalbe
+Član 3.
+Organi nadležni za odlučivanje po prigovorima i žalbama su:
+- direktor Agencije;
+- komisija za rešavanje prigovora i žalbi u vezi sa poslovima ocenjivanja usaglašenosti (u daljem tekstu: Komisija);
+- rukovodioci organizacionih delova Agencije u čijem su delokrugu poslovi u vezi sa ocenjivanjem usaglašenosti (u daljem tekstu: ovlašćeni radnici Agencije);
+- Upravni odbor Agencije.
+Komisiju iz stava 1. ovog člana čine predsednik i dva člana, koju, svojom odlukom imenuje direktor Agencije.
+Predsednik Komisije je odgovoran za sprovođenje postupka rešavanja prigovora i žalbi.
+Članovi Komisije ne mogu biti zaposleni u Agenciji koji su učestvovali u postupku ocenjivanja usaglašenosti ili su preduzimali druge radnje iz kojih je proistekao razlog za prigovor i žalbu.
+Član 4.
+Direktor Agencije je nadležan za odlučivanje po prigovorima i/ili žalbama uloženim iz sledećih razloga:
+- zbog prekoračenja utvrđenih rokova za izvršenje usluge;
+- zbog prekoračenja utvrđenih rokova za izdavanje isprava o usaglašenosti;
+- zbog nepoštovanja važećeg cenovnika;
+- zbog odnosa zaposlenih prema podnosiocu prigovora i žalbe.
+Član 5.
+Ovlašćeni radnici Agencije nadležni su za odlučivanje po prigovorima i/ili žalbama zbog slovnih i/ili brojčanih grešaka na izdatim ispravama o usaglašenosti.
+Član 6.
+Komisija je nadležna za odlučivanje po prigovorima i/ili žalbama uloženim iz sledećih razloga:
+- zbog nepostupanja po zahtevu podnosioca prigovora ili žalbe;
+- zbog neusaglašenosti sa referentnim dokumentima (pravilnici, standardi, naredbe i sl.) u postupku ocenjivanja usaglašenosti;
+- zbog neslaganja sa rezultatima sprovedenih ocenjivanja usaglašenosti;
+- u ostalim slučajevima koji nisu prethodno navedeni.
+Član 7.
+Prigovori i žalbe se mogu odnositi na postupke rada Agencije koji uključuju postupke rada zaposlenih u Agenciji i angažovanih lica, od strane Agencije, za izvršavanje usluga.
+Žalbe se mogu odnositi na bilo koju nepovoljnu, po korisnika usluge, odluku Agencije u vezi sa ocenjivanjem usaglašenosti od strane Agencije.
+Član 8.
+Podnošenje žalbe, sprovođenje postupka i donošenje odluka po žalbi ne sme da izazove bilo kakvu diskriminatorsku meru protiv podnosioca prigovora i žalbe, odnosno korisnika usluge.
+III Ulaganje Prigovora Ili Žalbe I Postupak Po Prigovoru Ili Žalbi
+Član 9.
+Korisnik usluge podnosi prigovor i/ili žalbu Agenciji u pisanoj formi, koji mora biti obrazložen i potkrepljen dokazima, a žalbe koje se odnose na slovne i/ili brojčane greške mogu se podneti i elektronskim putem.
+Član 10.
+Žalba može da se podnese u roku od 15 (petnaest) dana od dana prijema isprave o usaglašenosti ili od trenutka kada je podnosilac žalbe stekao saznanja o slučaju u vezi koga podnosi žalbu.
+Prigovor može da se uloži u roku od 15 (petnaest) dana od kada je podnosilac prigovora stekao saznanja o slučaju u vezi koga podnosi prigovor.
+Član 11.
+Direktor Agencije, u čijoj je nadležnosti da razmotri prigovor i/ili žalbu iz razloga navedenih u članu 4. ove procedure, treba da donese odluku u roku od 15 (petnaest) dana od dana prijema prigovora i/ili žalbe.
+Član 12.
+U postupku rešavanja po prigovoru i/ili žalbi upućenom direktoru Agencije i Komisiji, direktor Agencije prethodno ispituje blagovremenost i dopuštenost prigovora i/ili žalbe.
+Prigovore i/ili žalbe koji Agenciji nisu dostavljeni u propisanom roku ili su izjavljeni od neovlašćenog lica ili su nedopušteni, direktor Agencije odbacuje svojom odlukom.
+Član 13.
+Ukoliko je prigovor i/ili žalba neosnovan direktor Agencije donosi odluku o odbijanju prigovora i/ili žalbe.
+Ukoliko je prigovor i/ili žalba osnovan, direktor Agencije donosi odluku o usvajanju prigovora i/ili žalbe u celosti ili delimično i izdaje nalog nadležnom organizacionom delu Agencije da izvrši radnje potrebne za otklanjanje razloga za prigovor i/ili žalbu.
+Nadležni organizacioni deo Agencije iz stava 2. ovog člana dužan je da u roku od 7 (sedam) dana postupi po nalogu direktora Agencije i preduzme radnje za otklanjanje uzroka prigovora i/ili žalbe.
+Nepostupanje po nalogu iz stava 3. ovog člana smatra se težom povredom radne obaveze.
+Član 14.
+Odluka direktora Agencije po prigovoru i/ili žalbi sadrži: uvod, izreku, obrazloženje, pouku o pravnom leku, broj i datum odluke, potpis i pečat Agencije.
+Odluka po prigovoru i/ili žalbi dostavlja se preporučenom pošiljkom podnosiocu prigovora i/ili žalbe u roku od 3 (tri) dana od dana odlučivanja po prigovoru i/ili žalbi ili neposredno - ličnim preuzimanjem podnosioca prigovora i/ili žalbe uz njegov potpis.
+Član 15.
+Ovlašćeni radnici Agencije, u čijoj je nadležnosti da razmotre prigovor i/ili žalbu iz razloga navedenih u članu 5. ove procedure, dužni su da razmotre prigovor i/ili žalbu i donesu odluku u roku od 3 (tri) dana od dana prijema prigovora i/ili žalbe.
+Član 16.
+Komisija je dužna da u roku od 15 (petnaest) dana od dana dostavljanja prigovora i/ili žalbe od strane direktora Agencije odluči po istom.
+Član 17.
+Komisija odlučuje na raspravi na koju se, po potrebi, poziva podnosilac prigovora i/ili žalbe.
+Poziv na raspravu upućuje se podnosiocu prigovora i/ili žalbe preporučenom pošiljkom najkasnije 5 (pet) dana pred raspravu.
+Poziv za raspravu sadrži zavodni broj predmeta prigovora i/ili žalbe, mesto, dan i čas održavanja rasprave i napomenu da će se rasprava održati u odsustvu podnosioca prigovora i/ili žalbe ukoliko ne pristupi raspravi, a ne opravda svoj izostanak.
+Član 18.
+Raspravu otvara predsednik Komisije i određuje zapisničara iz sastava Komisije.
+Rasprava počinje čitanjem prigovora i/ili žalbe i uvidom u isprave, prezentirane od strane podnosioca prigovora i/ili žalbe, kao i druge isprave podobne za donošenje odluke po prigovoru i/ili žalbi.
+Član 19.
+O raspravi po prigovoru i/ili žalbi vodi se zapisnik.
+Zapisnik naročito sadrži: datum, vreme i mesto održavanja rasprave, predmet rasprave, sastav Komisije, naziv podnosioca prigovora i/ili žalbe, bitnu sadržinu toka rasprave.
+Zapisnik potpisuje predsednik Komisije, podnosilac prigovora i/ili žalbe i zapisničar.
+Član 20.
+Ukoliko je prigovor i/ili žalba neosnovan Komisija donosi odluku o odbijanju prigovora i/ili žalbe.
+Ukoliko su prigovor i/ili žalba osnovani, Komisija donosi odluku o usvajanju prigovora i/ili žalbe, u celosti ili delimično i izdaje nalog nadležnom organizacionom delu Agencije da izvrši radnje potrebne za otklanjanje razloga prigovora i/ili žalbe, u roku predviđenom u članu 13. ove procedure.
+Član 21.
+Odluka Komisije sadrži: uvod, izreku, obrazloženje, pouku o pravnom leku, broj i datum odluke, potpis predsednika Komisije i pečat Agencije.
+Pisana odluka dostavlja se preporučenom pošiljkom podnosiocu prigovora i/ili žalbe u roku od 3 (tri) dana od dana odlučivanja po prigovoru i/ili žalbi.
+Član 22.
+Protiv odluke po prigovoru i/ili žalbi donete od strane direktora Agencije, ovlašćenih radnika Agencije, u čijem je delokrugu ocenjivanje usaglašenosti ili Komisije, podnosilac prigovora i/ili žalbe može uložiti žalbu Upravnom odboru Agencije.
+Upravni odbor Agencije odlučuje po žalbi na odluku nadležnih organa iz stava 1. ovog člana na prvoj sledećoj sednici.
+Odluka Upravnog odbora Agencije iz stava 2. ovog člana sadrži: uvod, izreku, obrazloženje,, pouku o pravnom leku, broj i datum odluke, potpis predsednika Upravnog odbora Agencije i pečat Agencije.
+Član 23.
+Protiv odluke iz člana 22. stav 2. ove procedure podnosilac prigovora i/ili žalbe, u roku od 15 (petnaest) dana od dana prijema odluke, može da pokrene postupak pred nadležnim sudom u Beogradu.
+Član 24.
+U organizacionom delu Agencije u čijem je delokrugu ocenjivanje usaglašenosti vodi se evidencija isprava o usaglašenosti koje su ispravljene zbog slovnih i/ili brojčanih grešaka.
+U organizacionom delu Agencije u čijem je delokrugu sprovođenje poslova u vezi sa podnetim prigovorima i/ili žalbama vodi se evidencija o podnetim prigovorima i/ili žalbama i čuvaju se dosijei predmeta.
+Pored prigovora i/ili žalbe, dosije mora da sadrži i opis, odnosno popis svih aktivnosti preduzetih u vezi sa prigovorima i/ili žalbama i sve korektivne i preventivne mere preduzete iz usvojenog prigovora i/ili žalbe.
+IV Završne Odredbe
+Član 25.
+Izmene i dopune ove procedure vrše se na način i po postupku koji je predviđen za njeno donošenje.
+Član 26.
+Ova procedura stupa na snagu danom donošenja i objavljuje se na Internet stranici Agencije.
+Broj: 1 - 1 - 10 - 34/11 Direktor
+U Beogradu, 22. novembra 2011. godine
+dr Milan Janković

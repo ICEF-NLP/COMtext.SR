@@ -1,0 +1,452 @@
+Odsjek 4
+Nevažnost ugovora
+I Ništavi ugovori
+Ništavost
+Član 103
+(1) Ugovor koji je protivan prinudnim propisima, javnom poretku ili dobrim običajima je ništav ako cilj povrijeđenog pravila ne upućuje na neku drugu sankciju ili ako zakon u određenom slučaju ne propisuje što drugo.
+(2) Ako je zaključenje određenog ugovora zabranjeno samo jednoj strani, ugovor će ostati na snazi ako u zakonu nije što drugo predviđeno za određeni slučaj, a strana koja je povrijedila zakonsku zabranu snosiće odgovarajuće posljedice.
+Posljedice ništavosti
+Član 104
+(1) U slučaju ništavosti ugovora svaka ugovorna strana dužna je da vrati drugoj sve ono što je primila po osnovu takvog ugovora, a ako to nije moguće, ili ako se priroda onog što je ispunjeno protivi vraćanju, ima se dati odgovarajuća naknada u novcu, prema cijenama u vrijeme donošenja sudske odluke, ukoliko zakon što drugo ne određuje.
+(2) Ali, ako je ugovor ništav zbog toga što je po svojoj sadržini ili cilju protivan prinudnim propisima, javnom poretku ili dobrim običajima, sud može odbiti, u cjelini ili djelimično, zahtjev nesavjesne strane za vraćanje onog što je drugoj strani dala a može i odlučiti da druga strana ono što je primila po osnovu zabranjenog ugovora preda opštini na čijoj teritoriji ona ima sjedište, odnosno prebivalište, ili boravište.
+(3) Prilikom odlučivanja sud će voditi računa o savjesnosti jedne, odnosno obiju strana, o značaju ugroženog dobra ili interesa, kao i o moralnim shvatanjima.
+Djelimična ništavost
+Član 105
+(1) Ništavost neke odredbe ugovora ne povlači ništavost i samog ugovora, ako on može opstati bez ništave odredbe, i ako ona nije bila ni uslov ugovora ni odlučujuća pobuda zbog koje je ugovor zaključen.
+(2) Ali će ugovor ostati na snazi čak i ako je ništava odredba bila uslov ili odlučujuća pobuda ugovora u slučaju kad je ništavost ustanovljena upravo da bi ugovor bio oslobođen te odredbe i važio bez nje.
+Konverzija
+Član 106
+Kad ništav ugovor ispunjava uslove za punovažnost nekog drugog ugovora, onda će među ugovaračima važiti taj drugi ugovor, ako bi to bilo u saglasnosti sa ciljem koji su ugovarači imali u vidu kad su ugovor zaključili i ako se može uzeti da bi oni zaključili taj ugovor da su znali za ništavost svog ugovora.
+Naknadni nestanak uzroka ništavosti
+Član 107
+(1) Ništav ugovor ne postaje punovažan kad zabrana ili koji drugi uzrok ništavosti naknadno nestane.
+(2) Ali, ako je zabrana bila manjeg značaja, a ugovor je izvršen, ništavost se ne može isticati.
+Odgovornost lica krivog za ništavost ugovora
+Član 108
+Ugovarač koji je kriv za zaključenje ništavog ugovora odgovoran je svome saugovaraču za štetu koju trpi zbog ništavosti ugovora, ako ovaj nije znao ili prema okolnostima nije morao znati za postojanje uzroka ništavosti.
+Isticanje ništavosti
+Član 109
+(1) Na ništavost sud pazi po službenoj dužnosti i na nju se može pozivati svako zainteresovano lice.
+(2) Pravo da zahtijeva utvrđenje ništavosti ima i javni tužilac.
+Neograničeno isticanje ništavosti
+Član 110
+Pravo na isticanje ništavosti ne gasi se.
+IV Raskidanje ili izmjena ugovora zbog promijenjenih okolnosti
+Pretpostavke za raskidanje
+Član 133
+(1) Ako poslije zaključenja ugovora nastupe okolnosti koje otežavaju ispunjenje obaveze jedne strane, ili ako se zbog njih ne može ostvariti svrha ugovora, a u jednom i u drugom slučaju u toj mjeri da je očigledno da ugovor više ne odgovara očekivanjima ugovornih strana i da bi po opštem mišljenju bilo nepravično održati ga na snazi takav kakav je, strana kojoj je otežano ispunjenje obaveze, odnosno strana koja zbog promijenjenih okolnosti ne može ostvariti svrhu ugovora može zahtijevati da se ugovor raskine.
+(2) Raskid ugovora ne može se zahtijevati ako je strana koja se poziva na promijenjene okolnosti bila dužna da u vrijeme zaključenja ugovora uzme u obzir te okolnosti ili ih je mogla izbjeći ili savladati.
+(3) Strana koja zahtijeva raskid ugovora ne može se pozivati na promijenjene okolnosti koje su nastupile po isteku roka određenog za ispunjenje njene obaveze.
+(4) Ugovor se neće raskinuti ako druga strana ponudi ili pristane da se odgovarajući uslovi ugovora pravično izmijene.
+(5) Ako izrekne raskid ugovora, sud će na zahtjev druge strane obavezati stranu koja ga je zahtijevala da naknadi drugoj strani pravičan dio štete koju trpi zbog toga.
+Dužnost obavještavanja
+Član 134
+Strana koja je ovlašćena da zbog promijenjenih okolnosti zahtijeva raskid ugovora dužna je da o svojoj namjeri da traži raskid ugovora obavijesti drugu stranu čim je saznala da su takve okolnosti nastupile, a ako to nije učinila, odgovara za štetu koju je druga strana pretrpjela zbog toga što joj zahtjev nije bio na vrijeme saopšten.
+Okolnosti od značaja za odluku suda
+Član 135
+Pri odlučivanju o raskidanju ugovora, odnosno o njegovoj izmjeni, sud se rukovodi načelima poštenog prometa, vodeći računa naročito o cilju ugovora, o normalnom riziku kod ugovora odnosne vrste, o opštem interesu, kao i o interesima obiju strana.
+Odricanje od pozivanja na promijenjene okolnosti
+Član 136
+Strane se mogu ugovorom unaprijed odreći pozivanja na određene promijenjene okolnosti, osim ako je to u suprotnosti sa načelom savjesnosti i poštenja.
+V Nemogućnost ispunjenja
+Nemogućnost ispunjenja za koju ne odgovara nijedna strana
+Član 137
+(1) Kad je ispunjenje obaveze jedne strane u dvostranom ugovoru postalo nemoguće zbog događaja za koji nije odgovorna ni jedna ni druga strana, gasi se i obaveza druge strane, a ako je ova nešto ispunila od svoje obaveze, može zahtijevati vraćanje po pravilima o vraćanju stečenog bez osnova.
+(2) U slučaju djelimične nemogućnosti ispunjenja zbog događaja za koji nije odgovorna ni jedna ni druga strana, druga strana može raskinuti ugovor ako djelimično ispunjenje ne odgovara njenim potrebama, inače ugovor ostaje na snazi, a druga strana ima pravo da zahtijeva srazmjerno smanjenje svoje obaveze.
+Nemogućnost ispunjenja za koju odgovara druga strana
+Član 138
+(1) Kad je ispunjenje obaveze jedne strane u dvostranom ugovoru postalo nemoguće zbog događaja za koji odgovara druga strana, njena obaveza se gasi, a ona zadržava svoje potraživanje prema drugoj strani, s tim što se smanjuje za onoliko koliko je ona mogla imati koristi od oslobođenja od sopstvene obaveze.
+(2) Pored toga, ona je dužna ustupiti drugoj strani sva prava koja bi imala prema trećim licima u vezi sa predmetom svoje obaveze čije je ispunjenje postalo nemoguće.
+IX Ustupanje ugovora
+Uslovi ustupanja
+Član 145
+(1) Svaka strana u dvostranom ugovoru može, ako na to pristane druga strana, ustupiti ugovor nekom trećem licu, koje time postaje nosilac svih njenih prava i obaveza iz tog ugovora.
+(2) Ustupanjem ugovora ugovorni odnos između ustupioca i druge strane prelazi na prijemnika i drugu stranu u času kad je druga strana pristala na ustupanje, a ako je druga strana dala svoj pristanak unaprijed, u času kad je obaviještena o ustupanju.
+(3) Pristanak na ustupanje ugovora je punovažan samo ako je dat u formi u zakonu propisanoj za ustupljeni ugovor.
+(4) Odredbe o sporednim pravima u vezi sa ugovorom o preuzimanju duga shodno će se primjeniti i na ustupanje ugovora.
+Odgovornost ustupioca
+Član 146
+(1) Ustupilac odgovara prijemniku za punovažnost ustupljenog ugovora.
+(2) On mu ne jemči da će druga strana ispuniti svoje obaveze iz ustupljenog ugovora, osim ako se na to naročito obavezao.
+(3) On ne jemči drugoj strani da će prijemnik ispuniti obaveze iz ugovora, osim ako se na to naročito obavezao.
+Prigovori
+Član 147
+Druga strana može istaći prijemniku sve prigovore iz ustupljenog ugovora, kao i one koje ima iz drugih odnosa sa njim, ali ne i prigovore koje ima prema ustupiocu.
+Obična šteta i izmakla korist
+Član 189
+(1) Oštećenik ima pravo kako na naknadu obične štete, tako i na naknadu izmakle koristi.
+(2) Visina naknade štete određuje se prema cijenama u vrijeme donošenja sudske odluke, izuzev slučaja kad zakon naređuje što drugo.
+(3) Pri ocjeni visine izmakle koristi uzima se u obzir dobitak koji se mogao osnovano očekivati prema redovnom toku stvari ili prema posebnim okolnostima, a čije je ostvarenje spriječeno štetnikovom radnjom ili propuštanjem.
+(4) Kad je stvar uništena ili oštećena krivičnim dijelom učinjenim sa umišljajem, sud može odrediti visinu naknada prema vrijednosti koju je stvar imala za oštećenika.
+Povjeriočeva Prava I Dužnikove Obaveze
+Odsjek 1
+Pravo na naknadu štete
+I Opšta pravila
+Ispunjenje obaveze i posljedice neispunjenja
+Član 262
+(1) Povjerilac u obaveznom odnosu je ovlašćen da od dužnika zahtijeva ispunjenje obaveze, a dužnik je dužan ispuniti je savesno u svemu kako ona glasi.
+(2) Kad dužnik ne ispuni obavezu ili zadocni sa njenim ispunjenjem, povjerilac ima pravo zahtijevati i naknadu štete koju je usljed toga pretrpio.
+(3) Za štetu zbog zadocnjenja sa ispunjenjem odgovara i dužnik kome je povjerilac dao primjeren naknadni rok za ispunjenje.
+(4) Dužnik odgovara i za djelimičnu ili potpunu nemogućnost ispunjenja i ako tu nemogućnost nije skrivio ako je nastupila poslije njegovog dolaska u docnju, za koju odgovara.
+(5) Ali se dužnik oslobađa odgovornosti za štetu ako dokaže da bi stvar koja je predmet obaveze slučajno propala i da je on svoju obavezu na vrijeme ispunio.
+Oslobađanje dužnika od odgovornosti
+Član 263
+Dužnik se oslobađa odgovornosti za štetu ako dokaže da nije mogao da ispuni svoju obavezu, odnosno da je zakasnio sa ispunjenjem obaveze zbog okolnosti nastalih poslije zaključenja ugovora koje nije mogao spriječiti, otkloniti ili izbjeći.
+Ograničenje i isključenje odgovornosti
+Član 265
+(1) Odgovornost dužnika za namjeru ili krajnju nepažnju ne može se unaprijed ugovorom isključiti.
+(2) Ali sud može na zahtjev zainteresovane ugovorne strane poništiti i ugovornu odredbu o isključenju odgovornosti za običnu nepažnju, ako je takav sporazum proizašao iz monopolskog položaja dužnika ili uopšte iz neravnopravnog odnosa ugovornih strana.
+(3) Punovažna je odredba ugovora kojom se određuje najviši iznos naknade, ako tako određeni iznos nije u očiglednoj nesrazmjeri sa štetom i ako za određeni slučaj nije što drugo zakonom određeno.
+(4) U slučaju ograničenja visine naknade povjerilac ima pravo na potpunu naknadu ako je nemogućnost ispunjenja obaveze prouzrokovana namjerno ili krajnjom nepažnjom dužnika.
+Obim naknade
+Član 266
+(1) Povjerilac ima pravo na naknadu obične štete i izmakle koristi, koje je dužnik u vrijeme zaključenja ugovora morao predvidjeti kao moguće posljedice povrede ugovora, a s obzirom na činjenice koje su mu tada bile poznate ili morale biti poznate.
+(2) U slučaju prevare ili namjernog neispunjenja, kao i neispunjenja zbog krajnje nepažnje, povjerilac ima pravo zahtijevati od dužnika naknadu cjelokupne štete koja je nastala zbog povrede ugovora, bez obzira na to što dužnik nije znao za posebne okolnosti zbog kojih su one nastale.
+(3) Ako je prilikom povrede obaveze pored štete nastao za povjerioca i neki dobitak, o njemu će se prilikom određivanja visine naknade voditi računa u razumnoj mjeri.
+(4) Strana koja se poziva na povredu ugovora dužna je preduzeti sve razumne mjere da bi se smanjila šteta izazvana tom povredom, inače druga strana može zahtijevati smanjenje naknade.
+(5) Odredbe ovog člana shodno se primjenjuju i na neispunjenje obaveza koje nisu nastale iz ugovora, ukoliko za pojedine od njih nije ovim zakonom nešto drugo predviđeno.
+Krivica povjerioca
+Član 267
+Kad za nastalu štetu, ili njenu veličinu, ili za otežanje dužnikovog položaja ima krivice do povjerioca ili do lica za koje on odgovara, naknada se smanjuje srazmjerno.
+Odgovornost zbog propuštanja obavještenja
+Član 268
+Ugovorna strana koja je dužna da obavijesti drugu stranu o činjenicama koje su od uticaja na njihov međusobni odnos, odgovara za štetu koju pretrpi druga strana zbog toga što nije bila na vrijeme obaviještena.
+Kad dužnik dolazi u docnju
+Član 324
+(1) Dužnik dolazi u docnju kad ne ispuni obavezu u roku određenom za ispunjenje.
+(2) Ako rok za ispunjenje nije određen, dužnik dolazi u docnju kad ga povjerilac pozove da ispuni obavezu, usmeno ili pismeno, vansudskom opomenom ili započinjanjem nekog postupka čija je svrha da se postigne ispunjenje obaveze.
+II Docnja povjerioca
+Kad povjerilac dolazi u docnju
+Član 325
+(1) Povjerilac dolazi u docnju ako bez osnovanog razloga odbije da primi ispunjenje ili ga svojim ponašanjem spriječi.
+(2) Povjerilac dolazi u docnju i kad je spreman da primi ispunjenje dužnikove istovremene obaveze, ali ne nudi ispunjenje svoje dospjele obaveze.
+(3) Povjerilac ne dolazi u docnju ako dokaže da u vrijeme ponude ispunjenja, ili u vrijeme određeno za ispunjenje, dužnik nije bio u mogućnosti da svoju obavezu ispuni.
+Dejstva povjeriočeve docnje
+Član 326
+(1) Dolaskom povjerioca u docnju prestaje docnja dužnika, i na povjerioca prelazi rizik slučajne propasti ili oštećenja stvari.
+(2) Od dana povjeriočeve docnje prestaje teći kamata.
+(3) Povjerilac u docnji dužan je naknaditi dužniku štetu nastalu usljed docnje za koju odgovara, kao i troškove oko daljeg čuvanja stvari.
+Prestanak obaveze zbog nemogućnosti ispunjenja
+Član 354
+(1) Obaveza prestaje kad njeno ispunjenje postane nemoguće usljed okolnosti zbog kojih dužnik ne odgovara.
+(2) Dužnik treba da dokaže okolnosti koje isključuju njegovu odgovornost.
+Kad su predmet obaveze stvari određene po rodu
+Član 355
+(1) Ako su predmet obaveze stvari određene po rodu, obaveza ne prestaje čak i kad sve što dužnik ima od takvih stvari propadne usljed okolnosti za koje on ne odgovara.
+(2) Ali, kad su predmet obaveza stvari određene po rodu koje se imaju uzeti iz određene mase tih stvari, obaveza prestaje kad propadne cijela ta masa.
+Ustupanje prava prema trećem odgovornom za nemogućnost ispunjenja
+Član 356
+Dužnik određene stvari koji je oslobođen svoje obaveze usljed nemogućnosti ispunjenja dužan je ustupiti povjeriocu pravo koje bi imao prema trećem licu zbog nastale nemogućnosti.
+Ustupanja Potraživanja Ugovorom (Cesija)
+Odsjek 1
+Opšte odredbe
+Koja se potraživanja mogu prenijeti ugovorom
+Član 436
+(1) Povjerilac može ugovorom zaključenim sa trećim prenijeti na ovoga svoje potraživanje, izuzev onog čiji je prenos zabranjen zakonom ili koje je vezano za ličnost povjerioca, ili koje se po svojoj prirodi protivi prenošenju na drugoga.
+(2) Ugovor o ustupanju nema dejstvo prema dužniku, ako su on i povjerilac ugovorili da ovaj neće moći prenijeti potraživanje na drugoga ili da ga neće moći prenijeti bez dužnikovog pristanka.
+Sporedna prava
+Član 437
+(1) Sa potraživanjem prelaze na prijemnika sporedna prava, kao što su pravo prvenstvene naplate, hipoteka, zaloga, prava iz ugovora sa jemcem, prava na kamatu, ugovornu kaznu i sl.
+(2) Ipak, ustupilac može predati založenu stvar prijemniku samo ako zalogodavac pristane na to, inače ona ostaje kod ustupioca da je čuva za račun prijemnika.
+(3) Pretpostavlja se da su dospjele, a neisplaćene kamate ustupljene sa glavnim potraživanjem.
+Obavještavanje dužnika
+Član 438
+(1) Za prenos potraživanja nije potreban pristanak dužnika, ali je ustupilac dužan obavijestiti dužnika o izvršenom ustupanju.
+(2) Ispunjenje izvršeno ustupiocu prije obavještenja o ustupanju punovažno je i oslobađa dužnika obaveze, ali samo ako nije znao za ustupanje, inače obaveza ostaje i on je dužan da je ispuni prijemniku.
+Višestruko ustupanje
+Član 439
+Ako je povjerilac ustupio isto potraživanje raznim licima, potraživanje pripada prijemniku o kome je ustupilac prvo obavijestio dužnika, odnosno koji se prvi javio dužniku.
+Odsjek 2
+Odnos prijemnika i dužnika
+Član 440
+(1) Prijemnik ima prema dužniku ista prava koja je ustupilac imao prema dužniku do ustupanja.
+(2) Dužnik može istaći prijemniku pored prigovora koje ima prema njemu i one prigovore koje je mogao istaći ustupiocu do časa kad je saznao za ustupanje.
+Odsjek 3
+Odnos ustupioca i prijemnika
+Predaja i isprava o dugu
+Član 441
+(1) Ustupilac je dužan predati prijemniku obveznicu ili drugu ispravu o dugu, ako ih ima, kao i druge dokaze o ustupljenom potraživanju i sporednim pravima.
+(2) Ako je ustupilac prenio na prijemnika samo jedan dio potraživanja, on je dužan predati mu ovjeren prepis obveznice ili koje druge isprave kojom se dokazuje postojanje ustupljenog potraživanja.
+(3) On je dužan izdati mu, na njegov zahtjev, ovjerenu potvrdu o ustupanju.
+Odgovornost za postojanje potraživanja
+Član 442
+Kad je ustupanje izvršeno ugovorom sa naknadom, ustupilac odgovara za postojanje potraživanja u času kad je izvršeno ustupanje.
+Odgovornost za naplativost
+Član 443
+(1) Ustupilac odgovara za naplativost ustupljenog potraživanja ako je to bilo ugovoreno, ali samo do visine onoga što je primio od prijemnika, kao i za naplativost kamata, troškova oko ustupanja i troškova postupka protiv dužnika.
+(2) Veća odgovornost savjesnog ustupioca ne može se ugovoriti.
+Preuzimanje duga
+I Opšte odredbe
+Ugovor o preuzimanju duga
+Član 446
+(1) Preuzimanje duga vrši se ugovorom između dužnika i preuzimaoca, na koji je pristao povjerilac.
+(2) O zaključenom ugovoru može povjerioca izvijestiti svaki od njih, i svakome od njih može povjerilac saopštiti svoj pristanak na preuzimanje duga.
+(3) Pretpostavlja se da je povjerilac dao svoj pristanak ako je bez ograde primio neko ispunjenje od preuzimaoca, koje je ovaj učinio u svoje ime.
+(4) Ugovarači, kao i svaki od njih posebno, mogu pozvati povjerioca da se u određenom roku izjasni da li pristaje na preuzimanje duga, pa ako se povjerilac u određenom roku ne izjasni smatra se da nije dao svoj pristanak.
+(5) Ugovor o preuzimanju duga ima dejstva ugovora o preuzimanju ispunjenja za vrijeme dok povjerilac ne bude dao svoj pristanak na ugovor o preuzimanju duga, kao i ako on odbije da dâ pristanak.
+Slučaj kad je dug obezbijeđen hipotekom
+Član 447
+(1) Kad je prilikom otuđenja neke nepokretnosti na kojoj postoji hipoteka ugovoreno između pribavioca i otuđioca da će pribavilac preuzeti dug prema hipotekarnom povjeriocu, smatra se da je hipotekarni povjerilac dao pristanak na ugovor o preuzimanju duga ako ga na pismeni poziv otuđioca nije odbio u roku od tri mjeseca od prijema poziva.
+(2) U pismenom pozivu povjeriocu se mora skrenuti pažnja na ovu posljedicu, inače će se smatrati kao da poziv nije upućen.
+II Dejstva ugovora o preuzimanju duga
+Promjena dužnika
+Član 448
+(1) Preuzimanjem duga preuzimalac stupa na mjesto pređašnjeg dužnika, a ovaj se oslobađa obaveze.
+(2) Ali, ako je u vrijeme povjeriočevog pristanka na ugovor o preuzimanju duga preuzimalac bio prezadužen, a povjerilac to nije znao niti je morao znati, pređašnji dužnik ne oslobađa se obaveze, a ugovor o preuzimanju duga ima dejstvo ugovora o pristupanju dugu.
+(3) Između preuzimaoca i povjerioca postoji ista obaveza koja je dotle postojala između pređašnjeg dužnika i povjerioca.
+Sporedna prava
+Član 449
+(1) Sporedna prava koja su dotle postojala uz potraživanje ostaju i dalje, ali jemstva, kao i zaloge, koje su dala treća lica prestaju ako jemci i zalogodavci ne pristaju da odgovaraju i za novog dužnika.
+(2) Ako nije što drugo ugovoreno, preuzimalac ne odgovara za nenaplaćene kamate koje su dospjele do preuzimanja.
+Prigovori
+Član 450
+(1) Preuzimalac može istaći povjeriocu sve prigovore koji proističu iz pravnog odnosa između pređašnjeg dužnika i povjerioca, iz koga potiče preuzeti dug, kao i prigovore koje preuzimalac ima prema povjeriocu.
+(2) Preuzimalac ne može istaći povjeriocu prigovore koji potiču iz njegovog pravnog odnosa sa pređašnjim dužnikom, a koji odnos je bio osnov preuzimanja.
+Odsjek 2
+Pristupanje dugu
+Ugovor o pristupanju dugu
+Član 451
+Ugovorom između povjerioca i trećeg, kojim se ovaj obavezuje povjeriocu da će ispuniti njegovo potraživanje od dužnika, treći stupa u obavezu pored dužnika.
+Pristupanje dugu u slučaju primanja neke imovinske cjeline
+Član 452
+(1) Lice na koje pređe na osnovu ugovora neka imovinska cjelina fizičkog ili pravnog lica, ili jedan dio te cjeline, odgovara za dugove koji se odnose na tu cjelinu, odnosno na njen dio, pored dotadašnjeg imaoca i solidarno s njim, ali samo do vrijednosti njene aktive.
+(2) Nema pravnog dejstva prema povjeriocima odredba ugovora kojom bi se isključivala ili ograničavala odgovornost utvrđena u prethodnom stavu.
+Odsjek 3
+Preuzimanje ispunjenja
+Član 453
+(1) Preuzimanje ispunjenja se vrši ugovorom između dužnika i nekog trećeg kojim se ovaj obavezuje prema dužniku da ispuni njegovu obavezu prema njegovom povjeriocu.
+(2) On odgovara dužniku ako blagovremeno ne ispuni obavezu povjeriocu, te ovaj zatraži ispunjenje od dužnika.
+(3) Ali on ne preuzima dug, niti pristupa dugu i povjerilac nema nikakvo pravo prema njemu.
+Član 456
+(1) Do predaje stvari kupcu rizik slučajne propasti ili oštećenja stvari snosi prodavac, a sa predajom stvari rizik prelazi na kupca.
+(2) Rizik ne prelazi na kupca ako je on zbog nekog nedostatka predate stvari raskinuo ugovor ili tražio zamjenu stvari.
+Prelaz rizika u slučaju kupčeve docnje
+Član 457
+(1) Ako predaja stvari nije izvršena zbog kupčeve docnje, rizik prelazi na kupca u času kad je došao u docnju.
+(2) Kad su predmet ugovora stvari određene po rodu, rizik prelazi na kupca u docnji ako je prodavac izdvojio stvari očigledno namijenjene za izvršenje predaje i o tome odaslao obavještenje kupcu.
+(3) Ali, kad su stvari određene po rodu takve prirode da prodavac ne može da izdvoji jedan njihov dio, dovoljno je da je prodavac izvršio sve radnje koje su potrebne da bi kupac mogao preuzeti stvari i da je o tome odaslao obavještenje kupcu.
+Vrijeme i mjesto predaje
+Član 467
+(1) Prodavac je dužan predati stvar kupcu u vrijeme i na mjestu predviđenom ugovorom.
+(2) Prodavac je izvršio obavezu predaje kupcu, po pravilu, kad mu stvar uruči ili preda ispravu kojom se stvar može preuzeti.
+Predmet predaje
+Član 468
+(1) Ako nije što drugo ugovoreno ili ne proizlazi iz prirode posla, prodavac je dužan predati stvar kupcu u ispravnom stanju, zajedno sa njenim pripacima.
+(2) Plodovi i druge koristi od stvari pripadaju kupcu od dana kad je prodavac bio dužan da mu ih preda.
+Odlaganje predaje do isplate cijene
+Član 475
+Ako nije što drugo ugovoreno ili uobičajeno, prodavac nije dužan predati stvar ako mu kupac ne isplati cijenu istovremeno, ili nije spreman da to istovremeno učini, ali kupac nije dužan isplatiti cijenu prije nego što je imao mogućnost da pregleda stvar.
+Materijalni nedostaci za koje prodavac odgovara
+Član 478
+(1) Prodavac odgovara za materijalne nedostatke stvari koje je ona imala u času prelaza rizika na kupca, bez obzira na to da li mu je to bilo poznato.
+(2) Prodavac odgovara i za one materijalne nedostatke koji se pojave poslije prelaza rizika na kupca ako su posljedica uzroka koji je postojao prije toga.
+(3) Neznatan materijalni nedostatak ne uzima se u obzir.
+Kad postoje materijalni nedostaci
+Član 479
+Nedostatak postoji:
+1) ako stvar nema potrebna svojstva za njenu redovnu upotrebu ili za promet;
+2) ako stvar nema potrebna svojstva za naročitu upotrebu za koju je kupac nabavlja, a koja je bila poznata prodavcu, ili mu je morala biti poznata;
+3) ako stvar nema svojstva i odlike koje su izričito ili prećutno ugovorene, odnosno propisane;
+4) kad je prodavac predao stvar koja nije saobrazna uzorku ili modelu, osim ako su uzorak ili model pokazani samo radi obavještenja.
+Nedostaci za koje prodavac ne odgovara
+Član 480
+(1) Prodavac ne odgovara za nedostatke iz tač. 1) i 3) prethodnog člana, ako su u času zaključenja ugovora bili poznati kupcu ili mu nisu mogli ostati nepoznati.
+(2) Smatra se da nisu mogli ostati nepoznati kupcu oni nedostaci koje bi brižljivo lice sa prosječnim znanjem i iskustvom lica istog zanimanja i struke kao kupac moglo lako opaziti pri uobičajenom pregledu stvari.
+(3) Ali, prodavac odgovara i za nedostatke koje je kupac mogao lako opaziti, ako je izjavio da stvar nema nikakve nedostatke ili da stvar ima određena svojstva ili odlike.
+Pregled stvari i vidljivi nedostaci
+Član 481
+(1) Kupac je dužan da primljenu stvar na uobičajeni način pregleda ili je dâ na pregled, čim je to prema redovnom toku stvari moguće, i da o vidljivim nedostacima obavijesti prodavca u roku od osam dana, a kod ugovora u privredi bez odlaganja, inače gubi pravo koje mu po tom osnovu pripada.
+(2) Kad je pregled izvršen u prisustvu obiju strana, kupac je dužan svoje primjedbe zbog vidljivih nedostataka saopštiti prodavcu odmah, inače gubi pravo koje mu po tom osnovu pripada.
+(3) Ako je kupac otpremio stvar dalje bez pretovara, a prodavcu je pri zaključenju ugovora bila poznata ili morala biti poznata mogućnost takve dalje otpreme, pregled stvari može biti odložen do njenog prispijeća u novo mjesto opredeljenja, i u tom slučaju kupac je dužan da prodavca obavijesti o nedostacima čim je po redovnom toku stvari mogao za njih doznati od svojih klijenata.
+Skriveni nedostaci
+Član 482
+(1) Kad se poslije prijema stvari od strane kupca pokaže da stvar ima neki nedostatak koji se nije mogao otkriti uobičajenim pregledom prilikom preuzimanja stvari (skriveni nedostatak), kupac je dužan, pod prijetnjom gubitka prava, da o tom nedostatku obavijesti prodavca u roku od osam dana računajući od dana kad je nedostatak otkrio, a kod ugovora u privredi bez odlaganja.
+(2) Prodavac ne odgovara za nedostatke koji se pokažu pošto protekne šest mjeseci od predaje stvari, izuzev kad je ugovorom određen duži rok.
+Rokovi u slučaju opravke, zamjene i sl.
+Član 483
+Kad je zbog nekog nedostatka došlo do opravke stvari, isporuke druge stvari, zamjene dijelova i slično, rokovi iz prethodna dva člana počinju teći od predaje opravljene stvari, predaje druge stvari, izvršene zamjene dijelova i slično.
+Značaj činjenice da je prodavac znao za nedostatak
+Član 485
+Kupac ne gubi pravo da se pozove na neki nedostatak i kad nije izvršio svoju obavezu da stvar pregleda bez odlaganja, ili obavezu da u određenom roku obavijesti prodavca o postojanju nedostatka, kao i kad se nedostatak pokazao tek po proteku šest mjeseci od predaje stvari, ako je taj nedostatak bio poznat prodavcu ili mu nije mogao ostati nepoznat.
+II Prava kupca
+Ispunjenje, sniženje cijene, raskid ugovora, naknada štete
+Član 488
+(1) Kupac koji je blagovremeno i uredno obavijestio prodavca o nedostatku može:
+1) zahtijevati od prodavca da nedostatak ukloni ili da mu preda drugu stvar bez nedostatka (ispunjenje ugovora);
+2) zahtijevati sniženje cijene;
+3) izjaviti da raskida ugovor;
+(2) U svakom od ovih slučajeva kupac ima pravo i na naknadu štete.
+(3) Pored toga, i nezavisno od toga, prodavac odgovara kupcu i za štetu koju je ovaj zbog nedostatka stvari pretrpio na drugim svojim dobrima, i to prema opštim pravilima o odgovornosti za štetu.
+Neispunjenje ugovora u razumnom roku
+Član 489
+Ako kupac ne dobije zahtijevano ispunjenje ugovora u razumnom roku, zadržava pravo da raskine ugovor ili da snizi cijenu.
+Kad kupac može raskinuti ugovor
+Član 490
+(1) Kupac može raskinuti ugovor samo ako je prethodno ostavio prodavcu naknadni primjereni rok za ispunjenje ugovora.
+(2) Kupac može raskinuti ugovor i bez ostavljanja naknadnog roka ako mu je prodavac poslije obavještenja o nedostacima saopštio da neće ispuniti ugovor ili ako iz okolnosti konkretnog slučaja očigledno proizlazi da prodavac neće moći ispuniti ugovor ni u naknadnom roku.
+Neispunjenje ugovora u naknadnom roku
+Član 491
+Ako prodavac u naknadnom roku ne ispuni ugovor, on se raskida po samom zakonu, ali ga kupac može održati ako bez odlaganja izjavi prodavcu da ugovor održava na snazi.
+Djelimični nedostaci
+Član 492
+(1) Kad samo dio predate stvari ima nedostatke ili kad je predat samo dio stvari, odnosno manja količina od ugovorene, kupac može raskinuti ugovor u smislu prethodnih članova samo u pogledu dijela koji ima nedostatke, ili samo u pogledu dijela ili količine koji nedostaju.
+(2) Kupac može raskinuti cio ugovor samo ako ugovorena količina ili predata stvar čini cjelinu, ili ako kupac inače ima opravdan interes da primi ugovorenu stvar ili količinu u cjelini.
+Gubljenje prava da se raskine ugovor zbog nedostatka
+Član 495
+(1) Kupac gubi pravo da raskine ugovor zbog nedostatka stvari kad mu je nemoguće da vrati stvar ili da je vrati u stanju u kome ju je primio.
+(2) Ipak, kupac može raskinuti ugovor zbog nekog nedostatka stvari ako je stvar potpuno ili djelimično propala ili oštećena usljed nedostatka koji opravdava raskidanje ugovora, ili usljed nekog događaja koji ne potiče od njega ni od nekog lica za koje on odgovara.
+(3) Isto vrijedi ako je stvar potpuno ili djelimično propala ili oštećena usljed obaveze kupca da pregleda stvar, ili ako je kupac prije nego što je otkriven nedostatak potrošio ili izmijenio jedan dio stvari u toku njene redovne upotrebe, kao i ako je oštećenje ili izmjena bez značaja.
+Očuvanje ostalih prava
+Član 496
+Kupac koji je zbog nemogućnosti da vrati stvar ili da je vrati u stanju u kome je primio izgubio pravo da raskine ugovor, zadržava ostala prava koja mu daje zakon zbog postojanja nekog nedostatka.
+Dejstva raskida zbog nedostatka
+Član 497
+(1) Raskid ugovora zbog nedostatka stvari proizvodi ista dejstva kao i raskid dvostranih ugovora zbog neispunjenja.
+(2) Kupac duguje prodavcu naknadu za korist od stvari i kad mu je nemoguće da je vrati cijelu ili njen jedan dio, a ugovor je ipak raskinut.
+Sniženje cijene
+Član 498
+Sniženje cijene se vrši prema odnosu između vrijednosti stvari bez nedostatka i vrijednosti stvari sa nedostatkom, u vrijeme zaključenja ugovora.
+Postupno otkrivanje nedostataka
+Član 499
+Kupac koji je postigao sniženje cijene zbog postojanja nekog nedostatka može raskinuti ugovor ili zahtijevati novo sniženje cijene ako se naknadno otkrije neki drugi nedostatak.
+Gubitak prava
+Član 500
+(1) Prava kupca koji je blagovremeno obavijestio prodavca o postojanju nedostatka gase se po isteku jedne godine, računajući od dana odašiljanja obavještenja prodavcu, izuzev ako je prodavčevom prevarom kupac bio spriječen da ih upotrebi.
+(2) Međutim, kupac koji je blagovremeno obavijestio prodavca o postojanju nedostatka može poslije proteka ovog roka, ako još nije isplatio cijenu, istaći svoj zahtjev da se cijena snizi ili da mu se naknadi šteta kao prigovor protiv prodavčevog zahtjeva da mu se isplati cijena.
+Pravni nedostaci
+Član 508
+(1) Prodavac odgovara ako na prodatoj stvari postoji neko pravo trećeg koje isključuje, umanjuje ili ograničava kupčevo pravo, a o čijem postojanju kupac nije obaviješten, niti je pristao da uzme stvar opterećenu tim pravom.
+(2) Prodavac nekog drugog prava garantuje da ono postoji i da nema pravnih smetnji za njegovo ostvarenje.
+Obavještavanje prodavca
+Član 509
+Kad se pokaže da treće lice polaže neko pravo na stvar, kupac je dužan obavijestiti prodavca o tome, izuzev kad je to prodavcu već poznato, i pozvati ga da u razumnom roku oslobodi stvar od prava ili pretenzije trećeg ili, kad su predmet ugovora stvari određene po rodu, da mu isporuči drugu stvar bez pravnog nedostatka.
+Sankcije pravnih nedostataka
+Član 510
+(1) Ako prodavac ne postupi po zahtjevu kupca, u slučaju oduzimanja stvari od kupca ugovor se raskida po samom zakonu, a u slučaju umanjenja ili ograničenja kupčevog prava, kupac može po svom izboru raskinuti ugovor ili zahtijevati srazmjerno sniženje cijene.
+(2) Ako prodavac ne udovolji kupčevom zahtjevu da u razumnom roku oslobodi stvar od prava ili pretenzija trećeg, kupac može raskinuti ugovor ako se zbog toga njegova svrha ne može ostvariti.
+(3) U svakom slučaju kupac ima pravo na naknadu pretrpljene štete.
+(4) Međutim, ako je kupac u času zaključenja ugovora znao za mogućnost da mu stvar bude oduzeta, ili da njegovo pravo bude smanjeno ili ograničeno, nema pravo na naknadu štete ako se ta mogućnost ostvari, ali ima pravo zahtijevati vraćanje, odnosno sniženje cijene.
+Kad kupac ne obavijesti prodavca
+Član 511
+Kupac koji se, ne obavještavajući prodavca, upustio u spor sa trećim i spor izgubio, može se ipak pozvati na prodavčevu odgovornost za pravne nedostatke, izuzev ako prodavac dokaže da je on raspolagao sredstvima da se odbije zahtjev trećeg lica.
+Kad je pravo trećeg očigledno osnovano
+Član 512
+(1) Kupac ima pravo pozvati se na prodavčevu odgovornost za pravne nedostatke i kad je bez obavještenja prodavca i bez spora priznao očigledno osnovano pravo trećeg.
+(2) Ako je kupac isplatio trećem izvjesnu svotu novca da bi odustao od svog očiglednog prava, prodavac se može osloboditi svoje odgovornosti ako naknadi kupcu isplaćenu svotu i pretrpljenu štetu.
+Ugovorno ograničenje ili isključenje prodavčeve odgovornosti
+Član 513
+(1) Odgovornost prodavca za pravne nedostatke može se ugovorom ograničiti ili sasvim isključiti.
+(2) Ali, ako je u vrijeme zaključenja ugovora prodavcu bio poznat ili mu nije mogao ostati nepoznat neki nedostatak u njegovom pravu, odredba ugovora o ograničenju ili o isključenju odgovornosti za pravne nedostatke je ništava.
+Ograničenja javno-pravne prirode
+Član 514
+Prodavac odgovara i za posebna ograničenja javno-pravne prirode koja kupcu nisu bila poznata, ako je on za njih znao ili je znao da se mogu očekivati, a nije ih kupcu saopštio.
+Gubitak prava
+Član 515
+(1) Pravo kupca po osnovu pravnih nedostataka gasi se istekom godine dana od saznanja za postojanje prava trećeg.
+(2) Ali, ako je treće lice prije isteka toga roka pokrenulo spor, a kupac pozvao prodavca da se u spor umiješa, pravo kupca se gasi tek istekom šest mjeseci po pravnosnažno okončanom sporu.
+Pojam
+Član 567
+(1) Ugovorom o zakupu obavezuje se zakupodavac da preda određenu stvar zakupcu na upotrebu, a ovaj se obavezuje da mu za to plaća određenu zakupninu.
+(2) Upotreba obuhvata i uživanje stvari (pribiranje plodova), ako nije drukčije ugovoreno ili uobičajeno.
+Odjeljak 2
+Obaveze Zakupodavca
+Predaja stvari
+Član 569
+(1) Zakupodavac je dužan predati zakupcu zakupljenu stvar u ispravnom stanju, zajedno sa njenim pripacima.
+(2) Stvar je u ispravnom stanju ako je u stanju određenom ugovorom, a u nedostatku ugovora, u stanju da može poslužiti za upotrebu radi koje je ugovor zaključen.
+Održavanje stvari
+Član 570
+(1) Zakupodavac je dužan održavati stvar u ispravnom stanju za vrijeme trajanja zakupa i radi toga vršiti potrebne opravke na njoj.
+(2) On je dužan naknaditi zakupcu troškove koje je ovaj učinio za održavanje stvari, a koje bi on sâm bio dužan učiniti.
+(3) Troškovi sitnih opravki izazvanih redovnom upotrebom stvari, kao i troškovi same upotrebe, padaju na teret zakupca.
+(4) O upotrebi opravke zakupac je dužan obavijestiti zakupodavca.
+Raskid ugovora i sniženje zakupnine zbog opravki
+Član 571
+(1) Ako potrebne opravke zakupljene stvari ometaju njenu upotrebu u znatnoj mjeri i za duže vrijeme, zakupac može raskinuti ugovor.
+(2) On ima pravo na sniženje zakupnine srazmjerno ograničenju upotrebe stvari zbog tih opravki.
+Izmjene na zakupljenoj stvari
+Član 572
+(1) Zakupodavac ne može bez pristanka zakupca činiti izmjene na zakupljenoj stvari za vrijeme trajanja zakupa, ukoliko bi to ometalo upotrebu stvari.
+(2) Ako bi izmjenama stvari bila smanjena u izvjesnoj mjeri zakupčeva upotreba stvari, smanjiće se i zakupnina u odgovarajućoj srazmjeri.
+Odgovornost za materijalne nedostatke
+Član 573
+(1) Zakupodavac odgovara zakupcu za sve nedostatke zakupljene stvari koji smetaju njenoj ugovorenoj ili redovnoj upotrebi, bez obzira na to da li je znao za njih ili ne, kao i za nedostatke svojstava ili odlika predviđenih izrično ili prećutno ugovorom.
+(2) Ne uzimaju se u obzir nedostaci koji su manjeg značaja.
+Nedostaci za koje zakupodavac ne odgovara
+Član 574
+(1) Zakupodavac ne odgovara za nedostatke zakupljene stvari koji su u času zaključenja ugovora bili poznati zakupcu ili nisu mogli ostati nepoznati.
+(2) Ali, zakupodavac odgovara za nedostatak zakupljene stvari koji je zakupcu usljed krajnje nepažnje ostao nepoznat, ako je on znao za taj nedostatak i namjerno propustio da o njemu obavijesti zakupca.
+Obavještavanje zakupodavca o nedostacima i opasnostima
+Član 577
+(1) Zakupac je dužan obavijestiti zakupodavca bez nepotrebnog odlaganja o svakom nedostatku zakupljene stvari koji bi se pokazao u toku zakupa, osim ako zakupodavac zna za nedostatak.
+(2) On je isto tako dužan obavijestiti zakupodavca o svakoj nepredviđenoj opasnosti koja bi u toku zakupa zapretila zakupljenoj stvari, da bi mogao preduzeti potrebne mjere.
+(3) Zakupac koji ne obavijesti zakupodavca o pojavljenom nedostatku ili o nastaloj opasnosti, za koje ovaj nije znao, gubi pravo na naknadu štete koju bi pretrpio zbog postojanja nedostatka ili nastale opasnosti za zakupljenu stvar, a dužan je naknaditi štetu koju bi zakupodavac pretrpio zbog toga.
+Prava zakupca kad stvar ima neki nedostatak
+Član 578
+(1) Ako u času predaje zakupljena stvar ima neki nedostatak koji se ne može otkloniti, zakupac može, po svom izboru, raskinuti ugovor ili zahtijevati sniženje zakupnine.
+(2) Kad stvar ima neki nedostatak koji se može otkloniti bez većih nezgoda za zakupca, a predaja stvari u određenom roku nije bila bitni sastojak ugovora, zakupac može zahtijevati od zakupodavca ili otklanjanje nedostatka u primjerenom roku ili sniženje zakupnine.
+(3) Ako zakupodavac ne otkloni nedostatak u naknadnom primjerenom roku koji mu je zakupac odredio, zakupac može raskinuti ugovor ili zahtijevati sniženje zakupnine.
+(4) U svakom slučaju zakupac ima pravo na naknadu štete.
+Odgovornost zakupodavca za pravne nedostatke
+Član 580
+(1) Kad neko treći pretenduje da na zakupljenoj stvari ili na nekom njenom dijelu vrši neko pravo i obrati se svojim zahtjevom zakupcu, kao i ako samovlasno oduzme stvar od zakupca, ovaj je dužan obavijestiti o tome zakupodavca, izuzev kad to ovaj već zna, inače će odgovarati za štetu.
+(2) Ako se utvrdi da trećem pripada neko pravo koje sasvim isključuje pravo zakupca na upotrebu stvari, ugovor o zakupu se raskida po samom zakonu, a zakupodavac je dužan naknaditi zakupcu štetu.
+(3) U slučaju kad se pravom trećeg samo ograničava zakupčevo pravo, ovaj može, po svom izboru, raskinuti ugovor ili zahtijevati sniženje zakupnine, i u svakom slučaju naknadu štete.
+Odjeljak 3
+Obaveze Zakupca
+Upotreba stvari prema ugovoru
+Član 581
+(1) Zakupac je dužan upotrebljavati stvar kao dobar privrednik, odnosno dobar domaćin.
+(2) On je može upotrebljavati samo onako kako je određeno ugovorom ili namjenom stvari.
+(3) On odgovara za štetu koja nastane upotrebom zakupljene stvari protivno ugovoru ili njenoj namjeni, bez obzira na to da li je stvar upotrebljavao on, ili neko lice koje radi po njegovom nalogu, podzakupac ili koje drugo lice kome je on omogućio da upotrebljava stvar.
+Otkaz zbog upotrebe protivno ugovoru
+Član 582
+Ako zakupac i poslije opomene zakupodavca upotrebljava stvar protivno ugovoru ili njenoj namjeni ili zapušta njeno održavanje, te postoji opasnost znatne štete za zakupodavca, ovaj može otkazati ugovor bez davanja otkaznog roka.
+Otkaz zbog neplaćanja zakupnine
+Član 584
+(1) Zakupodavac može otkazati ugovor o zakupu ako zakupac ne plati zakupninu ni u roku od 15 dana pošto ga je zakupodavac pozvao na plaćanje.
+(2) Ali će ugovor ostati na snazi ako zakupac isplati iznos dužne zakupnine prije nego što mu otkaz bude saopšten.
+Vraćanje zakupljene stvari
+Član 585
+(1) Zakupac je dužan čuvati zakupljenu stvar i po prestanku zakupa vratiti je neoštećenu.
+(2) Stvar se vraća u mjestu u kome je bila predata.
+(3) Zakupac ne odgovara za istrošenost stvari koja nastaje njenom redovnom upotrebom, kao ni za oštećenja koja potiču od njene dotrajalosti.
+(4) Ako je za vrijeme zakupa izvršio kakve promjene na stvari, dužan je vratiti je u stanje u kome je bila kad mu je predata u zakup.
+(5) On može odneti dodatke koje je učinio na stvari ako se mogu odvojiti bez njenog oštećenja, ali ih zakupodavac može zadržati ako mu naknadi njihovu vrijednost u vrijeme vraćanja.
+Odjeljak 4
+Podzakup
+Kad se stvari mogu dati u podzakup
+Član 586
+(1) Ukoliko nije drukčije ugovoreno, zakupac može zakupljenu stvar dati u zakup drugome (podzakup) ili mu je po kom drugom osnovu predati na upotrebu, ali samo ako se time ne nanosi šteta zakupodavcu.
+(2) Zakupac jemči zakupodavcu da će podzakupac upotrebljavati stvar prema ugovoru o zakupu.
+Kad zakupodavac može odbiti dozvolu
+Član 587
+Kad je za davanje zakupljene stvari u podzakup potrebna dozvola zakupodavca, ovaj je može odbiti samo iz opravdanih razloga.
+Otkaz zbog nedozvoljenog podzakupa
+Član 588
+Zakupodavac može otkazati ugovor o zakupu ako je zakupljena stvar data u podzakup bez njegove dozvole, kad je ova prema zakonu ili prema ugovoru potrebna.
+Neposredni zahtjev zakupodavca
+Član 589
+Zakupodavac može, radi naplate svojih potraživanja od zakupca nastalih iz zakupa, zahtijevati neposredno od podzakupca isplatu iznosa koje ovaj duguje zakupcu po osnovu podzakupa.
+Prestanak podzakupa po samom zakonu
+Član 590
+Podzakup prestaje u svakom slučaju kada prestane zakup.
+Prestanak Zakupa
+Protek određenog vremena
+Član 595
+(1) Ugovor o zakupu zaključen za određeno vrijeme prestaje samim protekom vremena za koje je zaključen.
+(2) Isto važi i u slučajevima kad je, u nedostatku volje ugovarača, trajanje zakupa određeno zakonom.
+Prećutno obnavljanje zakupa
+Član 596
+(1) Kad po proteku vremena za koje je ugovor o zakupu bio zaključen, zakupac produži da upotrebljava stvar, a zakupodavac se tome ne protivi, smatra se da je zaključen nov ugovor o zakupu neodređenog trajanja, pod istim uslovima kao i prethodni.
+(2) Obezbjeđenja koja su treća lica dala za prvi zakup prestaju protekom vremena za koje je bio zaključen.
+Otkaz
+Član 597
+(1) Ugovor o zakupu čije trajanje nije određeno niti se može odrediti iz okolnosti ili mjesnih običaja prestaje otkazom koji svaka strana može dati drugoj, poštujući određeni otkazni rok.
+(2) Ako dužina otkaznog roka nije određena ugovorom ili zakonom ili mjesnim običajima, ona iznosi osam dana, s tim da otkaz ne može biti dat u nevrijeme.
+(3) Ako su zakupljene stvari opasne po zdravlje, zakupac može otkazati ugovor bez davanja otkaznog roka, čak i ako je u času zaključenja ugovora to znao.
+(4) Zakupac se ne može odreći prava iz stava 3 ovog člana.
+Propast stvari usljed više sile
+Član 598
+(1) Zakup prestaje ako zakupljena stvar bude uništena nekim slučajem više sile.
+(2) Ako zakupljena stvar bude djelimično uništena ili samo oštećena, zakupac može raskinuti ugovor ili ostati i dalje u zakupu i zahtjevati odgovarajuće sniženje zakupnine.

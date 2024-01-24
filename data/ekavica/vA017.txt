@@ -1,0 +1,108 @@
+Na osnovu Zakona o zaštiti podataka o ličnosti („Službeni glasnik RS”, broj 87/2018) i člana 198. stav 4. Zakona o privrednim društvima („Službeni glasnik RS”, broj 36/2011, 99/2011, 83/2014, - dr. zakon, 5/2015 i 44/2018) Petar Šukara, Gajeva 17/1/7, Novi Sad, LK: 010529149 u funkciji predsednika skupštine “Udruženja računovođa i poreskih savetnika – URIPS”, u daljem tekstu Društvo, Pavla Papa 14, 21000 Novi Sad, PIB: 106423094, MB: 28003285, dana 21.08.2019. donosi:
+Pravilnik O Zaštiti Podataka O Ličnosti
+Svrha I Cilj Pravilnika
+Član 1.
+Pravilnik o zaštiti podataka o ličnosti (u daljem tekstu: Pravilnik) je opšti akt, odnosno glavni dokument koji je donet u svrhu bližeg regulisanja zaštite podataka o ličnosti lica koja se nalaze u okviru organizacije Društva, ili u određenoj vezi sa njim (pre svega, zaposlenih, saradnika, konsultanata i lica angažovanih na drugi način od strane Društva, kao i lica sa kojima Društvo ima uspostavljen određeni vid poslovne saradnje, a čije podatke Društvo obrađuje, npr. korisnika i klijenata), a u skladu sa Zakonom o zaštiti podataka o ličnosti Republike Srbije (Sl. glasnik RS, br. 87/2018).
+Cilj donošenja Pravilnika je da se obezbedi pravna sigurnost i transparentnost u pogledu obrade podataka o ličnosti lica iz stava 1. ovog člana, kao i da se utvrdi pravni osnov, svrha obrade, vrste podataka koje se obrađuju, prava fizičkih lica u pogledu obrade podataka o ličnosti, mere zaštite podataka, itd.
+Pravilnik ustanovljava i obaveze zaposlenih u pogledu zaštite podataka o ličnosti fizičkih lica, u skladu sa zakonom.
+Pojam „zaposleni”, obuhvata, osim zaposlenih u smislu Zakona o radu i lica angažovana na osnovu ugovora o delu, autorskih ugovora, ugovora o pružanju konsultantskih usluga, i slično, a koji ugovori sadrže klauzulu kojom se angažovano lice od strane Društva obavezuje da poštuje odredbe ovog Pravilnika, a čiji tekst je prilog i sastavni deo svakog pojedinačnog ugovora.
+Pojmovi I Skraćenice
+Član 2.
+- Zakon o zaštiti podataka o ličnosti („Službeni glasnik RS”, broj 87/2018, u daljem tekstu: „Zakon o zaštiti podataka”, „ZZPL”);
+- Zakon o radu Republike Srbije („Službeni glasnik RS”, 24/2005, 61/2005, 54/2009, 32/2013, 5/2014, 13/2017 - odluka Ustavnog suda i 113/2017) (u daljem tekstu: „ZoR”);
+- Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti Republike Srbije (u daljem tekstu: „Poverenik”);
+- Podatak o ličnosti je svaki podatak koji se odnosi na fizičko lice čiji je identitet određen ili odrediv, neposredno ili posredno, posebno na osnovu oznake identiteta, kao što je ime i identifikacioni broj, podataka o lokaciji, identifikatora u elektronskim komunikacionim mrežama ili jednog, odnosno više obeležja njegovog fizičkog, fiziološkog, genetskog, mentalnog, ekonomskog, kulturnog i društvenog identiteta;
+- Posebne vrste podataka o ličnosti su podaci kojim se otkriva rasno ili etničko poreklo, političko mišljenje, versko ili filozofsko uverenje ili članstvo u sindikatu, genetski podaci, biometrijski podaci, podaci o zdravstvenom stanju, seksualnom životu ili seksualnoj orijentaciji fizičkog lica;
+- Obrada podataka o ličnosti je svaka radnja ili skup radnji koje se vrše automatizovano ili neautomatizovano sa podacima o ličnosti ili njihovim skupovima, kao što su prikupljanje, beleženje, razvrstavanje, grupisanje, odnosno strukturisanje, pohranjivanje, upodobljavanje ili menjanje, otkrivanje, uvid, upotreba, otkrivanje prenosom, odnosno dostavljanjem, umnožavanje, širenje ili na drugi način činjenje dostupnim, upoređivanje, ograničavanje, brisanje ili uništavanje (u daljem tekstu: obrada);
+- Rukovalac je Društvo kao pravno lice koje u smislu ZZPL određuje svrhu i način obrade podataka o ličnosti.
+- Obrađivač je fizičko ili pravno lice, koje obrađuje podatke o ličnosti u ime rukovaoca.
+Podaci O Ličnosti Koje Obrađuje Rukovalac
+Član 3.
+Društvo može obrađivati sledeće podatke o ličnosti zaposlenih:
+- Ime i prezime, adresa, datum i mesto rođenja, pol, bračno stanje, matični broj, broj lične karte, državljanstvo, broj zdravstvenog osiguranja (LBO);
+- Akademske i profesionalne kvalifikacije: stepen obrazovanja, titule, podaci o veštinama, znanju stranih jezika, obukama, istorija zaposlenja, biografija;
+- Finansijski podaci: broj bankovnog računa, podaci o zaradi i dodatnim naknadama;
+- Podaci o izvršenju radnih obaveza: pozicija, procena nadzornog organa (lica), poslovna e-mail adresa, IP adresa, pristupni kredencijali (npr. korisničko ime i lozinka);
+- Komunikacijski podaci: privatna e-mail adresa, broj telefona, kontakt srodnika za hitne slučajeve, kao i drugi podaci neophodni za izvršenje zakonom propisanih obaveza poslodavca i realizaciju ugovore o radu, odnosno drugog ugovornog odnosa između zaposlenog i Društva.
+- Društvo može obrađivati i određene kategorije posebnih vrsta podataka o ličnosti, poput podataka o zdravstvenom stanju ili podataka o verskom opredeljenju, a u skladu sa članom 17. ZZPL, posebne vrste podataka o ličnosti zaposlenih za svrhu izvršenja obaveza ili primene zakonom propisanih ovlašćenja u oblasti rada, socijalnog osiguranja i socijalne zaštite.
+- Društvo ne obrađuje veći broj ili drugu vrstu ličnih podataka od onih koji su potrebni da bi se ispunila navedena svrha.
+Ukoliko se obrada posebnih vrsta podataka vrši na osnovu saglasnosti lica (na primer, kako bi se prilagodili uslovi obuke zdravstvenom stanju polaznika), ta saglasnost mora biti data u pisanoj formi koja obuhvata detaljne informacije o vrsti podataka koji se obrađuju, svrsi obrade i načinu korišćenja podataka.
+Društvo može obrađivati sledeće podatke o ličnosti korisnika/klijenata:
+- Ime i prezime, naziv poslodavca/institucije/organizacije/obrazovne ustanove koju lice predstavlja ili iz koje dolazi, datum rođenja, mesto rođenja, adresu prebivališta, pol, podatke o akademskim i profesionalnim kvalifikacijama, kontakt e-mail adresu, kontakt telefon,
+- Kao i sve podatke koje klijent pošalje radi dalje obrade a vezane za realizaciju ugovorenih poslova a odnose se na Zakonske ili obligacione odredbe.
+- Društvo može doći u posed većeg broja podataka od strane korisnika/klijenata, njihovom voljom, a obrađivaće se samo oni osnovni u svrhu zaključenja poslovne saradnje.
+Društvo može obrađivati sledeće podatke o ličnosti kandidata za posao:
+- Ime i prezime, datum i mesto rođenja;
+- Akademske i profesionalne kvalifikacije sadržane u radnoj biografiji i motivacionom pismu (stepen obrazovanja, titule, podaci o veštinama, znanju stranih jezika, obukama, lista prethodnih poslodavaca; komunikacijski podaci: e-mail, broj telefona).
+Prilikom raspisivanja konkursa za zaposlenje Društvo ne utvrđuje formu radne biografije već se kandidatu ostavlja da je sam odredi.
+U tom smislu Društvo može doći u posed većeg obima podataka od predstavljenog, voljom kandidata za posao.
+Svi prikupljeni podaci čuvaju se u periodu od 10 godina u svrhu naknadne procene potrebe za angažovanjem kandidata za posao.
+Izvori Podataka O Ličnosti
+Član 4.
+Društvo prikuplja (elektronskim, pisanim ili usmenim putem) podatke o ličnosti direktno od lica na koje se podaci odnose: zaposlenog lica, korisnika ili klijenta.
+Društvo može prikupljati podatke o zaposlenima i kandidatima za posao i iz drugih izvora, pre svega bivših poslodavaca, pod uslovom da se radi o podacima koji su relevantni za zaposlenje.
+Svi podaci, koji nisu nužni za obradu u predstavljene svrhe, biće trajno brisani.
+Svrha Obrade Podataka
+Član 5.
+Društvo obrađuje podatke o ličnosti u svrhe navedene u odredbama člana 6 - 9 ovog Pravilnika.
+Ne obrađuje se više podataka ili širi krug podataka od onih koji su neophodni za ostvarenje navedenih svrha.
+Zapošljavanje i upravljanje ljudskim resursima
+Član 6.
+Društvo obrađuje podatke o ličnosti za potrebe uspostavljanja i realizacije radnog odnosa, uključujući i druge ugovorne odnose po osnovu kojih Društvo angažuje saradnike i konsultante, kao što su podaci za potrebe utvrđivanja adekvatnosti i kvalifikacija kandidata za određena radna mesta, za upravljanje radnim vremenom i odsustvima, za obračun zarada, putnih troškova i dnevnica, za utvrđivanje naknada po osnovu bolovanja i drugih vidova odsustva sa radnog mesta, za procenu napredovanja zaposlenih, za obezbeđivanje dodatnih obuka i edukacija i za disciplinske postupke.
+Poslovne aktivnosti
+Član 7.
+Društvo obrađuje podatke o ličnosti za potrebe upravljanja projektima, organizacije kancelarijskog poslovanja, za plaćanje roba i usluga i poslovni razvoj i za svrhe izveštavanja donatora i naručilaca usluga o realizovanim projektima i za realizaciju obuka i drugih projekata koje Društvo organizuje ili u njima učestvuje, takođe Društvo može slati ponude, reklamni materijal, pozive kao i sva druga obaveštenja.
+Komunikacije, informacione tehnologije i informaciona bezbednost
+Član 8.
+Društvo obrađuje podatke o ličnosti u svrhu upravljanja i održavanja funkcionisanja komunikacijske i informacione mreže, te održavanja informacione bezbednosti.
+Usklađivanje poslovanja sa relevantnim propisima
+Član 9.
+Društvo obrađuje podatke o ličnosti radi ispunjenja pravnih obaveza i usklađivanja poslovanja sa relevantnim pravnim propisima, pre svega iz domena radnog i poreskog zakonodavstva.
+Ustupanje Podataka
+Član 10.
+- Društvo će ustupati lične podatke trećim licima samo za potrebe navedene u nastavku pri čemu će preduzeti sve potrebne mere kako bi se osiguralo da se lični podaci obrađuju i obezbeđuju u skladu sa važećim propisima.
+- Društvo može angažovati treća lica – pružaoce usluga – da vrše pojedine radnje obrade podataka za račun i u ime Društva u kom slučaju, Društvo ima svojstvo rukovaoca, a pružaoci usluga svojstvo obrađivača podataka o ličnosti.
+U ovoj situaciji se obrađivaču ustupaju samo podaci neophodni za ostvarenje svrhe ugovorene obrade, i obrađivači ih ne mogu koristiti za druge svrhe.
+U ovim slučajevima, uslovi obrade podataka i odgovornost za zaštitu podataka definisaće se ugovorom između Društva i obrađivača.
+- Lični podaci ustupiće se javnim organima samo kada je to zakonom propisano.
+- Društvo će ustupati prikupljene podatke svim njegovim povezanim licima, kao i konkretno AKTIVA sistem doo i AKTIVA News$ Edu doo radi slanja edukativnih i reklamnih materijala, ponuda, kao i podataka za zaključenje eventualnih ugovorenih poslovnih aktivnosti.
+- Društvo može ustupati prikupljene podatke i drugim pravnim licima/preduzetnicima/udruženjima radi njihovog povezivanja sa licima čiji su podaci prikupljeni u svrhu najbolje poslovne namere i potencijalno ostvarivanja koristi za obe strane.
+- Svi ustupljeni podaci od strane Društva ne smeju se koristiti bez prethodne saglasnosti Društva za njihovu obradu.
+Rokovi Čuvanja Podataka
+Član 11.
+Podaci o ličnosti neće biti zadržani duže nego što je to neophodno za ostvarenje svrhe za koju su obrađivani.
+Ukoliko je rok čuvanja podataka o ličnosti propisan zakonom, Društvo će zadržati podatke u datom zakonskom roku.
+Nakon ispunjenja svrhe, odnosno isteka zakonom propisanog roka za čuvanje podataka, podaci će biti trajno obrisani.
+U određenim slučajevima, lični podaci se mogu čuvati duži vremenski period, za potrebe ispunjenja zakonskih obaveza ili za uspostavljanje, vršenje ili odbranu pravnog zahteva, u skladu sa važećim zakonima.
+Prava Lica U Pogledu Zaštite Podataka O Ličnosti
+Član 12.
+- Pravo na informisanje
+Zaposleni i druga lica na koja se podaci odnose imaju pravo da budu informisani o svojim pravima, obavezama i o pitanjima koja se odnose na obradu njihovih podataka o ličnosti, u smislu ZZPL čak i pre nego što počne obrada tih podataka.
+- Pravo na pristup
+Zaposleni i druga lica na koja se podaci odnose imaju pravo da zahtevaju od Društva da omogući pristup njihovim podacima o ličnosti, odnosno pravo da utvrde predmet, način, svrhu i obim obrade tih podataka, kao i na postavljanje pitanja o samoj obradi.
+- Pravo na ispravku i dopunu
+Nakon izvršenog uvida, lica na koja se podaci odnose imaju pravo da od Društva zahtevaju ispravku, dopunu, odnosno ažuriranje obrađivanih podataka o ličnosti.
+- Pravo na brisanje
+Lice na koje se podaci odnose može zahtevati od Društva brisanje njihovih podataka o ličnosti u skladu sa ZZPL, kao i prekid, odnosno privremenu obustavu obrade.
+- Pravo na povlačenje pristanka za obradu
+U situacijama kada je pravni osnov za obradu ličnih podataka saglasnost lica na koje se podaci odnose, to lice ima pravo da u bilo kom trenutku povuče datu saglasnost, u pisanom obliku.
+- Pravo na ograničenje obrade
+Lice na koje se podaci odnose, shodno ZZPL, ima pravo da zahteva od rukovaoca da se obrada njegovih podataka o ličnosti ograniči.
+- Pravo na prenosivost podataka
+Lice na koje se podaci odnose može da zahteva prenošenje podataka o ličnosti drugom rukovaocu, kada je to tehnički izvodljivo, odnosno kada se lični podaci, koji su predmet zahteva za prenošenje, nalaze u strukturiranom i mašinski čitljivom formatu.
+- Pravo na prigovor i automatizovano donošenje pojedinačnih odluka
+Ako smatra da je to opravdano u odnosu na posebnu situaciju u kojoj se nalazi, lice na koga se podaci odnose ima pravo da u svakom trenutku podnese rukovaocu prigovor na obradu njegovih podataka, kao i da se na to lice ne primenjuje odluka doneta isključivo na osnovu automatizovane obrade, uključujući i profilisanje, ako se tom odlukom proizvode pravne posledice po to lice ili ta odluka značajno utiče na njegov položaj.
+Lice na koje se podaci odnose ima pravo da se protivi obradi ličnih podataka u cilju direktnog marketinga i zatraži ograničenje obrade u nekim drugim slučajevima.
+U slučaju da lice na koje se podaci odnose nije zadovoljno odgovorom Društva na zahtev za ispunjavanje prava u pogledu zaštite ličnih podataka, ima pravo da podnese žalbu Povereniku za informacije od javnog značaja i zaštitu podataka o ličnosti (https://www.poverenik.rs/sr/).
+Obaveze Zaposlenih
+Član 13.
+Zaposleni su obavezni da ustupe svoje lične podatke koji su neophodni da Društvo ispunjava svoje zakonske obaveze, kao i da obavlja tekuće poslovanje.
+Zaposleni su obavezni da poštuju i štite lične podatke koje obrađuju tokom rada, u skladu sa kadrovskim, tehničkim i organizacionim merama koje propisuje Rukovalac, odnosno poslodavac, a u cilju zaštite integriteta podataka o ličnosti i prava lica na koje se ti podaci odnose.
+Zaposleni mogu obrađivati samo one podatke kojima im je dozvoljen pristup, u skladu sa zadacima koje obavljaju.
+Zaposleni nikada, ni u kom slučaju, čak ni nakon prestanka rada ili bilo kog drugog odnosa iz Zakona o radu u Društvu ili njegovim povezanim licima, u roku od 10 godina sve informacije koje je prikupilo ne sme koristiti radi pribavljanja lične koristi ili koristi za druga lica/privredna društva.
+Zaposleni će sve podatke i informacije koje dobiju od Društva i povezanih lica čuvati u strogoj tajnosti osim eventualno javno dostupnih podataka.
+Prelazne I Završne Odredbe
+Član 14.
+Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja na oglasnoj tabli Društva.
+Predsednik Skupštine
+Petar Šukara

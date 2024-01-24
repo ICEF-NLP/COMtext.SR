@@ -1,0 +1,117 @@
+Na osnovu člana 93 b stav 4. Zakona o budžetskom sistemu („Službeni glasnik RS”, br. 54/09, 73/10, 101/10, 101/11, 93/12, 62/13, 63/13 – ispravka, 108/13, 142/14, 68/15–dr. zakon, 103/15, 99/16, 113/17, 95/18, 31/19, 72/19, 149/20, 118/21 i 118/21–dr. zakon) i člana 42. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 − ispravka, 101/07, 65/08, 16/11, 68/12–US, 72/12, 7/14−US, 44/14 i 30/18–dr. zakon), Vlada donosi Uredbu o centralizovanom obračunu primanja zaposlenih, izabranih i postavljenih lica kod korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje
+Član 1.
+Ovom uredbom bliže se uređuju:
+1) minimalne tehničke i funkcionalne karakteristike informacionog sistema za centralizovani obračun primanja;
+2) vrsta, oblik i sadržina podataka, kao i način i rokovi za dostavljanje podataka od strane korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje;
+3) način, postupak i rokovi za obradu podataka, kao i postupak i rokovi za dostavljanje obračuna primanja korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje;
+4) odgovornost lica za dostavljanje i obradu podataka; popunjavanje, sadržinu, održavanje, zaštitu i čuvanje baze podataka o zaposlenim, izabranim i postavljenim licima kod korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje u vezi sa njihovim primanjima;
+5) način i rokovi izveštavanja iz baze podataka o zaposlenim, izabranim, i postavljenim licima kod korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje u vezi sa njihovim primanjima;
+6) dinamika uvođenja korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje u centralizovani sistem obračuna primanja;
+7) druga pitanja od značaja za pravilan i blagovremen centralizovani obračun primanja korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje.
+Član 2.
+Pojedini izrazi koji se koriste u ovoj uredbi imaju sledeće značenje:
+1) sistemom, u smislu ove uredbe, smatra se sistem centralizovanog obračuna primanja (u daljem tekstu: Sistem), kroz koji se vrši obračun primanja zaposlenih, izabranih i postavljenih lica kod korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje;
+2) subjektom, u smislu ove uredbe, smatra se korisnik budžetskih sredstava i korisnik sredstava organizacija za obavezno socijalno osiguranje u Republici Srbiji (u daljem tekstu: Subjekt), kod kojih se primanja zaposlenih, izabranih i postavljenih lica obračunavaju kroz Sistem;
+3) odgovornim licem, u smislu ove uredbe, smatra se fizičko lice koje je od Subjekta ovlašćeno za unos ili uvoz i prijem podataka iz Sistema u vezi sa obračunom primanja;
+4) primanjima, u smislu ove uredbe, smatraju se sva lična primanja zaposlenih, imenovanih ili postavljenih lica u Subjektu kome se vrši obračun primanja korišćenjem Sistema, u skladu sa zakonom;
+5) obračunom primanja, u smislu ove uredbe, smatra se postupak automatske obrade podataka o primanjima u cilju generisanja elektronskih zbirki podataka neophodnih za obračun primanja u skladu sa propisima kojima je regulisana isplata primanja, evidentiranje poslovnih promena i izveštavanje u skladu sa relevantnim propisima;
+6) autorizovanim licem, u smislu ove uredbe, smatra se fizičko lice koje je autentifikovano kao lice ovlašćeno za pristup Sistemu, prenos i dobijanje podataka i izveštaja iz ove uredbe;
+7) nadležnim organom, u smislu ove uredbe, smatra se organ državne uprave koji je nadležan da prati i utvrđuje stanje, kao i preduzima mere ili predlaže Vladi preduzimanje mera u oblastima kojima pripadaju subjekti iz tačke 2) ovog člana;
+8) jedinstvenom analitičkom platformom, u smislu ove uredbe, smatra se softversko rešenje za analitiku, planiranje i izveštavanje o rashodima i organizaciono-kadrovskim promenama, koje imaju Subjekti iz tačke 2) ovog člana u vezi sa primanjima zaposlenih, izabranih i postavljenih lica koja se obračunavaju kroz Sistem.
+Tehničke i funkcionalne karakteristike informacionog sistema za centralizovani obračun primanja
+Član 3.
+Sistem centralizovanog obračuna primanja predstavlja softversko-poslovno rešenje organizovano na modularni način, na srpskom jeziku.
+Modularna organizacija iz stava 1. ovog člana podrazumeva korišćenje nezavisnih i komplementarnih, različitih modula u procesu centralizovanog obračuna primanja, kao i mogućnost nadogradnje ili uvođenja jednog ili više novih modula u slučaju potrebe.
+Sistem omogućava centralizovani sistem obračuna primanja zaposlenih, izabranih i postavljenih lica i obezbeđuje:
+1) organizaciono upravljanje, koje omogućava prikaz i analizu organizacione strukture, olakšava planiranje kadrovskih resursa i upravljanje internim organizacijama i njihovim promenama, kao i čuvanje, odnosno skladištenje svih istorijskih podataka koji su uneti u sistem;
+2) kadrovsku administraciju, koja podržava proces upravljanja kadrovima i obradu podataka o zaposlenim, izabranim, i postavljenim licima kod Subjekta u vezi sa njihovim primanjima, uz mogućnost pristupa ili ažuriranja podataka u realnom vremenu i automatsko evidentiranje svakog unosa, uvoza ili izmene podataka u cilju vođenja ažurne evidencije svih unosa, uvoza ili izmena;
+3) upravljanje radnim vremenom kroz beleženje vremenskih podataka o zaposlenim, izabranim i postavljenim licima kod Subjekta u vezi sa njihovim primanjima;
+4) automatski obračun primanja u više delova podoban za periodična plaćanja, odbitke, uključujući poreske i obaveze za doprinose za obavezno socijalno osiguranje, i druge obustave iz primanja zaposlenih, izabranih i postavljenih lica kod Subjekta, kreiranje osnovnih i korektivnih obračuna u toku meseca, kao i kreiranje zbirki podataka neophodnih za isplatu primanja i evidentiranje poslovnih promena elektronskim putem;
+5) automatsko kreiranje prijava, izveštaja i drugih obrazaca utvrđenih propisima ili na drugi način u skladu sa specifičnim potrebama ili na zahtev nadležnog organa;
+6) analizu i kontrolu podataka u skladu sa specifičnim potrebama ili na zahtev nadležnog organa.
+Informacioni sistem za centralizovani obračun primanja postavlja se, radi i održava na odgovarajućoj hardverskoj infrastrukturi koja obezbeđuje uredno funkcionisanje sistema.
+Informacioni sistem za centralizovani obračun primanja omogućava direktnu i bezbednu razmenu podataka elektronskim putem i poseduje odgovarajući sistem zaštite od neovlašćene upotrebe i gubitka podataka.
+Vrsta, oblik i sadržina podataka koji se dostavljaju
+Član 4.
+Subjekat preko Sistema dostavlja Upravi za trezor sledeće vrste podataka:
+1) podatke o organizacionom upravljanju;
+2) podatke o kadrovskoj administraciji;
+3) podatke za obračun primanja.
+Podaci o organizacionom upravljanju predstavljaju skup podataka o organizacionoj strukturi i sistematizaciji radnih mesta kod Subjekta, kao i o promenama u vezi sa tim podacima.
+Podaci o kadrovskoj administraciji predstavljaju skup podataka u vezi sa zaposlenim, izabranim i postavljenim licima koji uključuju njihove matične i kadrovske podatke, kao i o promenama u vezi sa tim podacima.
+Podaci za obračun primanja predstavljaju skup podataka o radnom vremenu, primanjima, podacima o banci u kojoj zaposlena, izabrana i postavljena lica kod Subjekta imaju lični račun, kao i o promenama u vezi sa tim podacima.
+Podaci iz stava 1. ovog člana čuvaju se, unose, uvoze, ažuriraju i razmenjuju u elektronskom formatu.
+Član 5.
+Podaci o organizacionom upravljanju iz člana 4. stav 2. ove uredbe sadrže:
+1) elemente za formiranje, izmenu ili ukidanje organizacionih jedinica u okviru organizacione strukture (organizacione delove i hijerarhiju između delova) kod Subjekta, koji obuhvataju naziv, oblast, adresu, vrstu, delokrug rada, kadrovske oblasti i podoblasti organizacione jedinice;
+2) elemente za formiranje, izmenu ili ukidanje sistematizacije radnih mesta i pozicija kod Subjekta, koji obuhvataju naziv i opis poslova, svrhu radnog mesta, položaj, zvanje ili vrstu radnog mesta, stepen uvećanja staža, šifru registra zaposlenih, izabranih i postavljenih lica, kompetencije po oblastima rada, koeficijente, zahtevani stepen stručne spreme, neophodno obrazovanje i stepen stručne spreme, zahtevane državne ili stručne ispite, licence, sertifikate, neophodno radno iskustvo, kao i druge elemente u skladu sa relevantnim propisima ili specifičnim potrebama Subjekta.
+Podaci o kadrovskoj administraciji iz člana 4. stav 3. ove uredbe sadrže:
+1) elemente za formiranje, izmenu ili ukidanje kadrovskih brojeva zaposlenih, izabranih i postavljenih lica;
+2) elemente za formiranje, izmenu ili ukidanje informacija o zaposlenim, izabranim i postavljenim licima, koji obuhvataju kadrovske brojeve, radni status, lične podatke kao što su ime i prezime, JMBG, lični broj osiguranog lica, pol, datum, mesec i godinu rođenja, adresu prebivališta ili boravišta, podatke o načinu komunikacije u vezi sa primanjima kao što su broj telefona ili adresa elektronske pošte, podatke o položaju i/ili radnom mestu, aktu zaposlenja, imenovanja ili biranja, periodu i stepenu angažovanja, elemente osnovnih primanja potrebnih za obračun primanja, informacije o banci i broju računa kod banke, informacije o radnom stažu, informacije o obrazovanju i stepenu stručne spreme, i informacije o specifičnim legitimacijama zaposlenog, izabranog ili postavljenog lica.
+Podaci iz stava 2. tačka 2) ovog člana mogu se dopuniti pojedinim ličnim podacima članova uže porodice ili drugih lica, u meri u kojoj su takvi podaci neophodni za potrebe obračuna primanja zaposlenih, izabranih ili postavljenih lica, ili za potrebe ostvarivanja prava članova uže porodice ili drugih lica u vezi sa radom ili angažovanjem zaposlenih, izabranih ili postavljenih lica kod Subjekta.
+Podaci za obračun primanja iz člana 4. stav 4. ove uredbe sadrže:
+1) elemente za određivanje učestalosti, perioda i datuma isplate primanja zaposlenih, izabranih ili postavljenih lica;
+2) elemente o planiranom i ostvarenom radnom vremenu, redovnom i prekovremenom radu, radu noću ili radu u smenama, preraspodeli radnog vremena, odmorima i odsustvima, podatke neophodne za izračunavanje naknade zarade, naknade troškova i drugih primanja saglasno propisima ili drugim opštim ili pojedinačnim aktima, podatke o periodičnim ili dodatnim primanjima, elemente neophodne za obustave iz primanja ili plaćanje članarina, samodoprinosa ili uplata u fondove.
+Način i rokovi za dostavljanje podataka
+Član 6.
+Podatke iz člana 4. ove uredbe, odgovorno lice blagovremeno dostavlja direktnim unosom ili uvozom podataka u Sistem u odgovarajućem elektronskom formatu.
+Subjekat i odgovorno lice dužni su da obezbede da podaci iz člana 4. ove uredbe budu tačno, potpuno i ažurno uneti ili uvezeni u odgovarajućem elektronskom formatu u Sistem – najkasnije pet dana pre planirane isplate primanja.
+Način, postupak i rokovi za obradu podataka i postupak i rokovi za dostavljanje obračuna primanja subjektima
+Član 7.
+Elektronskom obradom podataka iz člana 4. ove uredbe Sistem vrši kontrolu unetih podataka i evidentira eventualne greške.
+Ako se prilikom obrade podatka evidentira greška iz stava 1. ovog člana, Uprava za trezor bez odlaganja šalje Subjektu obaveštenje za ispravku te greške.
+Član 8.
+Uprava za trezor dostavlja obračun primanja Subjektu u Sistemu najkasnije na dan isplate primanja.
+Popunjavanje, sadržina i održavanje baze podataka o zaposlenima, izabranim i postavljenim licima u vezi sa njihovim primanjima
+Član 9.
+Ministarstvo nadležno za poslove finansija uspostavlja, vodi, čuva i održava bazu podataka o zaposlenim, izabranim i postavljenim licima u cilju prikupljanja i čuvanja podataka iz člana 4. ove uredbe (u daljem tekstu: baza podataka).
+Baza podataka uspostavlja se, čuva i ažurira u Sistemu, unosom ili uvozom podataka iz člana 4. ove uredbe od strane odgovornih lica kod Subjekata.
+Način i rokovi izveštavanja iz baze podataka o zaposlenima, izabranim i postavljenim licima kod Subjekata u vezi sa njihovim primanjima
+Član 10.
+Izveštavanje u vezi sa primanjima Subjekata vrši se dostavljanjem, prenosom u formi elektronskih izveštaja u odgovarajućem formatu ili omogućavanjem kreiranja i preuzimanja izveštaja direktno iz Sistema.
+Izveštaji iz stava 1. ovog člana obuhvataju prijave, izveštaje i druge obrasce utvrđene propisima ili skupove podataka iz Sistema u drugoj formi na način i u skladu sa specifičnim potrebama ili na zahtev nadležnog organa.
+Izveštaji mogu biti standardni i zakonski izveštaji, kao i posebni izveštaji.
+Standardni izveštaji predstavljaju izveštaje putem kojih autorizovana lica dobijaju preseke podataka o primanjima koji se nalaze u bazi podataka.
+Zakonski izveštaji predstavljaju obrasce i izveštaje o primanjima zaposlenih, izabranih i postavljenih lica, koji su neophodni za izmirenje zakonskih obaveza i ostvarenja zakonskih prava u skladu sa propisima.
+Ministarstvo nadležno za poslove finansija omogućava pristup ili dostavlja izveštaje iz st. 4. i 5. ovog člana u roku, u skladu sa propisima, ili bez odlaganja na osnovu zahteva nadležnog organa.
+Član 11.
+Posebni izveštaji su svi izveštaji koji ne spadaju u izveštaje iz člana 10. st. 4. i 5. ove uredbe, a koji se sačinjavaju na osnovu specifičnih potreba i na zahtev nadležnog organa.
+Podaci na osnovu kojih se sačinjavaju posebni izveštaji su generisani iz jedinstvene analitičke platforme i namenjeni su planiranju, upravljanju i kontroli rashoda i organizaciono-kadrovskih promena koje imaju Subjekti u vezi primanja koja se obračunavaju kroz Sistem.
+Ministarstvo nadležno za poslove finansija omogućava pristup ili dostavlja izveštaje iz stava 1. ovog člana na osnovu zahteva nadležnog organa u roku ne kraćem od sedam dana od dana prijema zahteva.
+Zaštita i čuvanje Sistema i baze podataka o zaposlenima, izabranim i postavljenim licima u vezi sa njihovim primanjima
+Član 12.
+Zaštita Sistema i baze podataka vrši se u skladu sa propisima.
+Ministarstvo nadležno za poslove finansija vrši čuvanje, zaštitu i održavanje Sistema i baze podataka u okviru Sistema.
+Održavanje i popravka računarske opreme u vezi sa Sistemom, vrši se isključivo pod nadzorom ovlašćenih lica u ministarstvu nadležnom za poslove finansija.
+U slučaju povlačenja iz upotrebe računarske opreme u vezi sa Sistemom, svi podaci prethodno moraju biti trajno i sigurno izbrisani.
+Pristup Sistemu i bazi podataka vrši se putem autentifikacije i autorizacije.
+Autorizacija predstavlja proces omogućavanja prava pristupa i dozvoljenih operacija u Sistemu za autorizovano lice.
+Autentifikacija predstavlja proces utvrđivanja identiteta lica koje želi da pristupi Sistemu.
+Ministarstvo nadležno za poslove finansija obezbeđuje:
+1) zaštitu od neovlašćenog pristupa Sistemu, njegovog neovlašćenog korišćenja ili manipulacije bazom podataka od strane internih i eksternih korisnika;
+2) zaštitu integriteta podataka iz baze podataka, njihovu raspoloživost i neovlašćeni uvid u poverljive podatke;
+3) zaštitu Sistema i baze podataka od virusa i ostalih oblika malicioznih kodova;
+4) siguran prenos podataka iz Sistema internim i eksternim korisnicima;
+5) čuvanje podataka iz baze podataka i upravljanje sigurnosnim kopijama baze podataka u okviru Sistema;
+6) kontinuitet aktivnosti Sistema u slučaju požara, poplave, zemljotresa ili druge nepogode koja se smatra rezultatom više sile i koja dovodi do neuobičajenog prekida u radu Sistema;
+7) povraćaj sačuvanih podataka u slučaju gubitka, oštećenja ili uništenja računarske opreme Sistema;
+8) testiranje Sistema radi otkrivanja sigurnosnih problema na redovnoj osnovi i nakon instaliranja novih verzija Sistema;
+9) instaliranje softverske nadogradnje radi uklanjanja sigurnosnih problema koji se ustanove na Sistemu ili na povezanom softveru;
+10) praćenje sigurnosnih incidenata u Sistemu radi preduzimanja korektivnih mera;
+11) upravljanje sigurnosnim incidentima, edukaciju i obuku svih autorizovanih lica radi sticanja potrebnih znanja o čuvanju i sigurnosti podataka;
+12) održavanje računarske opreme Sistema.
+Ministarstvo nadležno za poslove finansija obezbeđuje fizičku zaštitu računarske opreme u vezi sa Sistemom i dužno je da obezbedi formiranje sekundarne lokacije Sistema.
+Sekundarna lokacija Sistema mora biti udaljena od mesta na kome se nalazi primarna lokacija Sistema.
+Lokacije iz st. 9. i 10. ovog člana moraju biti na adekvatan način zaštićene od požara i poplava i moraju imati 24-satni bezbednosni sistem nadzora i zaštite.
+Pristup lokacijama na kojima se nalazi računarska oprema u vezi sa Sistemom imaju samo ovlašćena lica.
+Dinamika uvođenja Subjekata u Sistem
+Član 13.
+Subjekti se uvode u Sistem počevši od prvog kvartala 2022. godine, osim ustanova obrazovanja (osnovne i srednje škole i učenički domovi) Republike Srbije koje se uvode u Sistem u trećem kvartalu 2022. godine i jedinica lokalne samouprave i njihovih indirektnih korisnika i ustanova zdravstva Republike Srbije koji se uvode u Sistem u četvrtom kvartalu 2023. godine.
+Stupanje na snagu i početak primene
+Član 14.
+Ova uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.
+05 broj 110 - 12427/2021
+U Beogradu, 29. decembra 2021. godine
+Vlada
+Predsednik,
+Ana Brnabić, s.r.

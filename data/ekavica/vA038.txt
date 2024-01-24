@@ -1,0 +1,110 @@
+Ugovor o uslugama izrade web sajta
+Ovaj Ugovor o uslugama izrade web sajta (u daljem tekstu: Ugovor) zaključen je 06.07.2011. godine u Beogradu između:
+1. "INTERNET SOLUTIONS” Samostalna radnja za marketing Goran Ćirković PR Novi Beograd, Gandijeva 132/58A, matični br. 60828377, PIB 104669647, tekući račun br. 265-1040310001028-78 kod Raiffeisen banke a.d. Beograd, koju zastupa osnivač Goran Ćirković (u daljem tekstu: Izvršilac),
+i
+2. Advokatska kancelarija “Radulović” iz Beograda, koga zastupa Nataša Radulović-Dimović (u daljem tekstu: Naručilac).
+U daljem tekstu ovog Ugovora zajednički naziv za Izvršioca i Naručioca je Ugovorne strane, a pojedinačno Ugovorna strana.
+Definicije U Ugovoru
+Internet – globalna informativno-računarska mreža.
+Domen – tekstualna oznaka za adresu web sajta u vlasništvu Naručioca,
+Pomoćni domen – privremena lokacija na serveru Izvršioca,
+Server – web hosting, računar, odnosno prostor na hard disku ili memoriji računara u stalnoj vezi s Internetom u vlasništvu Naručioca.
+Web sajt – multimedijalna informacija koja može da sadrži tekst, zvuk, fotografije, video i ostala grafička rešenja, na serveru a do koje se može videti putem Interneta, preko domena.
+1. Predmet Ugovora
+1.1 Predmet ovog Ugovora je usluga izrade web sajta od strane Izvršioca za potrebe Naručioca, a sve prema prihvaćenoj ponudi Izvršioca od 22.06.2011. godine i računu 2011-74, koji su sastavni delovi ovog Ugovora (u daljem tekstu: Ponuda).
+Izrada web sajta uključuje sve elemente i funkcionalnosti koje se nalaze u Ponudi.
+Registracija i zakup domena i servera nisu predmet ovog Ugovora.
+1.2 U slučaju da odredbe Ponude nisu u saglasnosti sa odredbama ovog Ugovora primenjivaće se odredbe ovog Ugovora.
+1.3 Izvršilac ima pravo da ne prihvati ili otkaže izradu web sajta ukoliko se sadržaj istog krši sa njegovim moralnim načelima ili predstavlja kriminalnu radnju u okvirima važećih zakona.
+2. Obaveze Naručioca
+2.1 Naručilac ima obavezu da:
+2.1.1 Izvršiocu plati ugovorenu cenu za izvršene usluge na način i pod uslovima utvrđenim ovim Ugovorom.
+2.1.2 Izvršiocu dostavi kompletan materijal za izradu web sajta u elektronskom formatu (u daljem tekstu: Materijal) i to na sledeći način:
+- Tekst u skladu sa UTF-8 standardom,
+- Fotografije u jednom od sledećih formata JPG, TIF ili PNG, vektore u EPS ili Al formatu,
+- Audio materijal u MP3 formatu.
+Rok za predaju kompletnog Materijala i strukture web sajta koji Naručilac dostavlja Izvršiocu je 10 (deset) dana od dana zaključenja ovog Ugovora i svako kašnjenje prilikom dostavljanja Materijala uslovljava pomeranje krajnjeg roka za izradu web sajta.
+Ukoliko Materijal nije u odgovarajućem formatu iz tačke 2.1.3 ovog Ugovora Izvršilac zadržava pravo da takav Materijal ne koristi za izradu web sajta, o čemu je dužan da najkasnije sledećeg dana od dana prijema takvog Materijala obavesti Naručioca.
+Ukoliko to zahteva Naručilac, Izvršilac može izvršiti dodatnu obradu Materijala koji nije u odgovarajućem formatu, o čemu će saglasno utvrditi cenu ove dodatne usluge.
+Naručilac svojim potpisom na ovom Ugovoru garantuje moralnom, materijalnom i krivičnom odgovornošću da je on vlasnik dostavljenog Materijala, i da taj Materijal nije pod zaštitom kopiranja od strane trećih lica.
+Naručilac daje pravo Izvršiocu da Materijal modifikuje u cilju izrade web sajta koja je predmet ovog Ugovora.
+2.1.3 Sve promene svojih podataka, a koje nastupe posle zaključenja Ugovora, bez odlaganja saopšti Izvršiocu.
+3. Obaveze Izvršioca
+3.1 Izvršilac ima obavezu da:
+3.1.1 Web sajt koji je predmet ovog Ugovora i Ponude izradi u skladu sa zahtevom Naručioca i važećim standardima za ovu vrstu usluga.
+3.1.2 Prihvati sve prigovore da kvalitet izrađenog web sajta koji je predmet ovog Ugovora nije u skladu sa Ponudom u skladu sa tačkama 4.3 i 4.4 ovog Ugovora.
+4. Rok I Reklamacija
+4.1 Krajnji rok za potpuno i kvalitetno izvršenje usluga izrade web sajta koje su predmet ovog Ugovora iznosi 30 (deset) dana od dana uplate avansa od strane Naručioca.
+4.2 Ukoliko Naručilac, u toku izvršenja izrade web sajta od strane Izvršioca, zahteva izmene i/ili dopune Ponude, kojima se povećava ili menja obim ugovorenih usluga, smatraće se da je Naručilac dao ponudu za zaključenje aneksa ovog Ugovora, o čemu će se Ugovorne strane zajednički dogovoriti i odrediti novi rok i cenu za izvršenje usluga.
+4.3 Naručilac ima pravo na prigovor da kvalitet izrađenog web sajta koji je predmet ovog Ugovora nije u skladu sa Ponudom u roku od 10 (deset) dana od dana izvršenja usluga iz tačke 1.1 Ugovora.
+4.4 Ukoliko Naručilac istakne prigovor po isteku roka navedenog u prethodnoj tački ovog Ugovora, ili istakne prigovor koji je nije u skladu sa Ponudom, smatraće se da je Naručilac dao zahtev za zaključenje aneksa ovog Ugovora, o čemu će se Ugovorne strane zajednički dogovoriti i odrediti novi rok i cenu za izvršenje usluga.
+Početak rada na dorađivanju web sajta izvan ponudom definisane funkcionalnosti može početi tek kada je Izvršilac po svom planu rada saglasan prihvati taj dodatni zahtev.
+4.5 Nepoštovanje roka izrade web sajta od strane Izvršioca sankcioniše se umanjenjem ukupnog iznosa usluga za 5,00 (pet) EUR po datumu kašnjenja.
+5. Cena
+5.1 Cena usluge iz tačke 1.1 Ugovora iznosi ukupno 30 dinara.
+5.2 Cena usluge je fiksna i ne može se menjati jednostrano tokom trajanja ovog Ugovora.
+6. Način Plaćanja
+6.1 Ugovorne strane su saglasne da se plaćanje Izvršiocu od strane Naručioca ukupno ugovorenog iznosa iz tačke 4.1. ovog Ugovora, izvrši na sledeći način:
+- 50% iznosa - avansno u roku od 2 dana od dana potpisivanja Ugovora po ispostavljenoj profakturi od strane Izvršioca
+- ostatak od 50% iznosa – u roku od 10 dana od dana izvršenja usluga iz tačke 1.1 Ugovora po ispostavljenoj fakturi od strane Izvršioca.
+6.2 Naručilac će plaćanje izvršiti na tekući račun Izvršioca br. 265-1040310001028-78 koji se vodi kod Raiffeisen banke a.d. Beograd.
+6.3 U slučaju kašnjenja u plaćanju fakture, obračunavaće se zakonska zatezna kamata.
+7. Način Primopredaje Usluga
+7.1 Najkasnije do isteka krajnjeg roka za izvršenje usluga u skladu sa tačkom 3.1 ovog Ugovora, Izvršilac se obavezuje da web sajt koji je izradio u skladu sa ovim Ugovorom i Ponudom, postavi na pomoćnom domenu i serveru Izvršioca i omogući Naručiocu pristup web sajtu, kao i da o tome pismeno obavesti Naručioca.
+7.2 Najkasnije u roku od 3 (tri) radna dana od dana kada Naručilac uplati ostatak od 50% od ugovorene cene u skladu sa tačkom 5.1 ovog Ugovora, Izvršilac se obavezuje da web sajt koji je izradio u skladu sa ovim Ugovorom i Ponudom postavi na server i domen Naručioca, i omogući Naručiocu potpuni pristup.
+7.3 Ispunjenjem prethodne obaveze Naručilac postaje vlasnik autorskog dela na izrađenom web sajtu dizajna i sadržaja sajta.
+7.4.
+Naručilac ne može kopirati izvorni kod programiranja CMS sistema admin panela web sajta, umnožavati ga ili prodavati trećim licima bez saglasnosti Izvršioca.
+8. Viša Sila
+8.1 Dejstvo više sile se smatra za slučaj koji oslobađa od odgovornosti za izvršavanje svih ili nekih ugovorenih obaveza i za naknadu štete za delimično ili potpuno neizvršenje ugovorenih obaveza – onu Ugovornu stranu kod koje je nastupio slučaj više sile, ili obe Ugovorne strane kada je kod obe Ugovorne strane nastupio slučaj više sile, a izvršenje obaveza koje je onemogućeno zbog dejstva više sile odlaže se za vreme njenog trajanja.
+8.2 Pod dejstvom više sile se podrazumeva naročito sledeće: požar, poplava, zemljotres, ratno stanje, mobilizacija, neprijateljsko delovanje, pobuna, štrajk (pod kojim se ne podrazumeva štrajk Izvršioca i/ili Naručioca), sabotaža, epidemija, saobraćajna i prirodna katastrofa, uvođenje embarga, blokade ili sankcije od strane organa ili organizacija međunarodne zajednice ili više država, akt organa međunarodne zajednice uperen protiv bilo koje od Ugovornih strana, blokade organizovane od trećih lica, ili nastupanje drugih događaja koji se ne mogu pripisati krivici jedne od Ugovornih strana ili obema Ugovornim stranama, a koji u potpunosti ili delimično sprečavaju ili onemogućavaju jednu od Ugovornih strana ili obe Ugovorne strane da izvrše ugovorne obaveze, a Ugovorna strana ili Ugovorne strane ih nisu mogle predvideti ili izbeći.
+8.3 Ugovorna strana kojoj je izvršavanje ugovornih obaveza onemogućeno usled dejstva više sile je u obavezi da odmah, bez odlaganja, pisanim putem obavesti drugu Ugovornu stranu o nastanku ovih okolnosti i njihovom procenjenom ili očekivanom trajanju, uz dostavljanje dokaza o postojanju više sile.
+8.4 Ugovorna strana kod koje je nastupio slučaj više sile, dužna je da preduzme sve potrebne radnje radi otklanjanja posledica koje onemogućavaju izvršavanje njenih ugovornih obaveza, da obaveštava drugu Ugovornu stranu koliko će trajati prepreke prouzrokovane višom silom u odnosu na izvršavanje ugovornih obaveza, kao i da drugu Ugovornu stranu odmah obavesti o prestanku dejstva više sile.
+Ova klauzula se na odgovarajući način primenjuje i kada je slučaj više sile nastupio kod obe Ugovorne strane.
+8.5 Za vreme trajanja više sile svaka Ugovorna strana snosi svoje troškove.
+8.6 Međusobno obaveštavanje Ugovornih strana u slučaju nastupanja više sile, vrši se isključivo u pisanoj formi.
+9. Ništavost Klauzula Ugovora
+9.1 Kad god je to moguće, svaka klauzula ovog Ugovora će se tumačiti tako da ostane na snazi prema važećim propisima.
+9.2 Ako je neka klauzula ovog Ugovora ništava po važećim propisima, takva klauzula će biti nevažeća samo u meri te ništavosti, a preostale klauzule Ugovora ostaju na snazi.
+9.3 U slučaju ništavosti, Ugovorne strane će voditi pregovore u dobroj veri kako bi izmenile i dopunile ovaj Ugovor u meri neophodnoj da se sprovede njegova svrha.
+10.
+Zaštita Poverljivih Podataka
+10.1 Ugovorne strane se obavezuju da sve informacije koje im budu dostavljene u toku realizacije ovog Ugovora smatraju strogo poverljivim.
+Izvršilac se obavezuje da sve informacije o Naručiocu pribavljene u toku rada smatra strogo poverljivim i nakon isteka ovog Ugovora.
+Izvršilac je dužan da kao poslovnu tajnu trajno čuva svaki svaki dokument ili informaciju, do koje dođe za vreme trajanja Ugovora, a koja se odnosi na bilo koji segment poslovanja Naručioca.
+10.2 Svaka Ugovorna strana je odgovorna za svako neovlašćeno davanje informacije i podataka u vezi sa prethodnim stavom i dužan je da nadoknadi svaku štetu koja po ovom osnovu nastane za drugu Ugovornu stranu, izuzev:
+10.2.1 ako su odobreni za objavu na osnovu pisanog ovlašćenja druge Ugovorne strane,
+10.2.2 ako su obelodanjeni shodno nalogu suda, ili nalogu organa državne uprave, ili po sili zakona.
+11.
+Obaveštenja
+11.1 Ugovorne strane su dužne da jedna drugu obaveštavaju o svakoj i o svim promenama koje mogu biti važne za realizaciju Ugovora.
+Sva obaveštenja, profakture, fakture, ovlašćenja, odobrenja, izveštaji i poslovna prepiska koja se zahteva po odredbama ovog Ugovora biće dostavljana isključivo u pisanoj formi putem elektronske pošte na srpskom ili engleskom jeziku, na dole navedene adrese:
+a) Za Izvršioca
+e-mail: office@freelancer.rs
+b) Za Naručioca
+e-mail: advkanc.radulovic@gmail.com
+Usmeni razgovori, telefonski pozivi, SMS poruke kao ni poruke putem socijalnih mreža ne smatraju se zvaničnim sredstvom komunikacije već isključivo gore definisana e-mail adresa.
+12.
+Rešavanje Sporova
+12.1 Ugovorne strane su saglasne da će sve eventualne sporove koji mogu nastati po ovom Ugovoru nastojati da reše dogovorom.
+12.2 Za slučaj izostanka sporazumnog rešenja, ugovara se stvarna nadležnost suda u Beogradu.
+13.
+Primena Materijalnog Prava
+13.1 Ugovorne strane su saglasne da se na sve odnose i pitanja koja nisu regulisana odredbama ovog Ugovora, primenjuju odredbe Zakona o obligacionim odnosima, kao i drugih važećih zakona, podzakonskih akata, primenjivih normativa i standarda, s obzirom na predmet ovog Ugovora.
+14.
+Trajanje Ugovora
+14.1 Ugovor se zaključuje na 1 godinu dana.
+14.2 Ovaj Ugovor se smatra zaključenim i stupa na snagu— na dan kada su ga potpisali ovlašćeni predstavnici obe Ugovorne strane, a ako ga ovlašćeni predstavnici nisu potpisali na isti dan, Ugovor se smatra zaključenim na dan drugog potpisa po vremenskom redosledu.
+15.
+Raskid Ugovora
+15.1 Svaka Ugovorna strana ima pravo da otkaže ovaj Ugovor, u slučaju da druga Ugovorna strana ne izvršava svoje ugovorne obaveze, dostavljanjem pisane izjave o otkazu Izvršiocu, sa otkaznim rokom od 10 dana.
+U ovom slučaju Ugovorna strana koja ne ispunjava obaveze dužna je da drugoj Ugovornoj strani nadoknadi troškove koji zbog toga nastanu.
+15.2 U slučaju otkaza od strane Izvršioca zbog neispunjenja obaveza iz ovog Ugovora od strane Naručioca, Izvršilac zadržava primljeni avans iz koga će namiriti svoje troškove, a Naručilac je saglasan, što potvrđuje svojim potpisom na ovom Ugovoru da se odriče prava da potražuje od Izvršioca plaćeni avans.
+15.3 Eventualna odgovornost Naručioca za naknadu štete prouzrokovane neispunjenjem, neurednim i/ili delimičnim ispunjenjem obaveza iz ovog Ugovora, ograničava se na iznos 10% od ukupne vrednosti iz tačke 4. ovog Ugovora.
+15.4 Ugovorne strane mogu sporazumno da raskinu Ugovor, a sporazumom o raskidu Ugovora utvrđuju se visina i način ispunjenja međusobnih dospelih obaveze do dana sporazumnog raskida Ugovora.
+16.
+Završne Odredbe
+16.1 Ovaj Ugovor se može izmeniti samo pisanim aneksom, potpisanim od strane ovlašćenih zastupnika Ugovornih strana, odnosno sve izmene i dopune ovog Ugovora i svi usmeni nalozi i dogovori Ugovornih strana moraju biti sadržani u aneksu Ugovora, inače ne proizvode pravno dejstvo.
+16.2 Ovaj Ugovor je sačinjen u 2 (dva) istovetna primerka, od kojih je 1 (jedan) primerak za Izvršioca i 1 (jedan) primerak za Naručioca.
+Izvršilac: Naručilac: Internet Solutions Advokatska kancelarija RADULOVIĆ
+Goran Ćirković Nataša Radulović-Dimović

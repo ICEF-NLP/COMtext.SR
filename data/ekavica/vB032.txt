@@ -1,0 +1,75 @@
+Zakon O Državnom Premeru I Katastru
+("Sl. glasnik RS", br. 72/2009, 18/2010, 65/2013, 15/2015 - odluka US, 96/2015, 47/2017 - autentično tumačenje, 113/2017 - dr. zakon, 27/2018 - dr. zakon, 41/2018 - dr. zakon i 9/2020 - dr. zakon)
+Glava III
+Tehnička Dokumentacija (Projektovanje), Izvođenje I Stručni Nadzor Nad Izvođenjem Geodetskih Radova
+Vrste tehničke dokumentacije
+Član 23
+Tehnička dokumentacija obuhvata idejni projekat i glavni projekat.
+Idejni projekat
+Član 24
+(1) Idejni projekat jeste projekat kojim se određuje lokacija geodetskih radova, tehničko-tehnološka koncepcija izvođenja radova, obim, dinamika i orijentaciona vrednost radova.
+(2) Idejni projekat izrađuje Zavod ili geodetska organizacija po zahtevu investitora, na osnovu projektnog zadatka, u oblastima za koje se izrađuje glavni projekat.
+Glavni projekat
+Član 25
+(1) Glavni projekat se izrađuje za potrebe izvođenja geodetskih radova naročito u sledećim oblastima:
+1) osnovnih geodetskih radova;
+2) katastarskog premera, osnivanja i obnove katastra nepokretnosti;
+3) premera vodova i osnivanja katastra vodova;
+4) topografskog premera i topografsko-kartografske delatnosti;
+5) komasacionog premera i uređenja zemljišne teritorije komasacijom;
+6) izrade geodetskih podloga za potrebe raznih vrsta projekata u inženjersko-tehničkim oblastima.
+(2) Glavni projekat izrađuje Zavod ili geodetska organizacija na osnovu projektnog zadatka koji obezbeđuje i overava investitor.
+(3) Izuzetno od stava 1. tačka 6) ovog člana, geodetske podloge za radove manjeg obima i složenosti, izrađuju se na osnovu projektnog zadatka, koji obezbeđuje i overava investitor.
+Sadržina glavnog projekta
+Član 26
+Glavni projekat za izvođenje geodetskih radova naročito sadrži:
+1) opšte podatke o predmetu projekta i pratećoj dokumentaciji;
+2) projektni zadatak za izradu glavnog projekta;
+3) osnove za izradu projekta;
+4) tehnički izveštaj o izvršenim prethodnim radovima;
+5) projektno rešenje geodetskih radova;
+6) organizaciju radova;
+7) predmer i predračun radova;
+8) grafičke priloge i tabele.
+Stručna i tehnička kontrola projekata
+Član 27
+(1) Idejni projekat podleže stručnoj kontroli revizione komisije koju obrazuje Zavod.
+(2) Glavni projekat podleže tehničkoj kontroli.
+(3) Tehničku kontrolu glavnog projekta za izvođenje geodetskih radova iz člana 25. ovog zakona, vrši Zavod ili geodetska organizacija koju odredi investitor i koja ispunjava uslove iz člana 17. stav 1. ovog zakona.
+(4) Tehničku kontrolu glavnog projekta ne može da vrši geodetska organizacija koja je izradila ili učestvovala u izradi glavnog projekta.
+(5) Troškove stručne i tehničke kontrole snosi investitor.
+Stručni nadzor
+Član 29
+(1) Stručni nadzor je nadzor nad izvođenjem radova za koje je ovim zakonom predviđena izrada glavnog projekta i obuhvata:
+1) kontrolu da li se izvođenje radova vrši prema tehničkoj dokumentaciji;
+2) kontrolu i proveru kvaliteta izvođenja svih vrsta radova;
+3) primenu propisa, standarda i tehničkih normativa.
+(2) Stručni nadzor nad izvođenjem geodetskih radova u osnovnim geodetskim radovima, katastarskom premeru, u oblasti uređenja zemljišne teritorije komasacijom, osnivanju i obnovi katastra nepokretnosti, premera vodova i osnivanja katastra vodova i topografskom premeru i topografsko-kartografskoj delatnosti, vrši Zavod.
+(3) Stručni nadzor nad radovima iz člana 25. stav 1. tačka 6) ovog zakona vrši geodetska organizacija koju bira investitor.
+(4) Geodetska organizacija ne može da vrši stručni nadzor nad radovima koje ona izvodi.
+1.1.
+Katastarske teritorijalne jedinice
+Vrste katastarskih teritorijalnih jedinica
+Član 41
+Katastarske teritorijalne jedinice jesu katastarska parcela, katastarska opština i katastarski srez.
+Katastarska parcela
+Član 42
+(1) Katastarska parcela (u daljem tekstu: parcela) je osnovna katastarska teritorijalna jedinica i predstavlja deo zemljišta u katastarskoj opštini određen granicom (međom) i označen jedinstvenim brojem, na kome postoji pravo svojine.
+(2) Granica parcele se definiše graničnim tačkama koje su određene koordinatama propisane klase tačnosti i označene međnim belegama na terenu.
+Katastarska opština
+Član 43
+(1) Katastarska opština jeste teritorijalna jedinica koja, po pravilu, obuhvata područje jednog naseljenog mesta, za koju se zakonom utvrđuje naziv i koja predstavlja osnovnu jedinicu za koju se vrši katastarski premer i osniva, obnavlja i održava katastar nepokretnosti.
+(2) O promeni granice katastarske opštine odlučuje Vlada na predlog Zavoda, po prethodno pribavljenom mišljenju jedinice lokalne samouprave na čijoj se teritoriji nalazi ta katastarska opština, odnosno susednih jedinica lokalne samouprave, kada promena granice katastarske opštine menja granicu jedinice lokalne samouprave.
+(3) U slučaju kad se promenom granice katastarske opštine istovremeno menja i granica jedinice lokalne samouprave, promena granice katastarske opštine vrši se u skladu sa Ustavom i zakonom.
+(4) Odluka o promeni granice katastarske opštine objavljuje se u "Službenom glasniku Republike Srbije".
+(5) Obeležavanje granica katastarske opštine vrši se postavljanjem geodetskih belega.
+Načelo javnosti
+Član 62
+(1) Podaci katastra nepokretnosti su javni i svako može tražiti da izvrši uvid u te podatke, pod uslovima određenim ovim zakonom.
+(2) Niko se ne može pozivati na to da mu podaci upisani u katastru nepokretnosti nisu bili ili nisu mogli biti poznati, niti to može dokazivati.
+Načelo pouzdanja
+Član 63
+Podaci o nepokretnostima upisani u katastar nepokretnosti su istiniti i pouzdani i niko ne može snositi štetne posledice zbog tog pouzdanja.
+Načelo zakonitosti
+Član 64
+U postupku upisa u katastar nepokretnosti proverava se da li su ispunjeni uslovi za upis propisani ovim zakonom i drugim propisima.

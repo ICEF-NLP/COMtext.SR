@@ -1,0 +1,72 @@
+Ugovor o poverljivosti
+Ugovor je zaključen između sledećih ugovornih strana:
+1. VD Digital Optima d.o.o. Beograd, sa sedištem u Beogradu, Makenzijeva 78, registrovanog kod Agencije za privredne registre Republike Srbije, matični broj 92235781 (“Društvo”), koga zastupa Nenad Protić, direktor i
+2. Madronilan d.o.o. Beograd, sa sedištem u Beogradu, Pop Lukina 9, registrovanog kod Agencije za privredne registre Republike Srbije, matični broj 90308976 (“Primalac”), koga zastupa Vera Pavlović, direktor.
+1. Poverljive informacije
+1.1.
+Društvo želi da otkrije Primaocu određene informacije koje se odnose na poslovanje Društva a u vezi sa nameravanim zaključenjem poslovne saradnje između Društva i Primaoca (“Cilj”).
+1.2.
+Izraz „Poverljive Informacije“ označava sve informacije (bez obzira kako su zabeležene ili sačuvane) koje se odnose na Cilj, koje su otkrivene ili učinjene dostupnim, bilo pre ili nakon datuma ovog ugovora (u bilo kom obliku ili na bilo kom medijumu), direktno ili indirektno, od strane Društva Primaocu, a što uključuje, bez ograničenja, znanje i iskustvo (know-how), ideje, koncepte, poslovnu praksu, dokumentaciju, prototipove, crteže, statističke podatke, šifre za softver, tehnologiju istraživanja i razvoja, podatke o troškovima, profitu ili o marži, druge finansijske podatke, informacije o klijentima, dobavljačima i zaposlenima, o marketingu, poslovnim planovima, poslovnim tajnama i o pravima intelektualne svojine.
+1.3.
+U vezi sa time što se Društvo saglasilo da otkrije Poverljive Informacije Primaocu, Primalac se obavezuje Društvu da:
+a) će čuvati Poverljive Informacije kao tajne i poverljive;
+b) neće koristiti niti iskorišćavati Poverljive Informacije za bilo koje operativne, komercijalne ili druge svrhe, na bilo koji način, osim za ostvarenje ili u vezi sa Ciljem;
+c) će otkriti Poverljive Informacije jedino u skladu sa odeljkom 2; ili na drugi način, ali uz pismenu saglasnost Društva i
+d) neće kopirati niti reprodukovati u bilo kom obliku niti pohranjivati kopije Poverljivih Informacija (u štampanom, elektronskom ili u nekom drugom formatu), bez prethodne pismene saglasnosti Društva.
+1.4.
+Primalac garantuje da je sproveo sve tehničke i organizacione mere u cilju sprečavanja slučajnih grešaka, nepravilnog i nedozvoljenog prikupljanja, čuvanja, obrade, korišćenja, oštećenja, uništenja, kao i falsifikovanja i zloupotrebe Poverljivih Informacija.
+1.5.
+Primalac će čuvati Poverljive Informacije sa dužnom pažnjom, kao dobar privrednik, a u svakom slučaju sa ne manjim nivoom pažnje koju pokazuje prema svojim informacijama koje su slične osetljivosti i značaja.
+2. Dozvoljeno otkrivanje
+2.1.
+Primalac može otkriti Poverljive Informacije svim svojim službenicima, zaposlenima, savetnicima, podugovaračima ili ugovaračima pod sledeća tri uslova, kumulativno: (i) da obezbedi da lice kome je Poverljiva Informacija otkrivena poštuje obaveze navedene u ovom ugovoru kao da je ta osoba Primalac (ii) da se Društvo saglasi sa otkrivanjem Poverljivih Informacija tom licu i da (iii) je tim licima potrebno da budu upoznati sa odgovarajućom Poverljivom Informacijom u vezi sa Ciljem.
+2.2.
+Primalac će biti solidarno odgovaran sa svim svojim službenicima, zaposlenima, savetnicima, podugovaračima ili ugovaračima kojima Poverljive Informacije budu otkrivene u skladu sa članom 2.1, za svako kršenje od strane tih lica obaveza navedenih u članu 2.1.
+2.3.
+Primalac može otkriti Poverljive Informacije i to samo u najmanjoj mogućoj meri koju zahteva/zahtevaju:
+a) bilo koja naredba suda nadležne jurisdikcije ili bilo kog regulatornog, sudskog, državnog ili sličnog tela, kao i poreskog organa nadležne jurisdikcije;
+b) zakoni ili propisi bilo koje države koja ima nadležnost nad njim;
+pod uslovom da Primalac obavesti Društvo pismenim putem čim to bude moguće nakon što sazna za svoju obavezu da otkrije Poverljivu Informaciju u skladu sa članom 2.3.
+Primalac je obavezan da preduzme sve razumne i moguće mere da bi se obezbedila zaštita tajnosti Poverljivih Informacija u najvećoj mogućoj meri.
+3. Ograničenja Obaveza
+3.1.
+Obaveze navedene u članu 1.3 se neće primenjivati, ili će prestati da se primenjuju, na Poverljive Informacije za koje Primalac može da pokaže, i to na razumno zadovoljstvo Društva:
+a) da te informacije jesu, ili su postale generalno dostupne u javnosti osim ako je to direktna ili indirektna posledica otkrivanja tih informacija od strane Primaoca suprotno ovom ugovoru; ili
+b) su već bile poznate Primaocu na zakonom dozvoljen način, pre nego što ih je Društvo otkrilo; ili
+c) da ih je Primalac primio od treće strane koja nije povezana sa Društvom i da ta treća strana nije pod bilo kakvom obavezom poverenja u vezi sa tom informacijom.
+4. Povraćaj Poverljivih Informacija
+4.1.
+Ako to Društvo bude zahtevalo u bilo koje vreme, Primalac će bez odlaganja, a svakako ne kasnije od 5 dana nakon tog zahteva, uništiti ili vratiti Društvu (u skladu sa zahtevom Društva), svu dokumentaciju i ostale zapise Poverljivih Informacija koje su dostavljene Primaocu ili koje je Primalac razvio, i to bez prava na zadržavanje kopija.
+Ukoliko je Poverljiva Informacija sačuvana u elektronskom obliku, Primalac će trajno obrisati sve takve Poverljive Informacije iz svog kompjuterskog i komunikacionog sistema i uređaja koje koristi (u meri u kojoj je tehnički moguće).
+4.2.
+Društvo može zahtevati od Primaoca potvrdu u pismenoj formi da je ispunio obaveze iz člana 4.1
+5. Trajanje i Prestanak
+5.1.
+Bilo koja Strana može u bilo koje vreme obavestiti drugu Stranu u pismenoj formi o svojoj odluci da ne nastavi da bude uključena u ostvarivanje Cilja, ili da smatra da je Cilj ostvaren, ali to neće imati uticaja na ovaj ugovor i obaveze Primaoca.
+5.2.
+Obaveze Primaoca će se nastaviti tokom 20 godina od obaveštenja iz člana 5.1 iznad.
+Nakon isteka 20 godina od obaveštenja iz člana 5.1 iznad, ovaj ugovor će prestati da proizvodi pravna dejstva.
+6. Odgovornost za povrede
+Primalac je dužan da naknadi Društvu celokupan iznos štete koju Društvo pretrpi kao rezultat povrede od strane Primaoca obaveza navedenih u ovom ugovoru, uključujući direktnu i indirektnu štetu, izgubljenu dobit, kao i troškove koje Društvo bude imalo u vezi sa otklanjanjem te štete (uključujući ali ne i jedino, sudske troškove i advokatske naknade).
+7. Ostale odredbe
+7.1.
+Strane su saglasne da Društvo ne daje nikakve garancije u vezi sa tačnošću i potpunošću Poverljivih Informacija.
+7.2.
+Primalac razume i prihvata da otkrivanje Poverljivih Informacija od strane Društva ne predstavlja niti implicira davanje licence niti bilo kog drugog prava intelektualne svojine Primaocu.
+7.3.
+Na ovaj ugovor se primenjuje pravo Republike Srbije, ne uključujući odredbe o sukobu zakona.
+7.4.
+Za sve sporove u vezi sa ovim ugovorom će biti nadležan sud u Beogradu.
+7.5.
+Sve izmene i dopune ovog ugovora će biti u pisanoj formi.
+7.6.
+Ovaj ugovor proizvodi pravna dejstva kada bude potpisan od obe Strane.
+Datum: 17.6.2021.
+Za Društvo:
+________________________
+Ime: Nenad Protić
+Funkcija: direktor
+Za Primaoca:
+________________________
+Ime: Vera Pavlović
+Funkcija: direktor
