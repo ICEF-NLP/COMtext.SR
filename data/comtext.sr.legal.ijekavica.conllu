@@ -84358,7 +84358,7 @@
 # title = Pravilnik o video nadzoru
 # source = Karanović & Partners
 # sent id = ije_vB016-s1
-# text = Na osnovu člana 22. Odluke o organizaciji Gradske uprave grada Sombora (" Službeni list Grada Sombora", br. 04/08, 11/10, 14/10-dr. odluka, 12/12, 5/13 i 11/16) Načelnik Gradske uprave Grada Sombora dana 04.10.2016. godine donosi Pravilnik o vidio nadzoru Gradske uprave Grada Sombora
+# text = Na osnovu člana 22. Odluke o organizaciji Gradske uprave grada Sombora (" Službeni list Grada Sombora", br. 04/08, 11/10, 14/10-dr. odluka, 12/12, 5/13 i 11/16) Načelnik Gradske uprave Grada Sombora dana 04.10.2016. godine donosi Pravilnik o video nadzoru Gradske uprave Grada Sombora
 1	Na	na	Sl	O
 2	osnovu	osnov	Ncmsl	O
 3	člana	član	Ncmsg	B-LAW
@@ -84405,7 +84405,7 @@
 44	donosi	donositi	Vmr3s	O
 45	Pravilnik	pravilnik	Ncmsan	B-LAW
 46	o	o	Sl	I-LAW
-47	vidio	video	Agpmsly	I-LAW
+47	video	video	Agpmsly	I-LAW
 48	nadzoru	nadzor	Ncmsl	I-LAW
 49	Gradske	gradski	Agpfsgy	I-LAW
 50	uprave	uprava	Ncfsg	I-LAW
@@ -84453,7 +84453,7 @@
 2	1.	1.	Mdo	O
 
 # sent id = ije_vB016-s5
-# text = Ovim pravilnikom uređuju se procedure i način sprovođenja vidio nadzora, snimanja i čuvanja vidio snimaka i dokumentacije u zgradi Gradske uprave grada Sombora, Trg cara Uroša br. 1 (u daljem tekstu: Gradska uprava).
+# text = Ovim pravilnikom uređuju se procedure i način sprovođenja video nadzora, snimanja i čuvanja video snimaka i dokumentacije u zgradi Gradske uprave grada Sombora, Trg cara Uroša br. 1 (u daljem tekstu: Gradska uprava).
 1	Ovim	ovaj	Pd-msi	O
 2	pravilnikom	pravilnik	Ncmsi	O
 3	uređuju	uređivati	Vmr3p	O
@@ -84462,13 +84462,13 @@
 6	i	i	Cc	O
 7	način	način	Ncmsn	O
 8	sprovođenja	sprovođenje	Ncnsg	O
-9	vidio	video	Agpmsgy	O
+9	video	video	Agpmsgy	O
 10	nadzora	nadzor	Ncmsg	O
 11	,	,	Z	O
 12	snimanja	snimanje	Ncnsg	O
 13	i	i	Cc	O
 14	čuvanja	čuvanje	Ncnsg	O
-15	vidio	video	Agpmsgy	O
+15	video	video	Agpmsgy	O
 16	snimaka	snimak	Ncmpg	O
 17	i	i	Cc	O
 18	dokumentacije	dokumentacija	Ncfsg	O
@@ -84528,13 +84528,13 @@
 30	.	.	Z	O
 
 # sent id = ije_vB016-s7
-# text = Postojanje ovog Pravilnika garantuje postojanje vidio nadzora, njegovog snimanja i dokumentovanja.
+# text = Postojanje ovog Pravilnika garantuje postojanje video nadzora, njegovog snimanja i dokumentovanja.
 1	Postojanje	postojanje	Ncnsn	O
 2	ovog	ovaj	Pd-msg	O
 3	Pravilnika	pravilnik	Ncmsg	O
 4	garantuje	garantovati	Vmr3s	O
 5	postojanje	postojanje	Ncnsa	O
-6	vidio	video	Agpmsgy	O
+6	video	video	Agpmsgy	O
 7	nadzora	nadzor	Ncmsg	O
 8	,	,	Z	O
 9	njegovog	njegov	Ps3nsg	O
@@ -84544,9 +84544,9 @@
 13	.	.	Z	O
 
 # sent id = ije_vB016-s8
-# text = Pojam vidio nadzora
+# text = Pojam video nadzora
 1	Pojam	pojam	Ncmsn	O
-2	vidio	video	Agpmsgy	O
+2	video	video	Agpmsgy	O
 3	nadzora	nadzor	Ncmsg	O
 
 # sent id = ije_vB016-s9
@@ -84628,9 +84628,9 @@
 70	.	.	Z	O
 
 # sent id = ije_vB016-s11
-# text = Svrha vidio nadziranja kao pomoć za poboljšanje primjene Kodeksa jeste kontrola zaposlenih u pridržavanju odredbi Kodeksa i eventualno unapređenje procesa rada, te stoga ovlašćeno lice može iskoristiti vidio materijal prikupljen nadzorom da pokrene disciplinski postupak protiv zaposlenog, ili ga opomene na nedostatke koji su uočeni u radu.
+# text = Svrha video nadziranja kao pomoć za poboljšanje primjene Kodeksa jeste kontrola zaposlenih u pridržavanju odredbi Kodeksa i eventualno unapređenje procesa rada, te stoga ovlašćeno lice može iskoristiti video materijal prikupljen nadzorom da pokrene disciplinski postupak protiv zaposlenog, ili ga opomene na nedostatke koji su uočeni u radu.
 1	Svrha	svrha	Ncfsn	O
-2	vidio	video	Agpmsgy	O
+2	video	video	Agpmsgy	O
 3	nadziranja	nadziranje	Ncnsg	O
 4	kao	kao	Qo	O
 5	pomoć	pomoć	Ncfsn	O
@@ -84657,7 +84657,7 @@
 26	lice	lice	Ncnsn	O
 27	može	moći	Vmr3s	O
 28	iskoristiti	iskoristiti	Vmn	O
-29	vidio	video	Agpmsayn	O
+29	video	video	Agpmsayn	O
 30	materijal	materijal	Ncmsan	O
 31	prikupljen	prikupljeni	Agpmsann	O
 32	nadzorom	nadzor	Ncmsi	O
@@ -84681,7 +84681,7 @@
 50	.	.	Z	O
 
 # sent id = ije_vB016-s12
-# text = Načelnik, zamjenik načelnika i rukovodilac unutrašnje organizacione jedinice Gradske uprave ne može koristiti materijal nastao u toku vidio nadzora da bi zastrašivao zaposlene, da bi ih uznemiravao, diskriminisao ili na bilo koji način ulazio u njihovu intimu i prikupljao podatke o privatnom životu.
+# text = Načelnik, zamjenik načelnika i rukovodilac unutrašnje organizacione jedinice Gradske uprave ne može koristiti materijal nastao u toku video nadzora da bi zastrašivao zaposlene, da bi ih uznemiravao, diskriminisao ili na bilo koji način ulazio u njihovu intimu i prikupljao podatke o privatnom životu.
 1	Načelnik	načelnik	Ncmsn	O
 2	,	,	Z	O
 3	zamjenik	zamjenik	Ncmsn	O
@@ -84700,7 +84700,7 @@
 16	nastao	nastali	Agpmsann	O
 17	u	u	Sl	O
 18	toku	tok	Ncmsl	O
-19	vidio	video	Agpmsgy	O
+19	video	video	Agpmsgy	O
 20	nadzora	nadzor	Ncmsg	O
 21	da	da	Cs	O
 22	bi	biti	Vaa3s	O
@@ -84828,7 +84828,7 @@
 10	.	.	Z	O
 
 # sent id = ije_vB016-s22
-# text = Automatsko praćenje kretanja zaposlenog nije dozvoljeno (osim u situaciji kada se svrha vidio nadzora ne može uspješno postići nadziranjem samo jednog mjesta).
+# text = Automatsko praćenje kretanja zaposlenog nije dozvoljeno (osim u situaciji kada se svrha video nadzora ne može uspješno postići nadziranjem samo jednog mjesta).
 1	Automatsko	automatski	Agpnsny	O
 2	praćenje	praćenje	Ncnsn	O
 3	kretanja	kretanje	Ncnsg	O
@@ -84842,7 +84842,7 @@
 11	kada	kada	Rgp	O
 12	se	sebe	Px--sa	O
 13	svrha	svrha	Ncfsn	O
-14	vidio	video	Agpmsgy	O
+14	video	video	Agpmsgy	O
 15	nadzora	nadzor	Ncmsg	O
 16	ne	ne	Qz	O
 17	može	moći	Vmr3s	O
@@ -84856,20 +84856,20 @@
 25	.	.	Z	O
 
 # sent id = ije_vB016-s23
-# text = Tajni vidio nadzor nije dozvoljen.
+# text = Tajni video nadzor nije dozvoljen.
 1	Tajni	tajni	Agpmsny	O
-2	vidio	video	Agpmsny	O
+2	video	video	Agpmsny	O
 3	nadzor	nadzor	Ncmsn	O
 4	nije	biti	Var3s	O
 5	dozvoljen	dozvoliti	Appmsnn	O
 6	.	.	Z	O
 
 # sent id = ije_vB016-s24
-# text = Izuzetno, tajni vidio nadzor je dozvoljen radi istraživanja mogućeg izvršenja krivičnog djela, odnosno drugog činjenja zaposlenog koje uzrokuje značajnu štetu gradskoj upravi.
+# text = Izuzetno, tajni video nadzor je dozvoljen radi istraživanja mogućeg izvršenja krivičnog djela, odnosno drugog činjenja zaposlenog koje uzrokuje značajnu štetu gradskoj upravi.
 1	Izuzetno	izuzetno	Qo	O
 2	,	,	Z	O
 3	tajni	tajni	Agpmsny	O
-4	vidio	video	Agpmsny	O
+4	video	video	Agpmsny	O
 5	nadzor	nadzor	Ncmsn	O
 6	je	biti	Var3s	O
 7	dozvoljen	dozvoliti	Appmsnn	O
@@ -84898,7 +84898,7 @@
 2	4.	4.	Mdo	O
 
 # sent id = ije_vB016-s26
-# text = Gradska uprava je dužna da na vidnom mjestu istakne obavještenje da je prostor gradske uprave pod vidio nadzorom.
+# text = Gradska uprava je dužna da na vidnom mjestu istakne obavještenje da je prostor gradske uprave pod video nadzorom.
 1	Gradska	gradski	Agpfsny	B-INST
 2	uprava	uprava	Ncfsn	I-INST
 3	je	biti	Var3s	O
@@ -84915,18 +84915,18 @@
 14	gradske	gradski	Agpfsgy	B-INST
 15	uprave	uprava	Ncfsg	I-INST
 16	pod	pod	Si	O
-17	vidio	video	Agpmsiy	O
+17	video	video	Agpmsiy	O
 18	nadzorom	nadzor	Ncmsi	O
 19	.	.	Z	O
 
 # sent id = ije_vB016-s27
-# text = Sve kamere i monitori za vidio nadzor moraju na snimcima obezbijediti podatke o datumu, vremenu snimanja i broju kamere.
+# text = Sve kamere i monitori za video nadzor moraju na snimcima obezbijediti podatke o datumu, vremenu snimanja i broju kamere.
 1	Sve	sav	Pi-fpn	O
 2	kamere	kamera	Ncfpn	O
 3	i	i	Cc	O
 4	monitori	monitor	Ncmpn	O
 5	za	za	Sa	O
-6	vidio	video	Agpmsayn	O
+6	video	video	Agpmsayn	O
 7	nadzor	nadzor	Ncmsan	O
 8	moraju	morati	Vmr3p	O
 9	na	na	Sl	O
@@ -84944,7 +84944,7 @@
 21	.	.	Z	O
 
 # sent id = ije_vB016-s28
-# text = Načelnik može izdati dozvolu za korišćenje privremeno postavljenih kamera za vidio nadzor za potrebe vidio nadzora za specijalne događaje koji zahtijevaju dodatne mjere opreza ili sigurnosti.
+# text = Načelnik može izdati dozvolu za korišćenje privremeno postavljenih kamera za video nadzor za potrebe video nadzora za specijalne događaje koji zahtijevaju dodatne mjere opreza ili sigurnosti.
 1	Načelnik	načelnik	Ncmsn	O
 2	može	moći	Vmr3s	O
 3	izdati	izdati	Vmn	O
@@ -84955,11 +84955,11 @@
 8	postavljenih	postavljeni	Agpfpgy	O
 9	kamera	kamera	Ncfpg	O
 10	za	za	Sa	O
-11	vidio	video	Agpmsayn	O
+11	video	video	Agpmsayn	O
 12	nadzor	nadzor	Ncmsan	O
 13	za	za	Sa	O
 14	potrebe	potreba	Ncfpa	O
-15	vidio	video	Agpmsgy	O
+15	video	video	Agpmsgy	O
 16	nadzora	nadzor	Ncmsg	O
 17	za	za	Sa	O
 18	specijalne	specijalni	Agpmpay	O
@@ -84974,9 +84974,9 @@
 27	.	.	Z	O
 
 # sent id = ije_vB016-s29
-# text = Snimanje vidio nadzora
+# text = Snimanje video nadzora
 1	Snimanje	snimanje	Ncnsn	O
-2	vidio	video	Agpmsgy	O
+2	video	video	Agpmsgy	O
 3	nadzora	nadzor	Ncmsg	O
 
 # sent id = ije_vB016-s30
@@ -85085,12 +85085,12 @@
 19	.	.	Z	O
 
 # sent id = ije_vB016-s34
-# text = Bilo kakva obrada snimljenog vidio materijala je strogo zabranjena.
+# text = Bilo kakva obrada snimljenog video materijala je strogo zabranjena.
 1	Bilo	bilo	Qo	O
 2	kakva	kakav	Pi-fsn	O
 3	obrada	obrada	Ncfsn	O
 4	snimljenog	snimljeni	Agpmsgy	O
-5	vidio	video	Agpmsgy	O
+5	video	video	Agpmsgy	O
 6	materijala	materijal	Ncmsg	O
 7	je	biti	Var3s	O
 8	strogo	strogo	Rgp	O
@@ -85120,10 +85120,10 @@
 19	.	.	Z	O
 
 # sent id = ije_vB016-s36
-# text = Podaci dobijeni vidio nadzorom moraju da se obrađuju i koriste za postizanje svoje svrhe.
+# text = Podaci dobijeni video nadzorom moraju da se obrađuju i koriste za postizanje svoje svrhe.
 1	Podaci	podatak	Ncmpn	O
 2	dobijeni	dobijeni	Agpmpny	O
-3	vidio	video	Agpmsiy	O
+3	video	video	Agpmsiy	O
 4	nadzorom	nadzor	Ncmsi	O
 5	moraju	morati	Vmr3p	O
 6	da	da	Cs	O
@@ -85177,7 +85177,7 @@
 2	6.	6.	Mdo	O
 
 # sent id = ije_vB016-s40
-# text = Gradska uprava je dužna da obezbijedi kontrolisani pristup opremi za vidio nadzor.
+# text = Gradska uprava je dužna da obezbijedi kontrolisani pristup opremi za video nadzor.
 1	Gradska	gradski	Agpfsny	B-INST
 2	uprava	uprava	Ncfsn	I-INST
 3	je	biti	Var3s	O
@@ -85188,12 +85188,12 @@
 8	pristup	pristup	Ncmsan	O
 9	opremi	oprema	Ncfsd	O
 10	za	za	Sa	O
-11	vidio	video	Agpmsayn	O
+11	video	video	Agpmsayn	O
 12	nadzor	nadzor	Ncmsan	O
 13	.	.	Z	O
 
 # sent id = ije_vB016-s41
-# text = Načelnik ili zamjenik načelnika, imenuje jednog ili više administratora koji imaju ovlašćenje za rukovanje vidio materijalom i dokumentacijom.
+# text = Načelnik ili zamjenik načelnika, imenuje jednog ili više administratora koji imaju ovlašćenje za rukovanje video materijalom i dokumentacijom.
 1	Načelnik	načelnik	Ncmsn	O
 2	ili	ili	Cc	O
 3	zamjenik	zamjenik	Ncmsn	O
@@ -85209,7 +85209,7 @@
 13	ovlašćenje	ovlašćenje	Ncnsa	O
 14	za	za	Sa	O
 15	rukovanje	rukovanje	Ncnsa	O
-16	vidio	video	Agpmsiy	O
+16	video	video	Agpmsiy	O
 17	materijalom	materijal	Ncmsi	O
 18	i	i	Cc	O
 19	dokumentacijom	dokumentacija	Ncfsi	O
@@ -85250,10 +85250,10 @@
 2	7.	7.	Mdo	O
 
 # sent id = ije_vB016-s45
-# text = Pravo pristupa vidio nadzoru u realnom vremenu i posmatranju snimljenog materijala sa kamera imaju Načelnik, zamjenik načelnika ili lice koje Načelnik ovlasti.
+# text = Pravo pristupa video nadzoru u realnom vremenu i posmatranju snimljenog materijala sa kamera imaju Načelnik, zamjenik načelnika ili lice koje Načelnik ovlasti.
 1	Pravo	pravo	Ncnsa	O
 2	pristupa	pristup	Ncmsg	O
-3	vidio	video	Agpmsdy	O
+3	video	video	Agpmsdy	O
 4	nadzoru	nadzor	Ncmsd	O
 5	u	u	Sl	O
 6	realnom	realni	Agpnsly	O
@@ -85277,7 +85277,7 @@
 24	.	.	Z	O
 
 # sent id = ije_vB016-s46
-# text = Izuzetno, Načelnik može određenim licima, za određene slučajeve, da odobri stalni pristup u realnom vremenu određenim kamerama za vidio nadzor.
+# text = Izuzetno, Načelnik može određenim licima, za određene slučajeve, da odobri stalni pristup u realnom vremenu određenim kamerama za video nadzor.
 1	Izuzetno	izuzetno	Qo	O
 2	,	,	Z	O
 3	Načelnik	načelnik	Ncmsn	O
@@ -85299,12 +85299,12 @@
 19	određenim	određeni	Agpfpdy	O
 20	kamerama	kamera	Ncfpd	O
 21	za	za	Sa	O
-22	vidio	video	Agpmsayn	O
+22	video	video	Agpmsayn	O
 23	nadzor	nadzor	Ncmsan	O
 24	.	.	Z	O
 
 # sent id = ije_vB016-s47
-# text = Imenovano, izabrano, postavljeno ili zaposleno lice, uz prethodno odobrenje Načelnika može pristupiti snimljenom vidio zapisu.
+# text = Imenovano, izabrano, postavljeno ili zaposleno lice, uz prethodno odobrenje Načelnika može pristupiti snimljenom video zapisu.
 1	Imenovano	imenovani	Agpnsny	O
 2	,	,	Z	O
 3	izabrano	izabrani	Agpnsny	O
@@ -85321,17 +85321,17 @@
 14	može	moći	Vmr3s	O
 15	pristupiti	pristupiti	Vmn	O
 16	snimljenom	snimljeni	Agpmsdy	O
-17	vidio	video	Agpmsdy	O
+17	video	video	Agpmsdy	O
 18	zapisu	zapis	Ncmsd	O
 19	.	.	Z	O
 
 # sent id = ije_vB016-s48
-# text = Zahtjev za pristup snimljenom vidio materijalu podnosi se u pisanoj formi uz obrazloženje opravdanosti pristupa.
+# text = Zahtjev za pristup snimljenom video materijalu podnosi se u pisanoj formi uz obrazloženje opravdanosti pristupa.
 1	Zahtjev	zahtjev	Ncmsn	O
 2	za	za	Sa	O
 3	pristup	pristup	Ncmsan	O
 4	snimljenom	snimljeni	Agpmsdy	O
-5	vidio	video	Agpmsdy	O
+5	video	video	Agpmsdy	O
 6	materijalu	materijal	Ncmsd	O
 7	podnosi	podnositi	Vmr3s	O
 8	se	sebe	Px--sa	O
@@ -85345,7 +85345,7 @@
 16	.	.	Z	O
 
 # sent id = ije_vB016-s49
-# text = Načelnik odnosno zamjenik načelnika je dužan da vodi evidenciju o vremenu i trajanju dozvoljenog pristupa vidio nadzoru od strane lica iz stava 3. ovog člana.
+# text = Načelnik odnosno zamjenik načelnika je dužan da vodi evidenciju o vremenu i trajanju dozvoljenog pristupa video nadzoru od strane lica iz stava 3. ovog člana.
 1	Načelnik	načelnik	Ncmsn	O
 2	odnosno	odnosno	Rgp	O
 3	zamjenik	zamjenik	Ncmsn	O
@@ -85361,7 +85361,7 @@
 13	trajanju	trajanje	Ncnsl	O
 14	dozvoljenog	dozvoljeni	Agpmsgy	O
 15	pristupa	pristup	Ncmsg	O
-16	vidio	video	Agpmsdy	O
+16	video	video	Agpmsdy	O
 17	nadzoru	nadzor	Ncmsd	O
 18	od	od	Sg	O
 19	strane	strana	Ncfsg	O
@@ -85374,16 +85374,16 @@
 26	.	.	Z	O
 
 # sent id = ije_vB016-s50
-# text = Sistem vidio nadzora koji se koristi za vršenje vidio nadzora mora biti zaštićen od pristupa neovlašćenih lica.
+# text = Sistem video nadzora koji se koristi za vršenje video nadzora mora biti zaštićen od pristupa neovlašćenih lica.
 1	Sistem	sistem	Ncmsn	O
-2	vidio	video	Agpmsgy	O
+2	video	video	Agpmsgy	O
 3	nadzora	nadzor	Ncmsg	O
 4	koji	koji	Pi-msn	O
 5	se	sebe	Px--sa	O
 6	koristi	koristiti	Vmr3s	O
 7	za	za	Sa	O
 8	vršenje	vršenje	Ncnsa	O
-9	vidio	video	Agpmsgy	O
+9	video	video	Agpmsgy	O
 10	nadzora	nadzor	Ncmsg	O
 11	mora	morati	Vmr3s	O
 12	biti	biti	Van	O
@@ -85406,7 +85406,7 @@
 2	8.	8.	Mdo	O
 
 # sent id = ije_vB016-s53
-# text = O svakom kvaru na tehničkim sredstvima za vidio nadzor u gradskoj upravi, administrator je dužan da obavijesti Načelnika odmah, a najkasnije u roku od 24 sata od momenta evidencija kvara.
+# text = O svakom kvaru na tehničkim sredstvima za video nadzor u gradskoj upravi, administrator je dužan da obavijesti Načelnika odmah, a najkasnije u roku od 24 sata od momenta evidencija kvara.
 1	O	o	Sl	O
 2	svakom	svaki	Pi-msl	O
 3	kvaru	kvar	Ncmsl	O
@@ -85414,7 +85414,7 @@
 5	tehničkim	tehnički	Agpnply	O
 6	sredstvima	sredstvo	Ncnpl	O
 7	za	za	Sa	O
-8	vidio	video	Agpmsayn	O
+8	video	video	Agpmsayn	O
 9	nadzor	nadzor	Ncmsan	O
 10	u	u	Sl	O
 11	gradskoj	gradski	Agpfsly	B-INST
@@ -85447,7 +85447,7 @@
 2	9.	9.	Mdo	O
 
 # sent id = ije_vB016-s55
-# text = Svako uništavanje, pokušaj uništavanja ili onesposobljavanja opreme za vidio nadzor podliježe primjeni Kodeksa kojim se štiti imovina, ili može biti prijavljeno organima reda i bezbjednosti.
+# text = Svako uništavanje, pokušaj uništavanja ili onesposobljavanja opreme za video nadzor podliježe primjeni Kodeksa kojim se štiti imovina, ili može biti prijavljeno organima reda i bezbjednosti.
 1	Svako	svaki	Pi-nsn	O
 2	uništavanje	uništavanje	Ncnsn	O
 3	,	,	Z	O
@@ -85457,7 +85457,7 @@
 7	onesposobljavanja	onesposobljavanje	Ncnsg	O
 8	opreme	oprema	Ncfsg	O
 9	za	za	Sa	O
-10	vidio	video	Agpmsayn	O
+10	video	video	Agpmsayn	O
 11	nadzor	nadzor	Ncmsan	O
 12	podliježe	podlijegati	Vmr3s	O
 13	primjeni	primjena	Ncfsd	O
