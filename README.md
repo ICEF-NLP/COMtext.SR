@@ -225,7 +225,11 @@ Projekat sprovodi konzorcijum sledećih institucija:
 <img src="./logos/ReLDI.png" height="250" />
 </p>
 
-**[ReLDI centar za jezičke podatke](https://reldi.spur.uzh.ch/hr-sr/)** je u okviru projekta **COMtext.SR** odgovoran za anotaciju tekstova uključenih u korpuse i ručnu evaluaciju kvaliteta predikcija NLP/NLU modela.
+**[ReLDI centar za jezičke podatke](https://reldi.rs)** je u okviru projekta **COMtext.SR** odgovoran za anotaciju tekstova uključenih u korpuse i ručnu evaluaciju kvaliteta predikcija NLP/NLU modela.
+
+## Kontakt
+Kontakt za podršku projektu COMtext.SR ili saradnju u primeni njegovih rezultata u softverskim rešenjima i proizvodima:
+* [dr Vuk Batanović](mailto:vuk.batanovic@ic.etf.bg.ac.rs), rukovodilac projekta COMtext.SR
 
 # Partneri projekta
 
