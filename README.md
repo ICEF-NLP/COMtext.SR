@@ -55,7 +55,7 @@ U toku 2024. godine korpus **COMtext.SR.legal** je dopunjen oznakama imenovanih 
 | Kategorija        | Potkategorija                                | Oznaka       | Broj / procenat entiteta u korpusu | Prosečna dužina u tokenima |
 | ----------------- | -------------------------------------------- | ------------ | ---------------------------------- | -------------------------- |
 | Osobe             |                                              | **PER**      | 694 / 19.2%                        | 1.89                       |
-| Lokacije          | Toponimi                                     | **LOC**      | 294 / 8.1%                         | 1.24                       |
+| Lokacije          | Toponimi                                     | **TOP**      | 294 / 8.1%                         | 1.24                       |
 |                   | Adrese                                       | **ADR**      | 203 / 5.6%                         | 6.96                       |
 | Organizacije      | Sudovi                                       | **COURT**    | 148 / 4.1%                         | 3.59                       |
 |                   | Institucije                                  | **INST**     | 395 / 10.9%                        | 2.75                       |
