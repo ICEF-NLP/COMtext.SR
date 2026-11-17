@@ -1,9 +1,11 @@
+# title = Predlog za sporazumni razvod braka
+# source = https://www.scribd.com/document/262204614/Primeri-Tužbi-i-Drugih-Akata-u-Parničnom-Postupku
 OPŠTINSKOM SUDU U VALjEVU
 Valjevo
 Predlagači:
 FILIP PERIĆ, od oca Nikole iz Valjeva, ul. Kapetana Koče 9, s jedne strane, kojeg zastupa adv. Bojan Tadić iz Valjeva, po specijalnom punomoćju u prilogu
 LIDIJA PERIĆ, rođ. Ant, od oca Dragana, iz Valjeva, ul. Kapetana Koče 9, s druge strane,
-Predlog Za Sporazumni Razvod Braka
+Prijedlog Za Sporazumni Razvod Braka
 Predlagači su zaključili brak na dan 27. novembra 1999. godine u Valjevu, gdje je isti i uveden u MKV pod tekućim brojem 0500 za godinu 1999.
 U braku su stekli mal. Marinu PERIĆ rođenu 30. marta 2000. godine.
 Dokaz:
@@ -29,4 +31,4 @@ u Valjevu, 25. oktobra 2006. godine
 Predlagači
 _____________________ _____________________
 FILIP PERIĆ Lidija PERIĆ
-JMBG 111962173415 JMBG 1102970715232
+JMBG 0111962173415 JMBG 1102970715239

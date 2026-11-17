@@ -1,3 +1,5 @@
+# title = Odluka o osnivanju društva sa ograničenom odgovornošću
+# source = Karanović & Partners
 Na osnovu člana 139–244. Zakona o privrednim društvima („Sl. glasnik RSˮ, br. 36/2011, 99/2011, 83/2014 - dr. Zakon, 5/2015, 44/2018, 95/2018, 91/2019 i 109/21) osnivač društva sa ograničenom odgovornošću dana 20. januara 2023. godine donosi sljedeću: Odluku O Osnivanju Društva Sa Ograničenom Odgovornošću
 Član 1.
 Ovom Odlukom se uređuju:
@@ -12,12 +14,12 @@ Ovom Odlukom se uređuju:
 • zastupanje društva;
 • trajanje i prestanak društva;
 • ostala pitanja.
-Poslovno Ime I Sedište Društva
+Poslovno Ime I Sjedište Društva
 Član 2.
 Poslovno ime društva glasi: Društvo za proizvodnju Uliks d.o.o. Beograd (u daljem tekstu: Društvo)
 Skraćeno poslovno ime Društva glasi: Uliks d.o.o.
 Član 3.
-Sedište Društva je na sljedećoj adresi:
+Sjedište Društva je na sljedećoj adresi:
 Beograd, Milenitija Popovića br. 33, sprat 7, stan 72
 Pretežna Djelatnost
 Član 4.
@@ -29,7 +31,7 @@ Ukupan upisani novčani dio osnovnog kapitala Društva iznosi: 5.000 dinara, (sl
 Upisani novčani dio osnovnog kapitala će biti uplaćen od strane osnivača u roku od godinu dana od registracije Društva.
 Član Društva
 Član 6.
-Član Društva je: Marko Ivetić, pol muški, državljanin Srbije, JMBG 180898872035, iz Beograda, sa prebivalištem u Jurija Gagarina 201. sa upisanim novčanim ulogom koji iznosi: 5.000 dinara (slovima: pet hiljada dinara), a što iznosi 100% udjela u ukupnom kapitalu društva.
+Član Društva je: Marko Ivetić, pol muški, državljanin Srbije, JMBG 1808988720350, iz Beograda, sa prebivalištem u Jurija Gagarina 201. sa upisanim novčanim ulogom koji iznosi: 5.000 dinara (slovima: pet hiljada dinara), a što iznosi 100% udjela u ukupnom kapitalu društva.
 Neuplaćeni ulog biće uplaćen u roku od godinu dana od dana registracije Društva u registru Agencije za privredne registre.
 Član 7.
 Član Društva ima pravo na isplatu dobiti, u skladu sa zakonom.
@@ -48,14 +50,14 @@ Djelokrug skupštine
 Član 11.
 Skupština društva, odnosno jedini član društva:
 1) donosi izmjene osnivačkog akta;
-2) usvaja finansijske izveštaje, kao i izveštaje revizora ako su finansijski izveštaji bili predmet revizije;
-3) nadzire rad direktora i usvaja izveštaje direktora, ako je upravljanje društvom jednodomno;
+2) usvaja finansijske izvještaje, kao i izvještaje revizora ako su finansijski izvještaji bili predmet revizije;
+3) nadzire rad direktora i usvaja izvještaje direktora, ako je upravljanje društvom jednodomno;
 4) odlučuje o povećanju i smanjenju osnovnog kapitala društva, kao i o svakoj emisiji hartija od vrijednosti;
 5) odlučuje o raspodjeli dobiti i načinu pokrića gubitaka, uključujući i određivanje dana sticanja prava na učešće u dobiti i dana isplate učešća u dobiti članovima društva;
 6) imenuje i razrješava direktora i utvrđuje naknadu za njegov rad odnosno načela za utvrđivanje te naknade, ako je upravljanje društvom jednodomno;
 7) imenuje revizora i utvrđuje naknadu za njegov rad;
 8) odlučuje o pokretanju postupka likvidacije, kao i o podnošenju prijedloga za pokretanje stečajnog postupka od strane društva;
-9) imenuje likvidacionog upravnika i usvaja likvidacione bilanse i izveštaje likvidacionog upravnika;
+9) imenuje likvidacionog upravnika i usvaja likvidacione bilanse i izvještaje likvidacionog upravnika;
 10) odlučuje o sticanju sopstvenih udjela;
 11) odlučuje o obavezama članova društva na dodatne uplate i o vraćanju tih uplata;
 12) odlučuje o zahtjevu za istupanje člana društva;
@@ -77,7 +79,7 @@ S obzirom da će društvo biti jednočlano, sve odluke donosiće jedini član u 
 Direktor
 Član 13.
 Društvo zastupa direktor Društva, sa neograničenim ovlašćenjima.
-Za direktora društva imenuje se: Petar Đorćević, pol muški, državljanin Srbije, JMBG 290298871034, iz Beograda, sa prebivalištem u Ilije Garašanina 6.
+Za direktora društva imenuje se: Petar Đorćević, pol muški, državljanin Srbije, JMBG 2902988710340, iz Beograda, sa prebivalištem u Ilije Garašanina 6.
 Član 14.
 Društvo će imati jednog direktora koji je zakonski zastupnik društva.
 Direktora imenuje član društva u funkciji skupštine.
@@ -86,8 +88,8 @@ Direktor se registruje u skladu sa zakonom o registraciji.
 Djelokrug Direktora je:
 zastupanje društva i vođenje poslova društva u skladu sa zakonom i ovim osnivačkim aktom;
 uredno vođenje poslovnih knjiga;
-tačnost finansijskih izveštaja društva;
-obaveza izveštavanja skupštine;
+tačnost finansijskih izvještaja društva;
+obaveza izvještavanja skupštine;
 svi ostali poslovi koji nisu u nadležnosti skupštine.
 Trajanje I Prestanak Društva
 Član 16.

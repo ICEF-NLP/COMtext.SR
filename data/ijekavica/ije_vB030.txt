@@ -1,3 +1,5 @@
+# title = Ugovor o radu (Trans Impex Trade)
+# source = https://readgur.com/doc/116399/ugovor-o-radu
 Trans Impex Trade doo
 Bul. Vojvode Stepe 123/2
 21000 Novi Sad
@@ -8,13 +10,13 @@ Petar Petrović, IV stepen stručne spreme, (dalje: zaposleni), sa boravištem u
 3. Zaposleni zasniva radni odnos na:
 1) Neodređeno vrijeme, počev od 01.02.2010. godine.
 4. Zaposleni je dužan da stupi na rad 01.02.2010.
-5. Zaposleni zasniva radni odnos sa punim radnim vremenom, u trajanju od osam (8) časova dnevno, odnosno četrdeset (40) časova nedeljno.
+5. Zaposleni zasniva radni odnos sa punim radnim vremenom, u trajanju od osam (8) časova dnevno, odnosno četrdeset (40) časova nedjeljno.
 6. Zaposleni ima pravo na odmor u toku dnevnog rada u trajanju od 30 minuta, u vremenu od 10 do 10.30 časova.
 7. Osnovna zarada zaposlenom se utvrđuje u novčanom iznosu za poslove za koje je zaključen ovaj ugovor, i to:
 · Na ime osnovne zarade u visini od 35.000,00 dinara mjesečno;
 8. Zarada po osnovu ostvarenog radnog učinka utvrđuje se u skladu sa Zakonom o radu.
 9. Zaposleni ima pravo na uvećanu zaradu u skladu sa Zakonom o radu.
-10. Naknada zarade za vrijeme odsustvovanja sa rada na dan praznika koji je neradan dan, godišnjeg odmora, plaćenog odsustva, vojne vežbe i odazivanja na poziv državnog organa, isplaćuje se u visini utvrđenoj Zakonom o radu.
+10. Naknada zarade za vrijeme odsustvovanja sa rada na dan praznika koji je neradan dan, godišnjeg odmora, plaćenog odsustva, vojne vježbe i odazivanja na poziv državnog organa, isplaćuje se u visini utvrđenoj Zakonom o radu.
 11. Naknada zarade za vrijeme odsustvovanja sa rada zbog privremene nesposobnosti za rad (bolovanja) isplaćuje se u visini utvrđenoj Zakonom o radu i Zakonom o zdravstvenom osiguranju.
 12. Naknada zarade zbog odsustvovanja sa rada bez krivice zaposlenog i zbog odsustvovanja po naredbi nadležnog organa, isplaćuje se u skladu sa Zakonom o radu.
 13. Naknada troškova:

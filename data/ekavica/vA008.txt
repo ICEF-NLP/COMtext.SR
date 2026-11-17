@@ -1,3 +1,5 @@
+# title = Ugovor o cesiji
+# source = Karanović & Partners
 Ugovor O Cesiji (ustupanju potraživanja)
 Ovaj Ugovor o cesiji („Ugovor“) je zaključen dana 21.1.2021. godine između sledećih ugovornih strana:
 1. Društvo za projektovanje „Biro 6“ d.o.o. Beograd, sa registrovanim sedištem u Beogradu, Vodovodska 18, PIB 286382441, matični broj 27845311, kao ustupioca („Ustupilac“);

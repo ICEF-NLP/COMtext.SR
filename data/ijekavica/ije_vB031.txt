@@ -1,3 +1,5 @@
+# title = Zakon o prekršajima
+# source = http://www.pravno-informacioni-sistem.rs/
 Zakon O Prekršajima
 ("Sl. glasnik RS", br. 65/2013, 13/2016, 98/2016 - odluka US, 91/2019, 91/2019 - dr. zakon i 112/2022 - odluka US)
 Pojam prekršaja
@@ -5,7 +7,7 @@ Pojam prekršaja
 Prekršaj je protivpravno djelo koje je zakonom ili drugim propisom nadležnog organa određeno kao prekršaj i za koje je propisana prekršajna sankcija.
 Zakonitost u propisivanju prekršaja i prekršajnih sankcija
 Član 3
-Niko ne može biti kažnjen za prekršaj, niti se prema njemu mogu primjeniti druge prekršajne sankcije, ako to djelo prije nego što je bilo izvršeno nije bilo zakonom, ili na zakonu zasnovanom propisu predviđeno kao prekršaj i za koje zakonom ili drugom na zakonu zasnovanom propisu, nije propisano kojom vrstom i visinom sankcije učinilac prekršaja može biti kažnjen.
+Niko ne može biti kažnjen za prekršaj, niti se prema njemu mogu primijeniti druge prekršajne sankcije, ako to djelo prije nego što je bilo izvršeno nije bilo zakonom, ili na zakonu zasnovanom propisu predviđeno kao prekršaj i za koje zakonom ili drugom na zakonu zasnovanom propisu, nije propisano kojom vrstom i visinom sankcije učinilac prekršaja može biti kažnjen.
 Propisivanje prekršaja
 Član 4
 Prekršaji se mogu propisivati zakonom ili uredbom, odnosno odlukom skupštine autonomne pokrajine, skupštine opštine, skupštine grada i skupštine grada Beograda.
@@ -49,7 +51,7 @@ Odgovornost preduzetnika
 Preduzetnik odgovara za prekršaj koji učini pri vršenju svoje djelatnosti.
 Odgovornost odgovornog lica
 Član 30
-Odgovornim licem, u smislu ovog zakona, smatra se lice kome su u pravnom licu povereni određeni poslovi koji se odnose na upravljanje, poslovanje ili proces rada, kao i lice koje u državnom organu, organu teritorijalne autonomije i jedinice lokalne samouprave vrši određene dužnosti.
+Odgovornim licem, u smislu ovog zakona, smatra se lice kome su u pravnom licu povjereni određeni poslovi koji se odnose na upravljanje, poslovanje ili proces rada, kao i lice koje u državnom organu, organu teritorijalne autonomije i jedinice lokalne samouprave vrši određene dužnosti.
 Nije odgovorno za prekršaj odgovorno lice koje je postupalo na osnovu naređenja drugog odgovornog lica ili organa upravljanja i ako je preduzelo sve radnje koje je na osnovu zakona, drugog propisa ili akta bilo dužno da preduzme da bi spriječilo izvršenje prekršaja.
 Odgovornost odgovornog lica ne prestaje zato što mu je prestao radni odnos u pravnom licu, državnom organu ili organu jedinice lokalne samouprave niti zato što je nastala nemogućnost da se pravno lice oglasi odgovornim usljed njegovog prestanka.
 Odgovornost stranih lica

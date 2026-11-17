@@ -1,3 +1,5 @@
+# title = Pravilnik o finansijskom upravljanju i kontroli
+# source = https://gpu.novisad.rs/sites/default/files/dokumenta/Pravilnik%20o%20finansijskom%20upravljanju%20i%20kontroli%20Gradske%20poreske%20uprave_0.PDF
 Na osnovu člana 81. stav 1. Zakona o budžetskom sistemu („Sl. glasnik RS“ br. 54/09, 73/10, 10110, 101/11, 93/12, 62/13, 63/13-ispr., 108/13, 142/14, 68/15-dr. zakon, 103/15, 99/16, 113/17 i 95/18) i člana 3. Pravilnika o zajedničkim kriterijumima i standardima za uspostavljanje, funkcionisanje i izvještavanje o sistemu finansijskog upravljanja i kontrole u javnom sektoru („Sl. glasnik RS“ br. 99/11 i 106/13), v. d. načelnika Gradske poreske uprave, donosi: PRAVILNIK O FINANSIJSKOM UPRAVLjANjU I KONTROLI GRADSKE PORESKE UPRAVE
 Dio Prvi - Opšte Odredbe
 Član 1.
@@ -10,7 +12,7 @@ Finansijsko upravljanje i kontrola je dinamičan i sveobuhvatan sistem politika,
 (Uspostavljanje i sprovođenje finansijskog upravljanja i kontrole)
 Rukovodioci organizacionih jedinica u Gradskoj upravi uspostavljaju finansijsko upravljanje i kontrolu nad funkcionisanjem poslovnih procesa u unutrašnjim organizacionim jedinicama kojima rukovode.
 Finansijsko upravljanje i kontrolu u Gradskoj upravi sprovode svi zaposleni.
-DIO DRUGI - CILj, SVRHA, ZADATAK I DELOKRUG FINANSIJSKOG UPRAVLjANjA I KONTROLE
+DIO DRUGI - CILj, SVRHA, ZADATAK I DJELOKRUG FINANSIJSKOG UPRAVLjANjA I KONTROLE
 Član 4.
 (Cilj finansijskog upravljanja i kontrole)
 Cilj finansijskog upravljanja i kontrole je da se osigura dobar sistem interne kontrole i stvarna odgovornost zaposlenih u Gradskoj upravi za radne zadatke koje obavljaju, kako bi se obezbijedilo da se postavljeni radni zadaci izvršavaju što jednostavnije, brže i ekonomičnije, uz osiguranje odgovarajućeg nivoa kvaliteta i postupanja u skladu sa zakonom i ostalim propisima.
@@ -45,7 +47,7 @@ d) Praćenje i procjena sistema.
 Elementi iz stava 1. ovog člana sadrže aktivnosti i postupke koji se sprovode u skladu sa standardima interne kontrole i zakonskim i podzakonskim propisima.
 Član 10.
 (Uspostavljanje kontrolnog okruženja)
-Rukovodioci organizacionih delova Gradske uprave uspostavljaju, a svi zaposleni unutar Gradske uprave održavaju okruženje koje daje pozitivan stav i stav podrške prema sistemu finansijskog upravljanja i kontrole.
+Rukovodioci organizacionih dijelova Gradske uprave uspostavljaju, a svi zaposleni unutar Gradske uprave održavaju okruženje koje daje pozitivan stav i stav podrške prema sistemu finansijskog upravljanja i kontrole.
 Član 11.
 (Elementi kontrolnog okruženja)
 Kontrolno okruženje obuhvata sljedeće elemente:
@@ -75,7 +77,7 @@ Rizici preostali nakon postojećih kontrolnih aktivnosti (rezidualni rizici) i k
 Rukovodioci organizacionih jedinica Gradske uprave dužni su da kontinuirano prate i najmanje jednom godišnje ažuriraju rizike.
 Član 16.
 (Izvještavanje rukovodioca o upravljanju rizicima)
-Rukovodioci organizacionih jedinica Gradske uprave, kontinuirano izveštavaju načelnika Gradske uprave o aktivnostima vezanim za upravljanje rizicima.
+Rukovodioci organizacionih jedinica Gradske uprave, kontinuirano izvještavaju načelnika Gradske uprave o aktivnostima vezanim za upravljanje rizicima.
 Član 17.
 (Pojam kontrolnih aktivnosti)
 Kontrolne aktivnosti obuhvataju politike i procedure i njihovu primjenu, koje su uspostavljene da pruže razumno uveravanje da su rizici za postizanje ciljeva svedeni na prihvatljiv nivo koji je definisan u procedurama za upravljanje rizikom.
@@ -130,7 +132,7 @@ Rukovodioci organizacionih jedinica su odgovorni za uspostavljanje i funkcionisa
 Svaki zaposleni je odgovoran za sprovođenje i praćenje sistema finansijskog upravljanja i kontrole u skladu sa radnim zadacima koje obavlja i dužnostima koje su mu dodijeljene.
 Član 28.
 (Izvještavanje)
-Načelnik Gradske uprave izveštava Centralnu jedinicu za harmonizaciju Ministarstva finansija Republike Srbije o funkcionisanju sistema finansijskog upravljanja i kontrole u Gradskoj upravi putem Godišnjeg izvještaja adekvatnosti i funkcionisanju sistema finansijskog upravljanja i kontrole.
+Načelnik Gradske uprave izvještava Centralnu jedinicu za harmonizaciju Ministarstva finansija Republike Srbije o funkcionisanju sistema finansijskog upravljanja i kontrole u Gradskoj upravi putem Godišnjeg izvještaja adekvatnosti i funkcionisanju sistema finansijskog upravljanja i kontrole.
 Dio Peti - Završne Odredbe
 Član 29.
 (Obrasci)

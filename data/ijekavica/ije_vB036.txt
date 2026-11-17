@@ -1,3 +1,5 @@
+# title = Zakon o opštem upravnom postupku
+# source = http://www.pravno-informacioni-sistem.rs/
 Zakon O Opštem Upravnom Postupku
 ("Sl. glasnik RS", br. 18/2016, 95/2018 - autentično tumačenje i 2/2023 - odluka US)
 Upravni postupak
@@ -64,7 +66,7 @@ Po potrebi, može da se podjeli u više tačaka.
 U posebne tačke unose se rok, uslov ili nalog, kad ih rješenje, u skladu sa zakonom, sadrži, naznaka da žalba ne odlaže izvršenje rješenja i odluka o troškovima postupka.
 (4) Obrazloženje mora da bude razumljivo i da sadrži kratko izlaganje zahtjeva stranke, činjenično stanje i dokaze na osnovu kojih je ono utvrđeno, razloge koji su bili odlučujući kod ocjene svakog dokaza, propise i razloge koji, s obzirom na utvrđeno činjenično stanje, upućuju na odluku iz dispozitiva i razloge zašto nije uvažen neki zahtjev ili prijedlog.
 Obrazloženje sadrži i razloge zbog kojih je organ odstupio od rješenja koja je ranije donosio u istim ili sličnim upravnim stvarima.
-Ako je odlučeno po slobodnoj ocjeni, obrazloženje sadrži i propis koji organ ovlašćuje na to, razloge kojima se rukovodio pri odlučivanju i u kojim granicama i s kojim ciljem je primjenio ovlašćenje da odlučuje po slobodnoj ocjeni.
+Ako je odlučeno po slobodnoj ocjeni, obrazloženje sadrži i propis koji organ ovlašćuje na to, razloge kojima se rukovodio pri odlučivanju i u kojim granicama i s kojim ciljem je primijenio ovlašćenje da odlučuje po slobodnoj ocjeni.
 Ako žalba ne odlaže izvršenje rješenja, obrazloženje sadrži i pozivanje na zakon koji to predviđa.
 (5) U uputstvu o pravnom sredstvu stranka se obavještava da li protiv rješenja može da se izjavi žalba ili pokrene upravni spor.
 Ako može da se izjavi žalba, uputstvo sadrži naziv organa kome se žalba izjavljuje, naziv organa kome se žalba predaje i u kom roku, visinu takse koja se plaća i da žalba može da se izjavi usmeno na zapisnik kod organa protiv čijeg rješenja se izjavljuje.

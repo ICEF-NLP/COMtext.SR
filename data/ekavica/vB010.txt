@@ -1,3 +1,5 @@
+# title = Ugovor o delu
+# source = Karanović & Partners
 Osnovna škola Branko Ćopić
 Broj: 87
 Datum: 24.05.2010.

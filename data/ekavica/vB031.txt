@@ -1,3 +1,5 @@
+# title = Zakon o prekršajima
+# source = http://www.pravno-informacioni-sistem.rs/
 Zakon O Prekršajima
 ("Sl. glasnik RS", br. 65/2013, 13/2016, 98/2016 - odluka US, 91/2019, 91/2019 - dr. zakon i 112/2022 - odluka US)
 Pojam prekršaja

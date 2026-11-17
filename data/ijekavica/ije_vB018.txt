@@ -1,3 +1,5 @@
+# title = Procedura za postupanje i odlučivanje po prigovorima i žalbama
+# source = https://www.ratel.rs/upload/documents/Regulativa/Ritt_oprema/Procedura%20za%20postupanje%20po%20%20prigovorima.pdf
 Na osnovu člana 17. Zakona o elektronskim komunikacijama („Službeni glasnik RS“, broj 44/10) i člana 21. Statuta Republičke agencije za elektronske komunikacije („Službeni glasnik RS“, broj 59/10), direktor Republičke agencije za elektronske komunikacije donosi Proceduru Za Postupanje I Odlučivanje Po Prigovorima I Žalbama Na Rad Republičke Agencije Za Elektronske Komunikacije U Vezi Sa Poslovima Ocjenjivanja Usaglašenosti
 I Opšte Odredbe
 Član 1.
@@ -14,7 +16,7 @@ II Organi Nadležni Za Odlučivanje Po Prigovoru I Žalbi I Razlozi Za Ulaganje 
 Organi nadležni za odlučivanje po prigovorima i žalbama su:
 - direktor Agencije;
 - komisija za rješavanje prigovora i žalbi u vezi sa poslovima ocjenjivanja usaglašenosti (u daljem tekstu: Komisija);
-- rukovodioci organizacionih delova Agencije u čijem su djelokrugu poslovi u vezi sa ocjenjivanjem usaglašenosti (u daljem tekstu: ovlašćeni radnici Agencije);
+- rukovodioci organizacionih dijelova Agencije u čijem su djelokrugu poslovi u vezi sa ocjenjivanjem usaglašenosti (u daljem tekstu: ovlašćeni radnici Agencije);
 - Upravni odbor Agencije.
 Komisiju iz stava 1. ovog člana čine predsjednik i dva člana, koju, svojom odlukom imenuje direktor Agencije.
 Predsjednik Komisije je odgovoran za sprovođenje postupka rješavanja prigovora i žalbi.

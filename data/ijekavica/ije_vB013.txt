@@ -1,3 +1,5 @@
+# title = Zaključak o donošenju presude bez rasprave u sporu male vrednosti
+# source = http://www.propisionline.com/Practice/Decision/61187
 Zaključak
 Mogućnost Donošenja Presude Bez Rasprave U Sporu Male Vrijednosti
 U postupku o sporovima male vrijednosti nije isključena mogućnost donošenja presude bez održavanja rasprave, pod uslovima propisanim u članu 291. stav 2. ZPP (ukoliko tuženi podnošenjem fakultativnog odgovora na tužbu prizna činjenice na kojima se zasniva tužbeni zahtjev i kada ne postoje druge smetnje za donošenje odluke).

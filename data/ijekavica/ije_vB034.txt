@@ -1,3 +1,5 @@
+# title = Zakon o obligacionim odnosima
+# source = http://www.pravno-informacioni-sistem.rs/
 Odsjek 4
 Nevažnost ugovora
 I Ništavi ugovori
@@ -63,7 +65,7 @@ Uslovi ustupanja
 (1) Svaka strana u dvostranom ugovoru može, ako na to pristane druga strana, ustupiti ugovor nekom trećem licu, koje time postaje nosilac svih njenih prava i obaveza iz tog ugovora.
 (2) Ustupanjem ugovora ugovorni odnos između ustupioca i druge strane prelazi na prijemnika i drugu stranu u času kad je druga strana pristala na ustupanje, a ako je druga strana dala svoj pristanak unaprijed, u času kad je obaviještena o ustupanju.
 (3) Pristanak na ustupanje ugovora je punovažan samo ako je dat u formi u zakonu propisanoj za ustupljeni ugovor.
-(4) Odredbe o sporednim pravima u vezi sa ugovorom o preuzimanju duga shodno će se primjeniti i na ustupanje ugovora.
+(4) Odredbe o sporednim pravima u vezi sa ugovorom o preuzimanju duga shodno će se primijeniti i na ustupanje ugovora.
 Odgovornost ustupioca
 Član 146
 (1) Ustupilac odgovara prijemniku za punovažnost ustupljenog ugovora.
@@ -84,7 +86,7 @@ Pravo na naknadu štete
 I Opšta pravila
 Ispunjenje obaveze i posljedice neispunjenja
 Član 262
-(1) Povjerilac u obaveznom odnosu je ovlašćen da od dužnika zahtijeva ispunjenje obaveze, a dužnik je dužan ispuniti je savesno u svemu kako ona glasi.
+(1) Povjerilac u obaveznom odnosu je ovlašćen da od dužnika zahtijeva ispunjenje obaveze, a dužnik je dužan ispuniti je savjesno u svemu kako ona glasi.
 (2) Kad dužnik ne ispuni obavezu ili zadocni sa njenim ispunjenjem, povjerilac ima pravo zahtijevati i naknadu štete koju je usljed toga pretrpio.
 (3) Za štetu zbog zadocnjenja sa ispunjenjem odgovara i dužnik kome je povjerilac dao primjeren naknadni rok za ispunjenje.
 (4) Dužnik odgovara i za djelimičnu ili potpunu nemogućnost ispunjenja i ako tu nemogućnost nije skrivio ako je nastupila poslije njegovog dolaska u docnju, za koju odgovara.
@@ -279,7 +281,7 @@ Ispunjenje, sniženje cijene, raskid ugovora, naknada štete
 (3) Pored toga, i nezavisno od toga, prodavac odgovara kupcu i za štetu koju je ovaj zbog nedostatka stvari pretrpio na drugim svojim dobrima, i to prema opštim pravilima o odgovornosti za štetu.
 Neispunjenje ugovora u razumnom roku
 Član 489
-Ako kupac ne dobije zahtijevano ispunjenje ugovora u razumnom roku, zadržava pravo da raskine ugovor ili da snizi cijenu.
+Ako kupac ne dobije zahtjevano ispunjenje ugovora u razumnom roku, zadržava pravo da raskine ugovor ili da snizi cijenu.
 Kad kupac može raskinuti ugovor
 Član 490
 (1) Kupac može raskinuti ugovor samo ako je prethodno ostavio prodavcu naknadni primjereni rok za ispunjenje ugovora.
@@ -449,4 +451,4 @@ Otkaz
 Propast stvari usljed više sile
 Član 598
 (1) Zakup prestaje ako zakupljena stvar bude uništena nekim slučajem više sile.
-(2) Ako zakupljena stvar bude djelimično uništena ili samo oštećena, zakupac može raskinuti ugovor ili ostati i dalje u zakupu i zahtjevati odgovarajuće sniženje zakupnine.
+(2) Ako zakupljena stvar bude djelimično uništena ili samo oštećena, zakupac može raskinuti ugovor ili ostati i dalje u zakupu i zahtijevati odgovarajuće sniženje zakupnine.

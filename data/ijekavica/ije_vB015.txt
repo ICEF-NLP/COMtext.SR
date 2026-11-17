@@ -1,3 +1,5 @@
+# title = Pravilnik o postupku unutrašnjeg uzbunjivanja
+# source = Karanović & Partners
 Republika Srbija GRAD BEOGRAD
 Služba za centralizovane javne nabavke i kontrolu nabavki
 XII-1 broj 110 - 4/2015
@@ -49,7 +51,7 @@ Takav Zapisnik sadrži:
 2) vrijeme i mjesto sastavljanja;
 3) podatke o prisutnim licima;
 4) opis činjeničnog stanja o informaciji u vezi sa unutrašnjim uzbunjivanjem, podatke o vremenu, mjestu i načinu kršenja propisa iz oblasti radnih odnosa, bezbjednosti i zdravlja na radu, ljudskih prava zaposlenih, opasnostima po njihov život, zdravlje, opštu bezbjednost, životnu sredinu, ukazivanje na mogućnost nastanka štete velikih razmjera i drugo;
-5) primedbe uzbunjivača na sadržaj zapisnika ili njegovu izjavu da nema nikakvih primjedbi na zapisnik i da se u potpunosti slaže sa njegovom sadržinom;
+5) primjedbe uzbunjivača na sadržaj zapisnika ili njegovu izjavu da nema nikakvih primjedbi na zapisnik i da se u potpunosti slaže sa njegovom sadržinom;
 6) potpis lica ovlašćenog za prijem informacije i vođenje postupka u vezi sa unutrašnjim uzbunjivanjem;
 7) pečat poslodavca.
 Postupanje po informaciji
@@ -71,7 +73,7 @@ Takav zapisnik sadrži:
 2) vrijeme i mjesto sastavljanja;
 3) podatke o prisutnim licima;
 4) opis utvrđenog činjeničnog stanja povodom informacije u vezi sa unutrašnjim uzbunjivanjem;
-5) primedbe prisutnog lica na sadržaj zapisnika ili njegovu izjavu da nema nikakvih primjedbi na zapisnik i da se u potpunosti slaže sa njegovom sadržinom;
+5) primjedbe prisutnog lica na sadržaj zapisnika ili njegovu izjavu da nema nikakvih primjedbi na zapisnik i da se u potpunosti slaže sa njegovom sadržinom;
 6) potpis prisutnih lica i lica ovlašćenog za prijem informacije i vođenje postupka u vezi sa unutrašnjim uzbunjivanjem;
 7) pečat poslodavca.
 Informisanje uzbunjivača

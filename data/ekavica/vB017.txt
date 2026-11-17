@@ -1,9 +1,11 @@
+# title = Pravno shvatanje o roku zastarelosti potraživanja poslodavca prema zaposlenom po ugovoru o zajmu
+# source = https://www.vk.sud.rs/sites/default/files/attachments/Pravno%20shvatanje%20-%20rok%20zastarelosti%20potrazivanja%20poslodavca%20prema%20zaposlenom%20po%20ugovoru%20o%20zajmu.pdf
 Pravno Shvatanje
 Rok Zastarelosti Potraživanja Poslodavca Prema Zaposlenom Po Ugovoru O Zajmu (Imenovanom Kao Ugovor O Stambenom Kreditu)
 Potraživanje poslodavca prema zaposlenom iz ugovora imenovanog kao ugovor o stambenom kreditu koji ima prirodu ugovora o zajmu, predstavlja novčano potraživanje iz radnog odnosa, imajući u vidu da su bitna svojstva ugovornih strana da su u radnom odnosu zasnovanom ugovorom o radu i to poslodavac kao zajmodavac, a zaposleni kao zajmoprimac, zbog čega se ne primenjuje rok zastarelosti propisan članom 371. ZOO, već posebni rok zastarelosti iz člana 196. Zakona o radu, uz primenu odredbe člana 86. Zakona o stečaju, koja propisuje da zastarelost ne teče godinu dana od dana otvaranja stečajnog postupka.
 Obrazloženje
 Privredni sud u Leskovcu je dostavio Vrhovnom kasacionom sudu zahtev postupajućeg sudije za pokretanje postupka radi rešavanja spornog pravnog pitanja.
-Uz zahtev su dostavljeni spisi predmeta P  66/2022, sa naznakom da je pred Privrednim sudom u Leskovcu u toku veći broj predmeta po tužbama tužioca Stečajna masa stečajnog dužnika PZP Vranje u stečaju, protiv tuženih fizičkih lica, bivših zaposlenih, radi naplate novčanog potraživanja.
+Uz zahtev su dostavljeni spisi predmeta P 66/2022, sa naznakom da je pred Privrednim sudom u Leskovcu u toku veći broj predmeta po tužbama tužioca Stečajna masa stečajnog dužnika PZP Vranje u stečaju, protiv tuženih fizičkih lica, bivših zaposlenih, radi naplate novčanog potraživanja.
 Sudija je inicirao postupak za rešavanje spornog pravnog pitanja na osnovu čl. 180. i 181. ZPP, po službenoj dužnosti, i izložio kratak prikaz utvrđenog činjeničnog stanja, razloge zbog kojih se obraća sa zahtevom i sopstveno tumačenje spornog pravnog pitanja.
 Sporno je pitanje da li potraživanje poslodavca prema zaposlenom po ugovoru o stambenom kreditu zaključenom u toku trajanja radnog odnosa, zastareva u opštem roku zastarelosti propisanom Zakonom o obligacionim odnosima ili u trogodišnjem roku propisanom članom 196. Zakona o radu, te da li se primenjuju odredbe o zastoju zastarevanja iz člana 86. Zakona o stečaju.
 Odredbe o zastarelosti sadržane su u opštem propisu, Zakonu o obligacionim odnosima.

@@ -1,3 +1,5 @@
+# title = Posebni kolektivni ugovor za zaposlene u oblasti obrazovanja i kulture RS
+# source = https://vladars.net/sr-SP-Cyrl/Vlada/Ministarstva/mpk/PAO/PublishingImages/Pages/Osnovno_obrazovanje/Посебни%20колективни%20уговор%20за%20запослене%20у%20области%20образовања%20и%20културе%20Републике%20Српске.pdf
 Posebni Kolektivni Ugovor Za Zaposlene U Oblasti Obrazovanja I Kulture Republike Srpske
 Banja Luka, avgust 2019. godine
 Na osnovu člana 240. stav 3. Zakona o radu („Službeni glasnik Republike Srpske“, br. 1/16 i 66/18), člana 18. stav 2. Zakona o platama zaposlenih u osnovnim i srednjim školama i đačkim domovima u Republici Srpskoj („Službeni glasnik Republike Srpske“, broj 11/19) i člana 15. stav 2. Zakona o platama zaposlenih u oblasti kulture Republike Srpske („Službeni glasnik Republike Srpske“, broj 11/19), ministar prosvjete i kulture u Vladi Republike Srpske, po ovlašćenju Vlade Republike Srpske, i Sindikat obrazovanja, nauke i kulture Republike Srpske zaključuju Posebni Kolektivni Ugovor Za Zaposlene U Oblasti Obrazovanja I Kulture Republike Srpske
@@ -9,7 +11,7 @@ I - Opšte Odredbe
 (4) Sindikatom, u smislu ovog kolektivnog ugovora, smatra se Sindikat obrazovanja, nauke i kulture Republike Srpske.
 Član 2.
 Ovaj kolektivni ugovor odnosi se na sve poslodavce i zaposlene u oblasti: predškolskog, osnovnog, srednjeg, specijalnog i umjetničkog vaspitanja i obrazovanja, učeničkog standarda i u oblasti kulture, kojima je osnivač Republika Srpska (u daljem tekstu: Republika) ili jedinica lokalne samouprave i imaju sjedište na teritoriji Republike.
-II - ZAKLjUČIVANJE I PRIMENA UGOVORA O RADU
+II - ZAKLjUČIVANJE I PRIMJENA UGOVORA O RADU
 Član 3.
 Uslovi za zaključivanje ugovora o radu, probni rad, rad radnika u drugom mjestu, rad radnika u posebnim slučajevima, dopunsko osposobljavanje, stručno obrazovanje, obavljanje poslova van prostorija poslodavca, rad pripravnika regulisani su zakonskim propisima kojim se definišu radni odnosi, zakonima djelatnosti i Odlukom o utvrđivanju uvećanja plate, visine primanja po osnovu rada i visine pomoći radniku.
 III - Radno Vrijeme
@@ -58,9 +60,9 @@ IV - Odmor I Odsustvo
 (1) Radniku se može odobriti neplaćeno odsustvo do godinu dana radi:
 1) obavljanja neodložnih ličnih i porodičnih poslova koje je radnik dužan obrazložiti u svom zahtjevu,
 2) pripremanja i polaganja ispita na visokoškolskoj ustanovi ili drugoj obrazovnoj organizaciji i pripremanja magisterija ili doktorata, ukoliko se radnik ne obrazuje u interesu poslodavca,
-3) posete članu porodice koji živi u inostranstvu,
+3) posjete članu porodice koji živi u inostranstvu,
 4) stručnog usavršavanja u inostranstvu, ukoliko usavršavanje nije na zahtjev i u interesu poslodavca,
-5) nege teško obolelog člana porodice i
+5) nege teško oboljelog člana porodice i
 6) u drugim opravdanim slučajevima.
 (2) Za vrijeme neplaćenog odsustva prava i obaveze radnika po osnovu rada miruju, a troškove penzijskog i invalidskog osiguranja snosi korisnik neplaćenog odsustva.
 V - Zaštita Radnika
@@ -80,8 +82,8 @@ VI - Plate I Naknade
 (2) Osnovna plata iz stava 1. ovog člana je proizvod cijene rada kao izraza vrijednosti za najjednostavniji rad i koeficijenta utvrđenog prema platnoj grupi i platnoj podgrupi.
 (3) Plata radnika uvećava se po osnovu staža osiguranja u skladu sa zakonskim propisima kojima se propisuju plate, a za zaposlene u predškolskim ustanovama u skladu sa propisima jedinice lokalne samouprave.
 (4) Naknade za topli obrok i regres uračunate su u iznos osnovne plate iz stava 2. ovog člana i ne mogu se posebno iskazivati, osim za zaposlene u predškolskim ustanovama.
-(5) Cenu rada utvrđuju Vlada Republike Srpske (u daljem tekstu: Vlada) i Sindikat obrazovanja, nauke i kulture Republike Srpske u trećem kvartalu tekuće godine za narednu budžetsku godinu.
-(6) Cenu rada u predškolskim ustanovama utvrđuju poslodavac i sindikat u ustanovi i ona ne može biti manja od cijene rada utvrđene stavom 5. ovog člana.
+(5) Cijenu rada utvrđuju Vlada Republike Srpske (u daljem tekstu: Vlada) i Sindikat obrazovanja, nauke i kulture Republike Srpske u trećem kvartalu tekuće godine za narednu budžetsku godinu.
+(6) Cijenu rada u predškolskim ustanovama utvrđuju poslodavac i sindikat u ustanovi i ona ne može biti manja od cijene rada utvrđene stavom 5. ovog člana.
 Član 11.
 Radniku koji radi kraće od punog radnog vremena osnovna plata se utvrđuje srazmjerno radnom vremenu koje je proveo na radu.
 Član 12.
@@ -137,7 +139,7 @@ U osnovnim školama koje imaju preko 24 odjeljenja sekretaru i računovođi, ako
 (3) Ako je u vaspitnoj grupi uključeno dijete sa smetnjama u razvoju i u skladu sa članom 55. zakona kojim se reguliše oblast predškolskog vaspitanja i obrazovanja angažovan saradnik za vaspitača, zbog specifičnih potreba djeteta sa smetnjama u razvoju u ranom razvojnom periodu, period njegovog angažovanja zavisi od boravka djeteta sa smetnjama u razvoju u grupi.
 (4) Finansiranje rada saradnika za vaspitača iz stava 3. ovog člana obezbjeđuje osnivač predškolske ustanove.
 (5) Nastavnicima i stručnim saradnicima koji samo dio časova izvode u ustanovama za djecu sa smetnjama u razvoju osnovna plata uvećava se 10% samo za te časove.
-(6) Nastavnicima i stručnim saradnicima koji dio časova izvode u posebnim odeljenjima za djecu sa smetnjama u razvoju, koja su formirana unutar škola, osnovna plata uvećava se 10% samo za te časove.
+(6) Nastavnicima i stručnim saradnicima koji dio časova izvode u posebnim odjeljenjima za djecu sa smetnjama u razvoju, koja su formirana unutar škola, osnovna plata uvećava se 10% samo za te časove.
 Član 22.
 Zaposleni u ustanovama kulture koji svoje poslove obavljaju na terenu, u prirodi - s ciljem zaštite i restauracije kulturnog nasljeđa, osnovna plata uvećava se za naknadu za povećane troškove boravka za vrijeme rada na terenu u visini 10% dnevno od cijene rada utvrđene u skladu sa zakonima djelatnosti.
 Član 23.
@@ -171,7 +173,7 @@ Zaposlenima u ustanovama kulture koji redovno radno vrijeme ostvaruju u dvije sm
 Poslodavac zaposlenima isplaćuje:
 1) dnevnicu za službeno putovanje u Republici, Federaciji BiH i u inostranstvu u iznosu koji odredi Vlada posebnim aktom,
 2) naknadu troškova prevoza kod dolaska na posao i povratka s posla radniku kojem je mjesto stanovanja udaljeno od radnog mjesta preko četiri kilometra u jednom pravcu, a najviše do 50 kilometara u jednom pravcu, u visini do pune cijene mjesečne prevozne karte u javnom saobraćaju, što će se bliže urediti Uputstvom o načinu obračuna naknade troškova prevoza zaposlenih u ustanovama obrazovanja i kulture Republike Srpske, koje donosi ministar, uz prethodno pribavljeno mišljenje Sindikata obrazovanja, nauke i kulture,
-3) otpremninu prilikom odlaska radnika u penziju u visini tri prosječne plate radnika ostvarene u poslednja tri mjeseca prije ostvarivanja prava na penziju,
+3) otpremninu prilikom odlaska radnika u penziju u visini tri prosječne plate radnika ostvarene u posljednja tri mjeseca prije ostvarivanja prava na penziju,
 4) troškove za prvo polaganje pripravničkog i drugih ispita koji su u svrhu stručnog osposobljavanja radnika,
 5) naknadu troškova za korišćenje sopstvenog automobila prilikom obavljanja službenog posla po nalogu poslodavca - u visini do 20% cijene goriva po jednom litru za svaki pređeni kilometar i
 6) naknadu po osnovu obavljanja funkcije predsjednika aktiva direktora osnovnih ili srednjih škola u visini 15% na osnovnu platu.
@@ -180,7 +182,7 @@ Poslodavac zaposlenima isplaćuje:
 (2) Poslodavac radniku isplaćuje jubilarnu nagradu u visini 10 iznosa cijene rada utvrđene Odlukom Vlade za trideset godina radnog staža u obrazovanju i kulturi, u godini kada navršava te godine staža.
 Član 31.
 (1) U slučaju ostvarenih posebnih rezultata rada, poslodavac može zaposlenog u ustanovama u oblasti obrazovanja i kulture nagraditi dodjeljivanjem jednokratne novčane naknade.
-(2) Nagrada iz stava 1. ovog člana dodeljuje se u novčanom iznosu i može iznositi 50%, 70% ili 100% visine plate radnika ostvarene u prethodnom mjesecu, prije dodjeljivanja nagrade.
+(2) Nagrada iz stava 1. ovog člana dodjeljuje se u novčanom iznosu i može iznositi 50%, 70% ili 100% visine plate radnika ostvarene u prethodnom mjesecu, prije dodjeljivanja nagrade.
 (3) Poslodavac iz stava 1. ovog člana nagrađivanje vrši na osnovu objektivnih kriterijuma utvrđenih opštim aktom škole i ustanove.
 Član 32.
 Vlade,
@@ -193,7 +195,7 @@ Primanja radnika po osnovu ovog kolektivnog ugovora isplaćivaće se iz budžeta
 VII - Odgovornost Za Povredu Obaveza Iz Ugovora O Radu I Materijalna Odgovornost Radnika
 1. Povreda obaveza iz ugovora o radu od strane radnika
 Član 34.
-(1) Povredu obaveze iz ugovora o radu radnik čini neizvršavanjem ili nemarnim, neblagovremenim i nesavesnim izvršavanjem radne obaveze.
+(1) Povredu obaveze iz ugovora o radu radnik čini neizvršavanjem ili nemarnim, neblagovremenim i nesavjesnim izvršavanjem radne obaveze.
 (2) Povredu radne obaveze radnik može izvršiti činjenjem ili nečinjenjem.
 (3) Za povredu radne obaveze radnik odgovara u postupku za utvrđivanje odgovornosti.
 (4) Odgovornost za povredu radne obaveze ne isključuje krivičnu, prekršajnu i materijalnu odgovornost.
@@ -212,14 +214,14 @@ VII - Odgovornost Za Povredu Obaveza Iz Ugovora O Radu I Materijalna Odgovornost
 1) pismeno upozorenje,
 2) novčana kazna,
 3) prestanak radnog odnosa.
-(6) Mera iz stava 5. tačka 3. ovog člana ne može se izreći za lakše povrede radne obaveze.
+(6) Mjera iz stava 5. tačka 3. ovog člana ne može se izreći za lakše povrede radne obaveze.
 3. Disciplinski postupak
 Član 36.
 (1) Ovim kolektivnim ugovorom uređuju se pokretanje, vođenje i zastarelost disciplinskog postupka za utvrđivanje disciplinske odgovornosti zbog povrede radnih obaveza i druga pitanja od značaja za zaštitu radne discipline i pitanje materijalne odgovornosti radnika.
 (2) Ustanove iz oblasti vaspitanja, obrazovanja i kulture obavezne su da donesu pravilnik o disciplinskom postupku u skladu sa ovim kolektivnim ugovorom.
 Član 37.
 (1) Inicijativu za pokretanje disciplinskog postupka može dati svaki radnik i neposredni rukovodilac koji ima saznanja o učinjenoj povredi radne obaveze.
-(2) Inicijativa za pokretanje disciplinskog postupka podnosi se u pisanoj formi i mora biti obrazložena i potkrepljena dokazima.
+(2) Inicijativa za pokretanje disciplinskog postupka podnosi se u pisanoj formi i mora biti obrazložena i potkrijepljena dokazima.
 Član 38.
 Disciplinski postupak pokreće se zahtjevom, koji treba da sadrži: ime i prezime radnika koji je učinio povredu radne obaveze, radno mjesto, zanimanje i druge potrebne podatke, činjenični opis povrede radne obaveze, vrijeme, mjesto i način izvršenja, vrstu i pravnu kvalifikaciju povrede radne obaveze, posljedice učinjene povrede, podatke o pričinjenoj šteti, dokaze za navode iz zahtjeva i drugo.
 Član 39.
@@ -232,7 +234,7 @@ Disciplinski postupak pokreće se zahtjevom, koji treba da sadrži: ime i prezim
 (7) Disciplinsku komisiju imenuje organ upravljanja u roku od 60 dana od dana učinjene povrede.
 Član 40.
 (1) Lice ovlašćeno za pokretanje disciplinskog postupka dužno je podnijeti zahtjev u roku od tri mjeseca od dana saznanja, a najkasnije u roku od šest mjeseci od učinjene povrede radne obaveze.
-(2) Pre pokretanja disciplinskog postupka protiv radnika direktor je obavezan da sasluša radnika uz prisustvo predsjednika sindikalne organizacije ili člana sindikata kojeg on ovlasti.
+(2) Prije pokretanja disciplinskog postupka protiv radnika direktor je obavezan da sasluša radnika uz prisustvo predsjednika sindikalne organizacije ili člana sindikata kojeg on ovlasti.
 (3) Rješenje o pokretanju disciplinskog postupka, zajedno sa kompletnom dokumentacijom i svim prilozima, obavezno se dostavlja radniku, disciplinskoj komisiji i sindikalnoj organizaciji.
 (4) Disciplinska komisija radi u punom sastavu, a odluke donosi većinom glasova.
 (5) Radniku protiv kog je pokrenut disciplinski postupak organi koji vode postupak obavezni su omogućiti pristup potrebnoj dokumentaciji i prisustvo sjednicama na kojima se raspravlja o disciplinskoj odgovornosti.
@@ -240,7 +242,7 @@ Disciplinski postupak pokreće se zahtjevom, koji treba da sadrži: ime i prezim
 Član 41.
 (1) Po prijemu zahtjeva, predsjednik disciplinske komisije poziva podnosioca zahtjeva, radnika protiv koga se vodi disciplinski postupak, predstavnike sindikata, svjedoke i druga lica za utvrđivanje disciplinske odgovornosti.
 (2) Poziv mora biti uručen osam dana prije održavanja rasprave.
-(3) Raspravom rukovodi predsjednik disciplinske komisije, koji daje i oduzima reč, postavlja pitanja, traži objašnjenja, a nakon toga daje reč članovima disciplinske komisije.
+(3) Raspravom rukovodi predsjednik disciplinske komisije, koji daje i oduzima riječ, postavlja pitanja, traži objašnjenja, a nakon toga daje riječ članovima disciplinske komisije.
 (4) Rasprava će se odložiti ako ne postoji dokaz da je poziv uručen, odnosno ako je radnik opravdano spriječen da dođe na raspravu, a tada se određuje novi termin održavanja rasprave.
 (5) O toku rasprave vodi se zapisnik.
 Član 42.
@@ -253,7 +255,7 @@ Disciplinski postupak pokreće se zahtjevom, koji treba da sadrži: ime i prezim
 (4) Disciplinska komisija može predložiti direktoru da radniku za težu povredu radne obaveze ili nepoštovanje radne discipline, u smislu stava 3. t. 2. i 3. ovog člana, ako smatra da postoje olakšavajuće okolnosti ili da povreda radne obaveze, odnosno nepoštovanje radne discipline nije takve prirode da radniku treba da prestane radni odnos, umjesto otkaza ugovora o radu, izrekne jednu od sljedećih mjera:
 1) novčanu kaznu u visini do 20% osnovne plate radnika za mjesec u kome je novčana kazna izrečena u trajanju do tri mjeseca, koja se izvršava obustavom od plate, na osnovu odluke o izrečenoj mjeri i
 2) pismeno upozorenje sa najavom otkaza ugovora o radu, u kojem se navodi da će poslodavac radniku otkazati ugovor o radu bez ponovnog upozorenja, ako u narednom roku od šest mjeseci učini povredu radne obaveze ili nepoštovanja radne discipline.
-(5) Ako radnik učini propust u radu ili u vezi sa radom koji se ne smatra težom povredom radnih obaveza, u smislu člana 35. stav 2. ovog kolektivnog ugovora, na prijedlog disciplinske komisije direktor će ga pismeno upozoriti na takvo ponašanje ili izreći meru iz stava 3. t. 1. ili 2. ovog člana, pa ako radnik, i pored tog upozorenja, ponovi isti ili drugi propust, u roku od jedne godine, takvo ponovljeno ponašanje smatraće se težom povredom radnih obaveza zbog koje poslodavac može otkazati ugovor o radu.
+(5) Ako radnik učini propust u radu ili u vezi sa radom koji se ne smatra težom povredom radnih obaveza, u smislu člana 35. stav 2. ovog kolektivnog ugovora, na prijedlog disciplinske komisije direktor će ga pismeno upozoriti na takvo ponašanje ili izreći mjeru iz stava 3. t. 1. ili 2. ovog člana, pa ako radnik, i pored tog upozorenja, ponovi isti ili drugi propust, u roku od jedne godine, takvo ponovljeno ponašanje smatraće se težom povredom radnih obaveza zbog koje poslodavac može otkazati ugovor o radu.
 Član 43.
 (1) Na prvostepenu odluku radnik protiv kog se vodio disciplinski postupak i podnosilac zahtjeva mogu podnijeti žalbu drugostepenom organu, odnosno organu upravljanja u roku od 15 dana od prijema odluke.
 (2) Žalba odlaže izvršenje odluke, a odluka drugostepenog organa je konačna.
@@ -262,7 +264,7 @@ Disciplinski postupak pokreće se zahtjevom, koji treba da sadrži: ime i prezim
 (2) Vođenje postupka zastareva protekom šest mjeseci od dana pokretanja postupka za utvrđivanje odgovornosti radnika.
 (3) Izvršenju izrečene mjere za povredu radne obaveze ne može se pristupiti ako je proteklo više od dva mjeseca od dana konačne odluke kojom je mjera izrečena.
 Član 45.
-(1) Lakšu povredu radne obaveze utvrđuje i odgovarajuću disciplinsku meru izriče direktor ili lice koje on ovlasti.
+(1) Lakšu povredu radne obaveze utvrđuje i odgovarajuću disciplinsku mjeru izriče direktor ili lice koje on ovlasti.
 (2) Pri izricanju disciplinske mjere radnik protiv kog se mjera izriče mora biti saslušan u prisustvu predstavnika sindikata kojem radnik pripada.
 4. Naknade materijalne štete
 Član 46.
@@ -270,7 +272,7 @@ Disciplinski postupak pokreće se zahtjevom, koji treba da sadrži: ime i prezim
 (2) Ako se visina štete ne može utvrditi u tačnom iznosu, njena se visina utvrđuje u paušalnom iznosu od strane komisije koju imenuje direktor ili lice koje on ovlasti.
 (3) Ako štetu prouzrokuje više radnika, svaki od njih odgovara za dio štete koju je prouzrokovao, a ako se ne može utvrditi dio štete koju je prouzrokovao svaki pojedini radnik, smatra se da su svi podjednako odgovorni i štetu nadoknađuju u jednakim dijelovima.
 (4) Ako je više radnika prouzrokovalo štetu krivičnim djelom, za štetu odgovaraju solidarno.
-(5) Ako se ne može utvrditi tačan iznos naknade štete ili ako bi utvrđivanje njene visine prouzrokovalo nesrazmerne troškove, visina naknade štete utvrđuje se u paušalnom iznosu.
+(5) Ako se ne može utvrditi tačan iznos naknade štete ili ako bi utvrđivanje njene visine prouzrokovalo nesrazmjerne troškove, visina naknade štete utvrđuje se u paušalnom iznosu.
 (6) Ukoliko je prouzrokovana šteta znatno veća od utvrđenog paušalnog iznosa naknade štete, poslodavac može zahtijevati naknadu u visini punog iznosa prouzrokovane štete.
 (7) U radu komisije učestvuje i predstavnik sindikata kojem radnik pripada.
 (8) Radnik koji na radu i u vezi sa radom pričini materijalnu štetu poslodavcu može se osloboditi plaćanja naknade za štetu ako bi time bila ugrožena egzistencija radnika i njegove porodice i u drugim slučajevima utvrđenim pojedinačnim kolektivnim ugovorom ili pravilnikom o radu.
@@ -302,7 +304,7 @@ VIII - Zaštita Prava Radnika
 (2) U slučaju zahtjeva radnika, direktor ili organ upravljanja su obavezni dati pismeni odgovor u roku od 30 dana od dana podnošenja, a ako u tom roku ne odluči, smatraće se da je zahtjev prihvaćen.
 (3) U slučaju povrede prava radnika prije traženja zaštite kod nadležnog suda, radnik i poslodavac radni spor mogu riješiti sporazumom ili arbitražom uz učešće Agencije za mirno rješavanje radnih sporova.
 (4) Pravo na podnošenje prijedloga za mirno rješavanje radnog spora pred Agencijom za mirno rješavanje radnih sporova ili tužbe pred nadležnim sudom nije uslovljeno prethodnim obraćanjem radnika poslodavcu za zaštitu prava.
-(5) Predlog za mirno rješavanje radnog spora pred Agencijom za mirno rješavanje radnih sporova radnik može da podnese u roku od 30 dana od dana saznanja za povredu prava, a najkasnije u roku od tri mjeseca od dana učinjene povrede.
+(5) Prijedlog za mirno rješavanje radnog spora pred Agencijom za mirno rješavanje radnih sporova radnik može da podnese u roku od 30 dana od dana saznanja za povredu prava, a najkasnije u roku od tri mjeseca od dana učinjene povrede.
 (6) Tužbu pred nadležnim sudom za zaštitu prava radnik može da podnese najkasnije u roku od šest mjeseci od dana saznanja za povredu prava ili od dana učinjene povrede.
 (7) Ako se istovremeno najmanje deset radnika ili najmanje 10% od ukupnog broja zaposlenih radnika obratilo poslodavcu za zaštitu prava iz radnog odnosa, poslodavac je dužan da zatraži i razmotri mišljenje sindikata ili savjeta radnika ako kod poslodavca nije uspostavljen sindikat.
 Član 54.
@@ -333,7 +335,7 @@ Osnovni kriterijumi za bodovanje radnika koji su djelimično ili u potpunosti iz
 1. za jednu godinu radnog staža u vaspitno-obrazovnoj ustanovi .......................................... 6 bodova,
 2. za jednu godinu radnog staža u vaspitno-obrazovnoj ustanovi, kao neverifikovani radnik .................................................................... 3 boda,
 3. za jednu godinu radnog staža ostvarenog na drugim poslovima, van vaspitno-obrazovne ustanove ................................................................. 2 boda;
-2) radniku koji ima status člana porodice poginulog borca Odbrambeno-otadžbinskog rata Republike Srpske dodeljuje se 9 bodova;
+2) radniku koji ima status člana porodice poginulog borca Odbrambeno-otadžbinskog rata Republike Srpske dodjeljuje se 9 bodova;
 3) zdravstveno stanje radnika:
 1. invaliditet I i II kategorije ili 100% invaliditet ........................ 14 bodova,
 2. invaliditet III kategorije ili 90% invaliditet ................................ 12 bodova,
@@ -388,18 +390,18 @@ IX - Prestanak Radnog Odnosa
 2. Otpremnina
 Član 64.
 (1) Radniku koji je zaključio ugovor o radu na neodređeno vrijeme, a kojem prestane radni odnos otkazom ugovora o radu od strane poslodavca, nakon najmanje dvije godine neprekidnog rada kod poslodavca, zbog prestanka potrebe za radom radnika iz ekonomskih, organizacionih i tehnoloških razloga i u ostalim slučajevima u skladu sa Zakonom o radu, pripada pravo na otpremninu na teret poslodavca.
-(2) Visina otpremnine zavisi od dužine rada radnika kod poslodavca i izračunava se tako da se pomnoži prosječna mjesečna plata radnika u poslednja tri mjeseca, prije prestanka ugovora o radu, sa brojem godina rada radnika kod poslodavca:
+(2) Visina otpremnine zavisi od dužine rada radnika kod poslodavca i izračunava se tako da se pomnoži prosječna mjesečna plata radnika u posljednja tri mjeseca, prije prestanka ugovora o radu, sa brojem godina rada radnika kod poslodavca:
 1) za rad od dvije do deset godina .............................. 0,35,
 2) za rad preko deset, zaključno do dvadeset godina .. 0,40,
 3) za rad od preko dvadeset do trideset godina ......... 0,45,
 4) za rad preko trideset godina ................................... 0,50.
-(3) Ako radniku nije isplaćena plata u nekom ili tri poslednja mjeseca, kao osnov za otpremninu uzima se obračunata plata za taj period u skladu sa Zakonom o platama i ovim kolektivnim ugovorom.
-(4) Otpremnina iz stava 2. ovog člana ne može biti veća od šest prosečnih mjesečnih plata isplaćenih radniku u poslednja tri mjeseca prije prestanka ugovora o radu.
+(3) Ako radniku nije isplaćena plata u nekom ili tri posljednja mjeseca, kao osnov za otpremninu uzima se obračunata plata za taj period u skladu sa Zakonom o platama i ovim kolektivnim ugovorom.
+(4) Otpremnina iz stava 2. ovog člana ne može biti veća od šest prosječnih mjesečnih plata isplaćenih radniku u posljednja tri mjeseca prije prestanka ugovora o radu.
 X - Uslovi Za Rad Sindikata
 Član 65.
 Poslodavac je dužan da Sindikatu omogući djelovanje u skladu sa njegovom ulogom i zadacima, Statutom, Programom i međunarodnim konvencijama o radu za aktivnosti, kao što su:
 1) da pokreće inicijative, podnosi zahtjeve i prijedloge i da zauzima stavove od značaja za materijalni, ekonomski i socijalni položaj radnika,
-2) da se mišljenja i prijedlozi Sindikata razmotre prije donošenja odluke od značaja za materijalni, ekonomski i socijalni položaj radnika i da se u odnosu na njih opredeli.
+2) da se mišljenja i prijedlozi Sindikata razmotre prije donošenja odluke od značaja za materijalni, ekonomski i socijalni položaj radnika i da se u odnosu na njih opredijeli.
 Član 66.
 Poslodavac obezbjeđuje reprezentativnom sindikatu sljedeće uslove za njegovo djelovanje:
 1) korišćenje odgovarajuće prostorije i potrebne administrativno-tehničke i računovodstvene usluge,
@@ -419,7 +421,7 @@ Poslodavac obezbjeđuje reprezentativnom sindikatu sljedeće uslove za njegovo d
 (5) Predstavnicima Sindikata dozvoljava se da koriste najmanje dva časa mjesečno u toku radnog vremena za sastanke u ustanovi i dva časa sedmično za ostale sindikalne aktivnosti.
 (6) Direktor ili predsjednik organa upravljanja u vaspitno-obrazovnim ustanovama i ustanovama kulture obavezan je pozvati predsjednika sindikalne organizacije na sjednicu organa upravljanja sa utvrđenim dnevnim redom i materijalima za sjednicu.
 (7) Direktori vaspitno-obrazovnih ustanova i ustanova kulture dužni su da predstavnicima Sindikata dozvole da radnicima dostavljaju informacije, biltene, publikacije, letke i druge dokumente Sindikata.
-(8) Direktori vaspitno-obrazovnih ustanova i ustanova kulture dužni su obezbijediti slobodan pristup spoljnim sindikalnim predstavnicima u organizaciju sindikata organizovanu kod njega, s tim da te aktivnosti i posete budu ranije najavljene.
+(8) Direktori vaspitno-obrazovnih ustanova i ustanova kulture dužni su obezbijediti slobodan pristup spoljnim sindikalnim predstavnicima u organizaciju sindikata organizovanu kod njega, s tim da te aktivnosti i posjete budu ranije najavljene.
 (9) Aktivnosti sindikata vrše se tako da ne idu na štetu redovnog funkcionisanja poslodavca i radne discipline.
 Član 69.
 Poslodavac je dužan obezbijediti obračun i uplatu sindikalne članarine obustavom iznosa članarine iz plata radnika - članova Sindikata, prilikom svake isplate plate, a prema odluci nadležnog organa Saveza sindikata Republike Srpske, uz pismenu saglasnost, odnosno sindikalnu pristupnicu radnika.
@@ -432,7 +434,7 @@ XII - Posebne Odredbe
 1. Ostvarivanje prava na štrajk
 Član 71.
 (1) Poslodavac i Sindikat dužni su preduzeti sve mjere s ciljem otklanjanja uzroka koji dovode do štrajka, a ako i pored preduzetih mjera do štrajka dođe, organizuje se i vodi u skladu sa Zakonom o štrajku.
-(2) Pre donošenja konačne odluke o stupanju u štrajk, poslodavac i Sindikat obavezuju se da arbitražom pokušaju da riješe nastali spor.
+(2) Prije donošenja konačne odluke o stupanju u štrajk, poslodavac i Sindikat obavezuju se da arbitražom pokušaju da riješe nastali spor.
 2. Zajednička komisija
 Član 72.
 (1) Za tumačenje i praćenje primjene ovog kolektivnog ugovora i za rješavanje spornih pitanja koja nastanu u sprovođenju Kolektivnog ugovora učesnici sporazumno formiraju komisiju od šest članova, od kojih svaka strana potpisnica ovog kolektivnog ugovora imenuje po tri predstavnika.
@@ -444,8 +446,8 @@ XIII - Prelazne I Završne Odredbe
 (3) Rješavanje nastalog spora učesnici u zaključivanju ovog kolektivnog ugovora mogu povjeriti arbitraži.
 (4) Odluka arbitraže donosi se konsenzusom i obavezujuća je za strane u sporu.
 Član 74.
-(1) Ovaj kolektivni ugovor zaključuje se na period od tri godine, a smatra se zaključenim kad ga u istovetnom tekstu potpišu njegovi učesnici.
-(2) Stupanjem na snagu ovog kolektivnog ugovora prestaje da važi Posebni kolektivni ugovor za zaposlene u oblasti obrazovanja i kulture Republike Srpske (“Službeni glasnik Republike Srpske, br. 70/16 i 97/18).
-(3) Ovaj kolektivni ugovor stupa na snagu osmog dana od dana objavljivanja u “Službenom glasniku Republike Srpske".
+(1) Ovaj kolektivni ugovor zaključuje se na period od tri godine, a smatra se zaključenim kad ga u istovjetnom tekstu potpišu njegovi učesnici.
+(2) Stupanjem na snagu ovog kolektivnog ugovora prestaje da važi Posebni kolektivni ugovor za zaposlene u oblasti obrazovanja i kulture Republike Srpske („Službeni glasnik Republike Srpske“, br. 70/16 i 97/18).
+(3) Ovaj kolektivni ugovor stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srpske“.
 Ministarstvo prosvjete i kulture Republike Srpske, ministar, Natalija Trivić, mr
 Sindikat obrazovanja, nauke i kulture Republike Srpske, predsjednik, Mr Dragan Gnjatić

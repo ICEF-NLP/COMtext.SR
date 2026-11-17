@@ -1,7 +1,9 @@
+# title = Ugovor o radu (Elkomerc)
+# source = https://www.scribd.com/doc/178989613/UGOVOR-RADA-doc-pdf
 Na osnovu člana 30 i 33 Zakona o radu (‘Službeni glasnik RS’ br. 24/05 i 61/05) i člana 9 Pravilnika o radu ELKOMERC SISTEM doo Beograd, Bulevar Kralja Aleksandra 224, dana 01.04.2012. godine, zaključuje se: Ugovor O Radu
 Ovaj Ugovor o radu zaključuju:
 1. „ELKOMERC SISTEM“ d.o.o. koju zastupa direktor Tomić Verica (u daljem tekstu “Poslodavac”) i
-2. Pešić Ana iz Beograda, Ranka Miljića br. 33, JMBG 310985715156 po zanimanju prodavac (u daljem tekstu “Zaposleni“)
+2. Pešić Ana iz Beograda, Ranka Miljića br. 33, JMBG 0310985715150 po zanimanju prodavac (u daljem tekstu “Zaposleni“)
 Član 1.
 Predmet ovog Ugovora je regulisanje međusobnih prava i obaveza iz oblasti rada i radnog odnosa između Poslodavca i Zaposlenog, a u skladu sa Zakonom o radu (‘Službeni glasnik RS’ br. 24/05 i 61/05) i Pravilnikom o radu ELKOMERC SISTEM doo Beograd.
 Na prava, obaveze i odgovornosti koje nisu uređene ovim Ugovorom, neposredno se primjenjuju odredbe Zakona o radu i Pravilnika o radu Poslodavca.
@@ -20,7 +22,7 @@ Djelokrug poslova Zaposlenog na ovoj poziciji je:
 - Vodi računa o robi.
 Član 6.
 Radni dan traje osam sati, uključujući i odmor u toku rada.
-Radno vrijeme je svakog dana u dvije smjene od 9 do 17 časova i 13 do 21 časova od ponedeljka do petka.
+Radno vrijeme je svakog dana u dvije smjene od 9 do 17 časova i 13 do 21 časova od ponedjeljka do petka.
 Svaka druga subota je radna.
 U slučaju povećanja obima posla, odnosno nastale potrebe da se u određenom roku završi posao koji nije planiran, van redovnog obima posla, Zaposleni je obavezan da na zahtjev Poslodavca radi duže od punog radnog vremena (prekovremeni rad) u skladu sa zakonom i Pravilnikom o radu Poslodavca.
 Radna nedjelja ima pet dana sa ukupnim radnim vremenom u trajanju od 40 časova.
@@ -87,7 +89,7 @@ Postojanje štete, njenu visinu, okolnosti pod kojima je nastala, ko je štetu p
 Zaposleni koji je u radu ili u vezi sa radom, namjerno ili krajnjom nepažnjom prouzrokovao štetu trećem licu, a koju je nadoknadio Poslodavac, dužan je da Poslodavcu, naknadi iznos isplaćene štete.
 Za sva pravna pitanja koja mogu da proisteknu na osnovu ovog Ugovora odnosno rješavanje eventualnih sporova, biće nadležan sud u Beogradu.
 Član 17.
-Ugovorne strane su saglasne da ovaj Ugovor može biti izmenjen samo ako se i Poslodavac i Zaposleni saglase sa tim promjenama.
+Ugovorne strane su saglasne da ovaj Ugovor može biti izmijenjen samo ako se i Poslodavac i Zaposleni saglase sa tim promjenama.
 Aneks ovog Ugovora mora biti sačinjen u pismenoj formi.
 Član 18.
 Ovaj ugovor sačinjen je u dva istovjetna primjerka, po jedan za Poslodavca i Zaposlenog

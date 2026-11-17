@@ -1,3 +1,5 @@
+# title = Statut akcionarskog društva
+# source = Karanović & Partners
 Na osnovu člana 12. stav 5. Zakona o privrednim društvima (Službeni glasnik RS, br. 36/11, 99/11, 83/14-dr. zakon, 5/15, 44/18, 95/18 i 91/19) i Odluke Skupštine Akva a.d. Beograd o usvajanju Izmena i dopuna Statuta Akva a.d. Beograd broj 506/2021 od 13.5.2021. godine, generalni direktor Akva a.d. Beograd dana 21.10.2021. godine, sačinjava Prečišćen Tekst Statuta Akva A.D. BEOGRAD (u daljem tekstu: Statut)
 Poslovno Ime Društva
 Član 1.
@@ -30,7 +32,7 @@ Podaci O Broju I Nominalnoj Vrednosti Akcija
 Izdavalac akcija iz prethodnog stava je Društvo.
 5.3 Podaci o pravu glasa - Svaka akcija ima jedan glas.
 5.4 Prenos vlasništva nad akcijama - Prenos vlasništva nad akcijama nije ograničen.
-5.5 Podaci o registrovanju akcija - Akcije su u potpunosti uplaćene i registrovane u Centralnom registru, depou i kliringu hartija od vrednosti dana 20.9.2013. godine, ISIN HHHHHH, CFI ESVUFR.
+5.5 Podaci o registrovanju akcija - Akcije su u potpunosti uplaćene i registrovane u Centralnom registru, depou i kliringu hartija od vrednosti dana 20.9.2013. godine, ISIN US0378331005, CFI ESVUFR.
 Podaci O Vrsti I Klasi Akcija I Drugih Hartija Od Vrednosti Koje Je Društvo Ovlašćeno Da Izda I Prenos Akcija I Prava Iz Akcija
 Član 6.
 6.1 Izdavanje akcija - Društvo može izdavati sve vrste akcija (sa i bez nominalne vrednosti), kao i druge hartije od vrednosti koje su predviđene važećim propisima, pri čemu kada su u pitanju akcije Društva u okviru svake vrste akcija, akcije koje daju ista prava, čine jednu klasu akcija.

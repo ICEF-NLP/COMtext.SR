@@ -1,3 +1,5 @@
+# title = Statut akcionarskog društva
+# source = Karanović & Partners
 Na osnovu člana 12. stav 5. Zakona o privrednim društvima (Službeni glasnik RS, br. 36/11, 99/11, 83/14-dr. zakon, 5/15, 44/18, 95/18 i 91/19) i Odluke Skupštine Akva a.d. Beograd o usvajanju Izmjena i dopuna Statuta Akva a.d. Beograd broj 506/2021 od 13.5.2021. godine, generalni direktor Akva a.d. Beograd dana 21.10.2021. godine, sačinjava Prečišćen Tekst Statuta Akva A.D. BEOGRAD (u daljem tekstu: Statut)
 Poslovno Ime Društva
 Član 1.
@@ -5,10 +7,10 @@ Poslovno Ime Društva
 1.2 Poslovno ime - Poslovno ime Društva je: Preduzeće za proizvodnju Akva akcionarsko društvo, Beograd.
 1.3 Skraćeno poslovno ime - Skraćeno poslovno ime Društva je: „Akva“ a.d., Beograd.
 1.4 Promjena poslovnog imena - Poslovno ime Društva može se promijeniti odlukom Skupštine, donesenom na način predviđen Zakonom, Osnivačkim aktom i ovim statutom.
-Sedište Društva
+Sjedište Društva
 Član 2.
-2.1 Sedište Društva - Sedište Društva je u Beogradu, u ulici Mileševska 6, Republika Srbija.
-2.2 Promjena sjedišta Društva - Sedište Društva može se promijeniti odlukom Skupštine donesenom na način predviđen Zakonom, Osnivačkim aktom i ovim statutom.
+2.1 Sjedište Društva - Sjedište Društva je u Beogradu, u ulici Mileševska 6, Republika Srbija.
+2.2 Promjena sjedišta Društva - Sjedište Društva može se promijeniti odlukom Skupštine donesenom na način predviđen Zakonom, Osnivačkim aktom i ovim statutom.
 2.3 Adresa sjedišta Društva - Adresa sjedišta Društva je istovremeno i adresa za prijem pošte.
 2.4 Adresa za prijem elektronske pošte.
 Adresa za prijem elektronske pošte je: akva@gmail.com.
@@ -30,7 +32,7 @@ Podaci O Broju I Nominalnoj Vrijednosti Akcija
 Izdavalac akcija iz prethodnog stava je Društvo.
 5.3 Podaci o pravu glasa - Svaka akcija ima jedan glas.
 5.4 Prenos vlasništva nad akcijama - Prenos vlasništva nad akcijama nije ograničen.
-5.5 Podaci o registrovanju akcija - Akcije su u potpunosti uplaćene i registrovane u Centralnom registru, depou i kliringu hartija od vrijednosti dana 20.9.2013. godine, ISIN HHHHHH, CFI ESVUFR.
+5.5 Podaci o registrovanju akcija - Akcije su u potpunosti uplaćene i registrovane u Centralnom registru, depou i kliringu hartija od vrijednosti dana 20.9.2013. godine, ISIN US0378331005, CFI ESVUFR.
 Podaci O Vrsti I Klasi Akcija I Drugih Hartija Od Vrijednosti Koje Je Društvo Ovlašćeno Da Izda I Prenos Akcija I Prava Iz Akcija
 Član 6.
 6.1 Izdavanje akcija - Društvo može izdavati sve vrste akcija (sa i bez nominalne vrijednosti), kao i druge hartije od vrijednosti koje su predviđene važećim propisima, pri čemu kada su u pitanju akcije Društva u okviru svake vrste akcija, akcije koje daju ista prava, čine jednu klasu akcija.
@@ -54,8 +56,8 @@ Skupština
 6) statusnim promjenama i promjenama pravne forme;
 7) sticanju i raspolaganju imovinom velike vrijednosti;
 8) raspodjeli dobiti i pokriću gubitaka;
-9) usvajanju revidiranih finansijskih izveštaja, kao i izveštaja revizora;
-10) usvajanju izveštaja Nadzornog odbora;
+9) usvajanju revidiranih finansijskih izvještaja, kao i izvještaja revizora;
+10) usvajanju izvještaja Nadzornog odbora;
 11) imenovanju i razrješenju članova Nadzornog odbora;
 12) pokretanju postupka likvidacije, odnosno podnošenju prijedloga za stečaj Društva;
 13) izboru revizora i naknadi za njegov rad;
@@ -65,8 +67,8 @@ Skupština
 Akcionari koji pojedinačno posjeduju manje od 0,05% od ukupnog broja akcija Društva odgovarajuće klase imaju pravo da u radu Skupštine učestvuju preko zajedničkog punomoćnika ili da glasaju u odsustvu u skladu sa Zakonom i ovim statutom.
 8.4 Dan akcionara - Dan akcionara je dan na koji se utvrđuje spisak akcionara koji imaju pravo na učešće u radu sjednice Skupštine i pada na deseti dan prije dana održavanja te sjednice (u daljem tekstu: Dan akcionara).
 Spisak akcionara iz prethodnog stava Sekretar utvrđuje, na osnovu izvoda iz jedinstvene evidencije akcionara Centralnog registra, depoa i kliringa hartija od vrijednosti.
-8.5 Mjesto održavanja sjednica Skupštine - Sednice Skupštine održavaju se u sjedištu Društva ili u mjestu koje svojom odlukom odredi Nadzorni odbor u slučaju ako je to potrebno radi olakšane organizacije sjednice Skupštine.
-8.6 Predsjednik Skupštine - Sednicom Skupštine predsjedava predsjednik Skupštine (u daljem tekstu: Predsjednik Skupštine).
+8.5 Mjesto održavanja sjednica Skupštine - Sjednice Skupštine održavaju se u sjedištu Društva ili u mjestu koje svojom odlukom odredi Nadzorni odbor u slučaju ako je to potrebno radi olakšane organizacije sjednice Skupštine.
+8.6 Predsjednik Skupštine - Sjednicom Skupštine predsjedava predsjednik Skupštine (u daljem tekstu: Predsjednik Skupštine).
 Predsjednik Skupštine bira se na početku svake sjednice.
 Izuzetno, Predsjednik Skupštine može biti izabran da vrši funkciju predsjednika i na narednim sjednicama Skupštine, do izbora novog Predsjednika, u skladu sa ovim statutom i poslovnikom Skupštine.
 Za Predsjednika Skupštine bira se lice koje predstavlja većinskog akcionara Društva ili je lično većinski akcionar.
@@ -94,7 +96,7 @@ Nadzorni Odbor
 Član 9.
 9.1 Sastav - Nadzorni odbor (u daljem tekstu: Nadzorni odbor) ima 5 (pet) članova, od kojih je najmanje 1 (jedan) nezavisni član u smislu Zakona.
 Članovi Nadzornog odbora ne mogu biti izvršni direktori Društva, niti prokuristi Društva.
-9.2 Način imenovanja članova Nadzornog odbora - Predlog kandidata za člana Nadzornog odbora daju:
+9.2 Način imenovanja članova Nadzornog odbora - Prijedlog kandidata za člana Nadzornog odbora daju:
 1. Nadzorni odbor
 2. Komisija za imenovanje, ukoliko je formirana
 3. Akcionari koji imaju pravo na predlaganje dnevnog reda Skupštine
@@ -102,7 +104,7 @@ Nadzorni Odbor
 9.3 Prestanak mandata i razrješenje članova Nadzornog odbora - Mandat člana Nadzornog odbora prestaje:
 • istekom perioda za koji je imenovan,
 • prestankom ispunjenosti uslova za vršenje funkcije člana Nadzornog odbora,
-• neusvajanjem godišnjih finansijskih izveštaja Društva, u roku koji je predviđen za održavanje redovne sjednice Skupštine.
+• neusvajanjem godišnjih finansijskih izvještaja Društva, u roku koji je predviđen za održavanje redovne sjednice Skupštine.
 Ako se broj članova Nadzornog odbora smanji ispod broja članova Nadzornog odbora koji je predviđen Statutom, preostali članovi Nadzornog odbora mogu imenovati lice, odnosno lica koja će vršiti dužnost člana Nadzornog odbora, do imenovanja nedostajućih članova Nadzornog odbora od strane Skupštine (Kooptacija).
 Imenovanje člana Nadzornog odbora po prestanku mandata vrši se na prvoj narednoj sjednici Skupštine, do kada član Nadzornog odbora kome je prestao mandat nastavlja da obavlja svoju dužnost, ako njegovo mjesto nije popunjeno kooptacijom.
 Skupština može razriješiti člana Nadzornog odbora i prije isteka mandata na koji je imenovan, bez navođenja razloga.
@@ -114,8 +116,8 @@ Ostavka člana Nadzornog odbora proizvodi dejstvo danom podnošenja, osim ako u 
 3) vrši unutrašnji nadzor nad poslovanjem Društva;
 4) donosi odluku o usvajanju godišnjeg poslovnog plana (uključujući i budžet) Društva;
 5) ustanovljava računovodstvene politike Društva i politike upravljanja rizicima;
-6) utvrđuje finansijske izveštaje Društva i izveštaje o poslovanju Društva i podnosi ih Skupštini na usvajanje;
-7) razmatra kvartalne pojedinačne i konsolidovane izveštaje o poslovanju, prihodima i finansijskom stanju Društva, kao i druge izveštaje Izvršnog odbora, u skladu sa Zakonom;
+6) utvrđuje finansijske izvještaje Društva i izvještaje o poslovanju Društva i podnosi ih Skupštini na usvajanje;
+7) razmatra kvartalne pojedinačne i konsolidovane izvještaje o poslovanju, prihodima i finansijskom stanju Društva, kao i druge izvještaje Izvršnog odbora, u skladu sa Zakonom;
 8) daje i opoziva prokuru;
 9) saziva sjednice Skupštine i utvrđuje prijedlog dnevnog reda, kao i prijedloge odluka za sjednice Skupštine;
 10) izdaje odobrene akcije;
@@ -130,14 +132,14 @@ Nadležnosti Predsjednika Nadzornog odbora u zastupanju Društva, u odnosu sa Iz
 • zaključuje ugovore o radu, odnosno ugovore o angažovanju sa Izvršnim direktorima, pod uslovima utvrđenim odlukama Skupštine, odnosno Nadzornog odbora i
 • preduzima druge radnje u vezi sa ostvarivanjem prava, obaveza i odgovornosti Izvršnih direktora, u okviru odvijanja radnog odnosa ili drugog vida njihovog radnog angažovanja, a pod uslovima utvrđenim zaključenim ugovorima o radu, odnosno ugovorima o angažovanju.
 9.7 Kvorum za održavanje i način održavanja sjednica Nadzornog odbora - Kvorum za rad sjednice Nadzornog odbora jeste većina od ukupnog broja članova Nadzornog odbora.
-Sednice Nadzornog odbora mogu se održati i pisanim ili elektronskim putem, telefonom, telegrafom, telefaksom ili upotrebom drugih sredstava audio-vizuelne komunikacije, pod uslovom da se tome ne protivi nijedan član Nadzornog odbora u pisanoj formi.
+Sjednice Nadzornog odbora mogu se održati i pisanim ili elektronskim putem, telefonom, telegrafom, telefaksom ili upotrebom drugih sredstava audio-vizuelne komunikacije, pod uslovom da se tome ne protivi nijedan član Nadzornog odbora u pisanoj formi.
 Smatra se da su lica koja na ovaj način učestvuju na sjednici, prisutna sjednici.
 Odsutni članovi Nadzornog odbora mogu glasati i pisanim putem, kada se za potrebe kvoruma za rad Nadzornog odbora smatra da su prisustvovali sjednici.
 9.8 Odlučivanje na sjednicama Nadzornog odbora - Odluke Nadzornog odbora donose se većinom glasova prisutnih članova Nadzornog odbora, osim ukoliko ovim statutom ili Poslovnikom o radu Nadzornog odbora nije drugačije predviđeno.
 Ako su glasovi članova Nadzornog odbora pri odlučivanju jednako podijeljeni, odlučujući je glas Predsjednika Nadzornog odbora.
 9.9 Komisije Nadzornog odbora - Nadzorni odbor obavezno obrazuje Komisiju za reviziju, a može obrazovati i druge komisije u skladu sa Zakonom, a čiji su uslovi za izbor, broj članova, mandat, razrješenje, naknade, način rada, kao i sva ostala relevantna pitanja regulisana odgovarajućom odlukom Nadzornog odbora.
 Pored komisija predviđenih Zakonom, Nadzorni odbor može da obrazuje i druge stalne ili ad hoc komisije, koje će se baviti pitanjima relevantnim za rad Nadzornog odbora.
-Komisije Nadzornog odbora dužne su da o svom radu redovno izveštavaju Nadzorni odbor, u skladu sa odlukom o njihovom obrazovanju.
+Komisije Nadzornog odbora dužne su da o svom radu redovno izvještavaju Nadzorni odbor, u skladu sa odlukom o njihovom obrazovanju.
 9.10 Poslovnik o radu Nadzornog odbora - Nadzorni odbor donosi svoj poslovnik (kao i izmjene i dopune Poslovnika) kojim se bliže utvrđuje način rada i odlučivanja Nadzornog odbora u skladu sa Zakonom i ovim statutom.
 Izvršni Odbor I Generalni Direktor
 Član 10.
@@ -145,7 +147,7 @@ Izvršni Odbor I Generalni Direktor
 Članovi Izvršnog odbora su izvršni direktori (u daljem tekstu: Izvršni direktori).
 Izvršni direktori ne mogu imati zamjenike.
 Izvršne direktore imenuje Nadzorni odbor.
-Predlog kandidata za Izvršnog direktora daje Komisija za imenovanje.
+Prijedlog kandidata za Izvršnog direktora daje Komisija za imenovanje.
 Ako nije formirana Komisija za imenovanje, prijedlog za kandidata može dati svaki član Nadzornog odbora.
 10.2 Generalni direktor i zastupanje Društva - Nadzorni odbor imenuje jednog od Izvršnih direktora ovlašćenih za zastupanje Društva za generalnog direktora Društva (u daljem tekstu: Generalni direktor).
 Generalni direktor je zakonski zastupnik Društva, koordinira rad izvršnih direktora i organizuje poslovanje Društva.
@@ -156,7 +158,7 @@ Nadzorni odbor utvrđuje uslove pod kojima druga lica zastupaju Društvo.
 10.3 Djelokrug - Izvršni odbor:
 1) vodi poslove Društva i određuje unutrašnju organizaciju Društva;
 2) odgovara za tačnost poslovnih knjiga Društva;
-3) odgovara za tačnost finansijskih izveštaja Društva;
+3) odgovara za tačnost finansijskih izvještaja Društva;
 4) usvaja godišnji plan nabavki Društva;
 5) donosi odluke iz oblasti cjenovne politike;
 6) priprema sjednice Skupštine i predlaže dnevni red Skupštine (sa prijedlozima odluka i drugim materijalima predviđenim Zakonom) Nadzornom odboru;
@@ -184,7 +186,7 @@ Sekretar može biti lice koje je zaposleno u Društvu.
 1) pripremu sjednica i vođenje zapisnika sa sjednica Skupštine, Nadzornog odbora i Izvršnog odbora;
 2) vođenje registra zapisnika sjednica Skupštine i knjige odluka;
 3) vođenje registra zapisnika sjednica Nadzornog odbora i Izvršnog odbora i knjige odluka;
-4) čuvanje dokumenata utvrđenih Zakonom i ovim statutom Društva, osim finansijskih izveštaja;
+4) čuvanje dokumenata utvrđenih Zakonom i ovim statutom Društva, osim finansijskih izvještaja;
 5) organizovanje praćenja izvršavanja odluka Skupštine i Nadzornog odbora;
 6) komunikaciju Društva sa akcionarima i omogućavanje pristupa aktima i dokumentima iz tačke 4) ovog člana, a u skladu sa Zakonom;
 7) organizovanje poslova koordinacije korporativno-pravne prakse korporativnih organa Društva i njegovih zavisnih društava, kao i koordinacije drugih aktivnosti u korporativno-pravnom segmentu poslovanja od značaja za Društvo i njegova zavisna društva;

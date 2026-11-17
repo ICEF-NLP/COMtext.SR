@@ -1,3 +1,5 @@
+# title = Rešenje - eksproprijacija
+# source = https://www.vk.sud.rs/sr/рев-59812021-31114-експропријација
 Republika Srbija
 Vrhovni Kasacioni Sud
 Rev. 5981/2021
@@ -35,7 +37,7 @@ Pravnosnažnim rješenjem Drugog osnovnog suda u Beogradu R1 77/15 od 23.11.2015
 Diobom u sudskom postupku predlagaču Stefanu Petroviću u svojinu je pripalo zemljište ukupne površine 2169 m2 - cijele parcele 2/1, 2/2 i 2/3, dio parcele 2/4 u površini od 160 m2 i dio parcele 2/7 površine 65 m2; sada pokojnom Mitru Goksiću, čiji je pravni sljedbenik predlagač Goran Goksić zemljište u površini od 1567 m2 - dio parcele 2/7; predlagačima Vinki Dragić, Kristini Kostić i njihovom ocu, sada pokojnom Perici Dragiću, zemljište ukupne površine 1374 m2 - parcela 2/6 površine 226 m2 i dio parcele 2/7, površine 1148 m2.
 Pravnosnažnim rješenjem Drugog osnovnog suda u Beogradu O 2259/15 od 11.04.2017. godine raspravljena je zaostavština pokojnog Perice Dragića i predlagač Vinka Dragić oglašena za nasljednika ostaviočevih prava iz pravnosnažnog rješenja o eksproprijaciji zemljišta od 21.04.2016. godine.
 Poreska uprava - Filijala Grocka je 30.10.2017. godine procijenila vrijednost eksproprisanog zemljišta na iznos od 4.943,72 dinara po m2.
-Procena je izvršena na osnovu određenog poreza na prenos apsolutnih prava na parcelama 1/2 i 2/7 obje u KO Sopot.
+Procjena je izvršena na osnovu određenog poreza na prenos apsolutnih prava na parcelama 1/2 i 2/7 obje u KO Sopot.
 Ovu procjenu poreska uprava je korigovala 12.02.2018. godine na iznos od 1.000,00 dinara po m2 za parcele 2/6 i 2/7 i na iznos od 1.500,00 dinara po m2 za ostale eksproprisane parcele, sa obrazloženjem da su u prethodnoj procjeni tehničkom greškom unijeti pogrešni podaci.
 Vještačenjem - nalazom od 21.03.2018. godine, tržišna vrijednost m2 eksproprisanog zemljišta određena je u iznosu od 5.902,90 dinara (protivvrijednost 50 evra na dan vještačenja), uzimajući u obzir i to da se zemljište nalazi u građevinskom reonu i da se graniči sa koridorom auto-puta.
 Vrijednost utvrđena ovim vještačenjem korigovana je 31.01.2019. godine na iznos od 9.484,80 dinara (80 evra u dinarskoj protivvrijednosti).
@@ -45,12 +47,12 @@ Naime, diobom suvlasničke zajednice predlagačima Vinki Dragić, Kristini Kosti
 Predlagač Vinka Dragić je pravnosnažnim rješenjem o nasljeđivanju oglašena za nasljednika prava pokojnog Perice Dragića na naknadu za eksproprisano zemljište.
 To znači da njoj pripada pravo na naknadu za 2/3 dijela zemljišta ukupne površine od 1374 m2, odnosno zemljište u površini od 916 m2, u iznosu od 5.407.056,40 dinara.
 Međutim, nisu osnovani revizijski navodi krajnjeg korisnika o pogrešnoj primjeni člana 42. Zakona o eksproprijaciji.
-Navedenom odredbom propisano je da se naknada za eksproprisano poljoprivredno zemljište i građevinsko zemljište određuje u novcu prema tržišnoj cijeni takvog zemljišta ako zakonom nije drugačije propisano (stav prvi), kao i da procjenu tržišne cijene iz stava prvog vrši ogran za utvrđivanje poreza na promet apsolutnih prava na nepokretnostima (stav drugi).
+Navedenom odredbom propisano je da se naknada za eksproprisano poljoprivredno zemljište i građevinsko zemljište određuje u novcu prema tržišnoj cijeni takvog zemljišta ako zakonom nije drugačije propisano (stav prvi), kao i da procjenu tržišne cijene iz stava prvog vrši organ za utvrđivanje poreza na promet apsolutnih prava na nepokretnostima (stav drugi).
 Po stanovištu revizijskog suda, organ nadležan za utvrđivanje poreza na prenos apsolutnih prava na nepokretnosti (poreska uprava) vrši samo procjenu tržišne cijene za eksproprisane nepokretnosti, što ujedno predstavlja najniži iznos naknade za tu nepokretnost, ali ne određuje tržišnu vrijednost eksproprisanog zemljišta.
 U slučaju da se o naknadi ne postigne sporazum, naknadu određuje sud u vanparničnom postupku.
 Prema odredbi člana 136. stav 2. ZVP, sud može, pored procjene koju je dala poreska uprava, izvesti i druge dokaze koje učesnici predlože, pa i vještačenje ako smatra da je to od značaja za određivanje naknade.
 Iz tih razloga nisu prihvatljivi navodi revidenta - krajnjeg korisnika da se naknada za eksproprisano zemljište određuje isključivo na osnovu procjene poreske uprave.
-Procena poreskog organa je samo jedan od dokaza koji se koristi radi utvrđivanja visine naknade, ali to ne isključuje korišćenje drugih dokaznih sredstava ako sud smatra da je to potrebno i opravdano.
+Procjena poreskog organa je samo jedan od dokaza koji se koristi radi utvrđivanja visine naknade, ali to ne isključuje korišćenje drugih dokaznih sredstava ako sud smatra da je to potrebno i opravdano.
 U konkretnom slučaju, upravo imajući u vidu razlike u procjenama vrijednosti eksproprisanog zemljišta koje je poreska uprava dala, određeno je vještačenje kojim je tržišna vrijednost zemljišta utvrđivana uzimanjem u obzir i činjenice da se zemljište nalazi u građevinskom reonu i da se graniči sa koridorom auto-puta.
 Osnovano se revizijom predlagača Gorana Goksića ukazuje da su nižestepeni sudovi pogrešno primjenili odredbu člana 41. stav 2. Zakona o eksproprijaciji.
 Tom odredbom propisano je da se visina naknade u novcu za eksproprisane nepokretnosti određuje prema okolnostima u momentu zaključenja sporazuma o visini naknade, a ako sporazum nije postignut prema okolnostima u momentu donošenja prvostepene odluke o naknadi.

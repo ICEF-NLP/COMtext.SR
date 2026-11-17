@@ -1,3 +1,5 @@
+# title = Ugovor o poverljivosti (NDA)
+# source = Karanović & Partners
 Ugovor o poverljivosti
 Ugovor je zaključen između sledećih ugovornih strana:
 1. VD Digital Optima d.o.o. Beograd, sa sedištem u Beogradu, Makenzijeva 78, registrovanog kod Agencije za privredne registre Republike Srbije, matični broj 92235781 (“Društvo”), koga zastupa Nenad Protić, direktor i
@@ -21,7 +23,7 @@ Primalac će čuvati Poverljive Informacije sa dužnom pažnjom, kao dobar privr
 2.1.
 Primalac može otkriti Poverljive Informacije svim svojim službenicima, zaposlenima, savetnicima, podugovaračima ili ugovaračima pod sledeća tri uslova, kumulativno: (i) da obezbedi da lice kome je Poverljiva Informacija otkrivena poštuje obaveze navedene u ovom ugovoru kao da je ta osoba Primalac (ii) da se Društvo saglasi sa otkrivanjem Poverljivih Informacija tom licu i da (iii) je tim licima potrebno da budu upoznati sa odgovarajućom Poverljivom Informacijom u vezi sa Ciljem.
 2.2.
-Primalac će biti solidarno odgovaran sa svim svojim službenicima, zaposlenima, savetnicima, podugovaračima ili ugovaračima kojima Poverljive Informacije budu otkrivene u skladu sa članom 2.1, za svako kršenje od strane tih lica obaveza navedenih u članu 2.1.
+Primalac će biti solidarno odgovoran sa svim svojim službenicima, zaposlenima, savetnicima, podugovaračima ili ugovaračima kojima Poverljive Informacije budu otkrivene u skladu sa članom 2.1, za svako kršenje od strane tih lica obaveza navedenih u članu 2.1.
 2.3.
 Primalac može otkriti Poverljive Informacije i to samo u najmanjoj mogućoj meri koju zahteva/zahtevaju:
 a) bilo koja naredba suda nadležne jurisdikcije ili bilo kog regulatornog, sudskog, državnog ili sličnog tela, kao i poreskog organa nadležne jurisdikcije;

@@ -1,3 +1,5 @@
+# title = Uredba o centralizovanom obračunu primanja zaposlenih
+# source = https://www.mfin.gov.rs/propisi/uredba-o-centralizovanom-obraunu-primanja-zaposlenih-izabranih-i-postavljenih-lica-kod-korisnika-budzetskih-sredstava-i-korisnika-sredstava-organizacija-za-obavezno-socijalno-osiguranje
 Na osnovu člana 93 b stav 4. Zakona o budžetskom sistemu („Službeni glasnik RS”, br. 54/09, 73/10, 101/10, 101/11, 93/12, 62/13, 63/13 – ispravka, 108/13, 142/14, 68/15–dr. zakon, 103/15, 99/16, 113/17, 95/18, 31/19, 72/19, 149/20, 118/21 i 118/21–dr. zakon) i člana 42. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 − ispravka, 101/07, 65/08, 16/11, 68/12–US, 72/12, 7/14−US, 44/14 i 30/18–dr. zakon), Vlada donosi Uredbu o centralizovanom obračunu primanja zaposlenih, izabranih i postavljenih lica kod korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje
 Član 1.
 Ovom uredbom bliže se uređuju:

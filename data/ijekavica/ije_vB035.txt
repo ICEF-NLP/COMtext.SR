@@ -1,3 +1,5 @@
+# title = Zakon o osnovama svojinskopravnih odnosa
+# source = http://www.pravno-informacioni-sistem.rs/
 Zakon O Osnovama Svojinskopravnih Odnosa
 ("Sl. list SFRJ", br. 6/80 i 36/90, "Sl. list SRJ", br. 29/96 i "Sl. glasnik RS", br. 115/2005 - dr. zakon)
 Glava I
@@ -25,7 +27,7 @@ Pravo Svojine
 Fizička i pravna lica mogu imati pravo svojine na stambenim zgradama, stanovima, poslovnim zgradama, poslovnim prostorijama, poljoprivrednom zemljištu i drugim nepokretnostima, osim na prirodnim bogatstvima koja su u državnoj svojini.
 Fizička i pravna lica mogu imati pravo svojine i na pojedinim dobrima u opštoj upotrebi i na gradskom građevinskom zemljištu, u skladu sa zakonom, kao i na šumama i šumskom zemljištu - u granicama utvrđenim zakonom.
 Član 13
-Više lica imaju pravo susvojine na nepodeljenoj stvari kada je dio svakog od njih određen srazmjerno prema cjelini (idealni dio).
+Više lica imaju pravo susvojine na nepodijeljenoj stvari kada je dio svakog od njih određen srazmjerno prema cjelini (idealni dio).
 Ako suvlasnički dijelovi nisu određeni, pretpostavlja se da su jednaki.
 Član 14
 Suvlasnik ima pravo da stvar drži i da je koristi zajedno sa ostalim suvlasnicima srazmjerno svom dijelu, ne povređujući prava ostalih suvlasnika.
@@ -47,7 +49,7 @@ Sud će odlučiti da se dioba izvrši prodajom stvari ako je fizička dioba nemo
 Suvlasniku kome je diobom pripala stvar ili dio stvari ostali suvlasnici jamče za pravne i fizičke nedostatke stvari u granicama vrijednosti svojih suvlasničkih dijelova.
 Pravo iz stava 6. ovog člana gasi se protekom tri godine od diobe stvari.
 Član 17
-Susvojina postoji i na nepodeljenoj stvari čiji su dijelovi u različitim oblicima svojine.
+Susvojina postoji i na nepodijeljenoj stvari čiji su dijelovi u različitim oblicima svojine.
 Član 27
 Pravo svojine na plodove koje stvar daje pripada vlasniku stvari.
 Savjestan držalac, plodouživalac i zakupac stvari koja daje plodove stiče pravo svojine na plodove u trenutku njihovog odvajanja.

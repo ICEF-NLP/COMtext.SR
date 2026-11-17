@@ -80933,7 +80933,7 @@
 56	.	.	Z	O	[0,'',0,'']
 
 # sent_id = ije_vB014-s22
-# text = Takođe, s obzirom da postoje još objekata u ulici Debarska u Beogradu koji imaju oznaku odn. kućni broj 25, prvostepeni organ je bio dužan da primijeni član 33. uredbe o adresnom kućnom broju, a ne da jednostavno, bez saslušanja podnosioca žalbe i drugih stranaka donese ovo nezakonito rješenje.
+# text = Takođe, s obzirom da postoje još objekata u ulici Debarska u Beogradu koji imaju oznaku odn. kućni broj 25, prvostepeni organ je bio dužan da primijeni član 33. Uredbe o adresnom kućnom broju, a ne da jednostavno, bez saslušanja podnosioca žalbe i drugih stranaka donese ovo nezakonito rješenje.
 1	Takođe	takođe	Qo	O	[0,'',0,'']
 2	,	,	Z	O	[0,'',0,'']
 3	s	sa	Si	O	[0,'a',0,'']
@@ -80965,7 +80965,7 @@
 29	član	član	Ncmsan	B-LAW	[0,'',0,'']
 30	33	33	Mdc	I-LAW	[0,'',0,'']
 31	.	.	Z	I-LAW	[0,'',0,'']
-32	uredbe	uredba	Ncfpn	I-LAW	[1,'a',0,'']
+32	Uredbe	uredba	Ncfpn	I-LAW	[1,'a',0,'']
 33	o	o	Sl	I-LAW	[0,'',0,'']
 34	adresnom	adresni	Agpmsly	I-LAW	[2,'i',0,'']
 35	kućnom	kućni	Agpmsly	I-LAW	[2,'i',0,'']

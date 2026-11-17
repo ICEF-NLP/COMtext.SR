@@ -1,3 +1,5 @@
+# title = Rešenje - eksproprijacija
+# source = https://www.vk.sud.rs/sr/рев-59812021-31114-експропријација
 Republika Srbija
 Vrhovni Kasacioni Sud
 Rev. 5981/2021
@@ -45,7 +47,7 @@ Naime, deobom suvlasničke zajednice predlagačima Vinki Dragić, Kristini Kosti
 Predlagač Vinka Dragić je pravnosnažnim rešenjem o nasleđivanju oglašena za naslednika prava pokojnog Perice Dragića na naknadu za eksproprisano zemljište.
 To znači da njoj pripada pravo na naknadu za 2/3 dela zemljišta ukupne površine od 1374 m2, odnosno zemljište u površini od 916 m2, u iznosu od 5.407.056,40 dinara.
 Međutim, nisu osnovani revizijski navodi krajnjeg korisnika o pogrešnoj primeni člana 42. Zakona o eksproprijaciji.
-Navedenom odredbom propisano je da se naknada za eksproprisano poljoprivredno zemljište i građevinsko zemljište određuje u novcu prema tržišnoj ceni takvog zemljišta ako zakonom nije drugačije propisano (stav prvi), kao i da procenu tržišne cene iz stava prvog vrši ogran za utvrđivanje poreza na promet apsolutnih prava na nepokretnostima (stav drugi).
+Navedenom odredbom propisano je da se naknada za eksproprisano poljoprivredno zemljište i građevinsko zemljište određuje u novcu prema tržišnoj ceni takvog zemljišta ako zakonom nije drugačije propisano (stav prvi), kao i da procenu tržišne cene iz stava prvog vrši organ za utvrđivanje poreza na promet apsolutnih prava na nepokretnostima (stav drugi).
 Po stanovištu revizijskog suda, organ nadležan za utvrđivanje poreza na prenos apsolutnih prava na nepokretnosti (poreska uprava) vrši samo procenu tržišne cene za eksproprisane nepokretnosti, što ujedno predstavlja najniži iznos naknade za tu nepokretnost, ali ne određuje tržišnu vrednost eksproprisanog zemljišta.
 U slučaju da se o naknadi ne postigne sporazum, naknadu određuje sud u vanparničnom postupku.
 Prema odredbi člana 136. stav 2. ZVP, sud može, pored procene koju je dala poreska uprava, izvesti i druge dokaze koje učesnici predlože, pa i veštačenje ako smatra da je to od značaja za određivanje naknade.

@@ -1,3 +1,5 @@
+# title = Uredba o centralizovanom obračunu primanja zaposlenih
+# source = https://www.mfin.gov.rs/propisi/uredba-o-centralizovanom-obraunu-primanja-zaposlenih-izabranih-i-postavljenih-lica-kod-korisnika-budzetskih-sredstava-i-korisnika-sredstava-organizacija-za-obavezno-socijalno-osiguranje
 Na osnovu člana 93 b stav 4. Zakona o budžetskom sistemu („Službeni glasnik RS”, br. 54/09, 73/10, 101/10, 101/11, 93/12, 62/13, 63/13 – ispravka, 108/13, 142/14, 68/15–dr. zakon, 103/15, 99/16, 113/17, 95/18, 31/19, 72/19, 149/20, 118/21 i 118/21–dr. zakon) i člana 42. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 − ispravka, 101/07, 65/08, 16/11, 68/12–US, 72/12, 7/14−US, 44/14 i 30/18–dr. zakon), Vlada donosi Uredbu o centralizovanom obračunu primanja zaposlenih, izabranih i postavljenih lica kod korisnika budžetskih sredstava i korisnika sredstava organizacija za obavezno socijalno osiguranje
 Član 1.
 Ovom uredbom bliže se uređuju:
@@ -26,7 +28,7 @@ Sistem omogućava centralizovani sistem obračuna primanja zaposlenih, izabranih
 1) organizaciono upravljanje, koje omogućava prikaz i analizu organizacione strukture, olakšava planiranje kadrovskih resursa i upravljanje internim organizacijama i njihovim promjenama, kao i čuvanje, odnosno skladištenje svih istorijskih podataka koji su unijeti u sistem;
 2) kadrovsku administraciju, koja podržava proces upravljanja kadrovima i obradu podataka o zaposlenim, izabranim, i postavljenim licima kod Subjekta u vezi sa njihovim primanjima, uz mogućnost pristupa ili ažuriranja podataka u realnom vremenu i automatsko evidentiranje svakog unosa, uvoza ili izmjene podataka u cilju vođenja ažurne evidencije svih unosa, uvoza ili izmjena;
 3) upravljanje radnim vremenom kroz bilježenje vremenskih podataka o zaposlenim, izabranim i postavljenim licima kod Subjekta u vezi sa njihovim primanjima;
-4) automatski obračun primanja u više delova podoban za periodična plaćanja, odbitke, uključujući poreske i obaveze za doprinose za obavezno socijalno osiguranje, i druge obustave iz primanja zaposlenih, izabranih i postavljenih lica kod Subjekta, kreiranje osnovnih i korektivnih obračuna u toku mjeseca, kao i kreiranje zbirki podataka neophodnih za isplatu primanja i evidentiranje poslovnih promjena elektronskim putem;
+4) automatski obračun primanja u više dijelova podoban za periodična plaćanja, odbitke, uključujući poreske i obaveze za doprinose za obavezno socijalno osiguranje, i druge obustave iz primanja zaposlenih, izabranih i postavljenih lica kod Subjekta, kreiranje osnovnih i korektivnih obračuna u toku mjeseca, kao i kreiranje zbirki podataka neophodnih za isplatu primanja i evidentiranje poslovnih promjena elektronskim putem;
 5) automatsko kreiranje prijava, izvještaja i drugih obrazaca utvrđenih propisima ili na drugi način u skladu sa specifičnim potrebama ili na zahtjev nadležnog organa;
 6) analizu i kontrolu podataka u skladu sa specifičnim potrebama ili na zahtjev nadležnog organa.
 Informacioni sistem za centralizovani obračun primanja postavlja se, radi i održava na odgovarajućoj hardverskoj infrastrukturi koja obezbjeđuje uredno funkcionisanje sistema.
@@ -43,7 +45,7 @@ Podaci za obračun primanja predstavljaju skup podataka o radnom vremenu, priman
 Podaci iz stava 1. ovog člana čuvaju se, unose, uvoze, ažuriraju i razmjenjuju u elektronskom formatu.
 Član 5.
 Podaci o organizacionom upravljanju iz člana 4. stav 2. ove uredbe sadrže:
-1) elemente za formiranje, izmjenu ili ukidanje organizacionih jedinica u okviru organizacione strukture (organizacione dijelove i hijerarhiju između delova) kod Subjekta, koji obuhvataju naziv, oblast, adresu, vrstu, djelokrug rada, kadrovske oblasti i podoblasti organizacione jedinice;
+1) elemente za formiranje, izmjenu ili ukidanje organizacionih jedinica u okviru organizacione strukture (organizacione dijelove i hijerarhiju između dijelova) kod Subjekta, koji obuhvataju naziv, oblast, adresu, vrstu, djelokrug rada, kadrovske oblasti i podoblasti organizacione jedinice;
 2) elemente za formiranje, izmjenu ili ukidanje sistematizacije radnih mjesta i pozicija kod Subjekta, koji obuhvataju naziv i opis poslova, svrhu radnog mjesta, položaj, zvanje ili vrstu radnog mjesta, stepen uvećanja staža, šifru registra zaposlenih, izabranih i postavljenih lica, kompetencije po oblastima rada, koeficijente, zahtjevani stepen stručne spreme, neophodno obrazovanje i stepen stručne spreme, zahtjevane državne ili stručne ispite, licence, sertifikate, neophodno radno iskustvo, kao i druge elemente u skladu sa relevantnim propisima ili specifičnim potrebama Subjekta.
 Podaci o kadrovskoj administraciji iz člana 4. stav 3. ove uredbe sadrže:
 1) elemente za formiranje, izmjenu ili ukidanje kadrovskih brojeva zaposlenih, izabranih i postavljenih lica;
@@ -55,7 +57,7 @@ Podaci za obračun primanja iz člana 4. stav 4. ove uredbe sadrže:
 Način i rokovi za dostavljanje podataka
 Član 6.
 Podatke iz člana 4. ove uredbe, odgovorno lice blagovremeno dostavlja direktnim unosom ili uvozom podataka u Sistem u odgovarajućem elektronskom formatu.
-Subjekat i odgovorno lice dužni su da obezbijede da podaci iz člana 4. ove uredbe budu tačno, potpuno i ažurno  ili uvezeni u odgovarajućem elektronskom formatu u Sistem – najkasnije pet dana prije planirane isplate primanja.
+Subjekat i odgovorno lice dužni su da obezbijede da podaci iz člana 4. ove uredbe budu tačno, potpuno i ažurno uneseni ili uvezeni u odgovarajućem elektronskom formatu u Sistem – najkasnije pet dana prije planirane isplate primanja.
 Način, postupak i rokovi za obradu podataka i postupak i rokovi za dostavljanje obračuna primanja subjektima
 Član 7.
 Elektronskom obradom podataka iz člana 4. ove uredbe Sistem vrši kontrolu unesenih podataka i evidentira eventualne greške.

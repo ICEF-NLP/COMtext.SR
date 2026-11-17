@@ -1,3 +1,5 @@
+# title = Procedura za postupanje i odlučivanje po prigovorima i žalbama
+# source = https://www.ratel.rs/upload/documents/Regulativa/Ritt_oprema/Procedura%20za%20postupanje%20po%20%20prigovorima.pdf
 Na osnovu člana 17. Zakona o elektronskim komunikacijama („Službeni glasnik RS“, broj 44/10) i člana 21. Statuta Republičke agencije za elektronske komunikacije („Službeni glasnik RS“, broj 59/10), direktor Republičke agencije za elektronske komunikacije donosi Proceduru Za Postupanje I Odlučivanje Po Prigovorima I Žalbama Na Rad Republičke Agencije Za Elektronske Komunikacije U Vezi Sa Poslovima Ocenjivanja Usaglašenosti
 I Opšte Odredbe
 Član 1.

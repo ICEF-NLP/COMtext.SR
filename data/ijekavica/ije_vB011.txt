@@ -1,3 +1,5 @@
+# title = Uredba o izmjenama i dopunama uredbe o određivanju nagrada i naknada notarima RS
+# source = https://www.vladars.net/sr-SP-Cyrl/Vlada/Ministarstva/mpr/Documents/уредбa%20о%20измјенама%20и%20допунама%20уредбе%20о%20одређивању%20награда%20и%20накнада%20нотарима.pdf
 Republika Srpska
 Vlada
 Uredba O Izmjenama I Dopunama Uredbe O Određivanju Nagrada I Naknada Notarima U Republici Srpskoj
@@ -13,8 +15,8 @@ U članu 8. u tački v) poslije riječi: „originala“ riječ: „i“ briše 
 Član 3.
 U Prilogu Uredbe o određivanju nagrada i naknada notarima u Republici Srpskoj, u Tarifi o određivanju nagrada i naknada notarima u Republici Srpskoj, u Tarifnom broju 7. u stavu 1. broj: „600“ zamjenjuje se brojem: „400“.
 Član 4.
-U Prilogu Uredbe o određivanju nagrada i naknada notarima u Republici Srpskoj, u Tarifi o određivanju nagrada i naknada notarima u Republici Srpskoj, poslije Tarifnog broja 7. dodaje se novi Tarifni broj 7 a. koji glasi:
-„Tarifni broj 7 a.
+U Prilogu Uredbe o određivanju nagrada i naknada notarima u Republici Srpskoj, u Tarifi o određivanju nagrada i naknada notarima u Republici Srpskoj, poslije Tarifnog broja 7. dodaje se novi Tarifni broj 7 a koji glasi:
+„Tarifni broj 7 a
 (1) Za ovjeru potpisa osnivača, ako je osnivač fizičko lice, kod jednočlanog društva sa ograničenom odgovornošću koje uplaćuje propisani minimalni novčani dio osnovnog kapitala, prilikom osnivanja, kao i izmjena i dopuna osnivačkog akta, notaru pripada nagrada u iznosu od 7 bodova.
 (2) Za ovjeru potpisa osnivača ili ovlašćenog lica, ako je osnivač pravno lice, kod jednočlanog društva sa ograničenom odgovornošću koje uplaćuje propisani minimalni novčani dio osnovnog kapitala, prilikom osnivanja, kao i izmjena i dopuna osnivačkog akta, notaru pripada nagrada u iznosu od 90 bodova.“
 Član 5.
@@ -50,7 +52,7 @@ V Obrazloženje Predloženih Rješenja
 Članom 1. Prijedloga uredbe dodat je u članu 3. važeće Uredbe novi stav 2. kojim je uvedena obaveza notarima da u notarskoj kancelariji imaju jasno istaknute obavezne notarske radnje sa cijenom usluge, kao i ukupne troškove notarskih usluga u postupku registracije poslovnih subjekata, te navedene one notarske usluge koje stranka dodatno po svojoj volji može zahtijevati od notara.
 Članom 2. Prijedloga uredbe dodata je u članu 8. nova tačka d), kojom je propisano da se nagrada u stalnom iznosu, pored već propisanih notarskih poslova, određuje i za ovjeru potpisa osnivača ili ovlašćenog lica, prilikom osnivanja, kao i izmjena i dopuna osnivačkog akta, kod jednočlanog društva sa ograničenom odgovornošću koje uplaćuje propisani minimalni novčani dio osnovnog kapitala.
 Članom 3. Prijedloga uredbe, u Tarifnom broju 7. izmijenjen je stav 1. tako da za notarsku obradu osnivačkih akata privrednih društava, ustanova i ostalih poslovnih subjekata koji se osnivaju, umjesto dosadašnjih 600 bodova, može se odrediti nagrada po tarifnom broju 1, ne manje od 400 bodova, čime je umanjen broj bodova, odnosno opšti minimum za obračun cijene pomenute notarske usluge.
-Članom 4. Prijedloga uredbe, u Tarifi o određivanju nagrada i naknada, poslije Tarifnog broja 7. dodat je novi Tarifni broj 7 a. kojim je propisano da za ovjeru potpisa osnivača ili ovlašćenog lica, kod jednočlanog društva sa ograničenom odgovornošću koje uplaćuje propisani minimalni novčani dio osnovnog kapitala, prilikom osnivanja, kao i izmjena i dopuna osnivačkog akta, notaru pripada nagrada u iznosu od 90 bodova, ako je osnivač pravno lice.
+Članom 4. Prijedloga uredbe, u Tarifi o određivanju nagrada i naknada, poslije Tarifnog broja 7. dodat je novi Tarifni broj 7 a kojim je propisano da za ovjeru potpisa osnivača ili ovlašćenog lica, kod jednočlanog društva sa ograničenom odgovornošću koje uplaćuje propisani minimalni novčani dio osnovnog kapitala, prilikom osnivanja, kao i izmjena i dopuna osnivačkog akta, notaru pripada nagrada u iznosu od 90 bodova, ako je osnivač pravno lice.
 Ako je osnivač fizičko lice, notaru pripada nagrada u iznosu od 7 bodova.
 Ovom odredbom se vrši usklađivanje Uredbe o određivanju nagrada i naknada notarima u Republici Srpskoj sa Zakonom o izmjenama i dopunama Zakona o privrednim društvima („Službeni glasnik Republike Srpske“, broj 67/13), s obzirom na to da je članom 2. pomenutog zakona propisano da se kod jednočlanog društva sa ograničenom odgovornošću koje uplaćuje propisani minimalni novčani dio osnovnog kapitala (koji sada iznosi minimalno 1 KM), prilikom osnivanja, kao i prilikom izmjena i dopuna osnivačkog akta, vrši ovjera potpisa osnivača na osnivačkom aktu, umjesto dosadašnje notarske obrade osnivačkog akta prilikom osnivanja odnosno notarskog potvrđivanja prilikom izmjena i dopuna osnivačkog akta.
 Članom 5. Prijedloga uredbe je propisano da ista stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srpske“.

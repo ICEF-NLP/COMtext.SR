@@ -1,3 +1,5 @@
+# title = Rešenje upravnog suda u Kragujevcu
+# source = https://sudskapraksa.sud.rs/sudska-praksa/302149?hq=
 Republika Srbija
 Upravni Sud
 Odeljenje U Kragujevcu

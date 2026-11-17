@@ -1,3 +1,5 @@
+# title = Pravilnik o postupku direktnog sporazuma
+# source = http://www.voders.org/dokumentacija/pravilnici/Правилник%20о%20поступку%20директног%20споразума.pdf
 Republika Srpska
 JAVNA USTANOVA „VODE SRPSKE“ BIJELjINA
 Pravilnik O Postupku Direktnog Sporazuma
@@ -8,7 +10,7 @@ I Osnovne Odredbe
 Ovim se Pravilnikom uređuje postupak javne nabavke roba, usluga i radova putem direktnog sporazuma iz člana 90. Zakona o javnim nabavkama, (u daljem tekstu Zakona), a za potrebe Javne ustanove »Vode Srpske« Bijeljina, (u daljem tekstu: Ustanova).
 Član 2.
 Direktni sporazum je postupak u kome Ustanova nakon ispitivanja tržišta traži pismeno prijedlog cijene ili ponudu od jednog ili više ponuđača i pregovara ili prihvata tu cijenu, kao uslov za konačan sporazum.
-II Uslovi Za Primenu Direktnog Sporazuma
+II Uslovi Za Primjenu Direktnog Sporazuma
 Član 3.
 (1) Postupak direktnog sporazuma može se provesti kada je procijenjena vrijednost istovrsnih roba, usluga ili radova na godišnjem nivou jednaka ili manja od 6,000,00 KM bez uračunatog PDV-a.
 (2) Javna ustanova »Vode Srpske« Bijeljina, (u daljem tekstu: Ustanova), može tokom jedne godine za isti predmet nabavke potrošiti do 6,000,00 KM bez PDV-a putem ovog postupka.
@@ -20,27 +22,27 @@ IV Priprema Postupka
 Član 5.
 Postupku direktnog sporazuma prethodi utvrđivanje i definisanje potreba za robama, uslugama ili radovima, koji su neophodni za rad Ustanove.
 Član 6.
-(1) Procenjivanje vrijednosti javne nabavke koja se dodeljuje direktnim sporazumom Ustanova sprovodi u skladu sa članom 15. Zakona.
-(2) Procenjena vrijednost mora biti važeća u trenutku kada Ustanova zatraži prijedlog cijene ili ponudu od jednog ili više privrednih subjekata.
-(3) Nadležni sektori za čije potrebe se vrši nabavka vrši procjenu nabavke i putem službe protokola dostavlja Odeljenju za javne nabavke i Sektoru za finansijsko-ekonomske poslove zahtjev za nabavku roba, usluga ili radova u pisanoj formi, koji mora biti u skladu sa raspoloživim finansijskim sredstvima predviđenim budžetom Ustanove.
+(1) Procjenjivanje vrijednosti javne nabavke koja se dodjeljuje direktnim sporazumom Ustanova sprovodi u skladu sa članom 15. Zakona.
+(2) Procijenjena vrijednost mora biti važeća u trenutku kada Ustanova zatraži prijedlog cijene ili ponudu od jednog ili više privrednih subjekata.
+(3) Nadležni sektori za čije potrebe se vrši nabavka vrši procjenu nabavke i putem službe protokola dostavlja Odjeljenju za javne nabavke i Sektoru za finansijsko-ekonomske poslove zahtjev za nabavku roba, usluga ili radova u pisanoj formi, koji mora biti u skladu sa raspoloživim finansijskim sredstvima predviđenim budžetom Ustanove.
 (4) Postupak direktnog sporazuma započinje donošenjem odluke ili rješenja u pisanom obliku, od strane direktora Ustanove, a koji sadrži sve elemente iz člana 18. stav (1) ZJN-a.
-(5) Odeljenje za javne nabavke priprema i provodi postupak direktnog sporazuma i provodi sve radnje koje se odnose na pripremu i sprovođenje postupka direktnog sporazuma.
+(5) Odjeljenje za javne nabavke priprema i provodi postupak direktnog sporazuma i provodi sve radnje koje se odnose na pripremu i sprovođenje postupka direktnog sporazuma.
 V Sprovođenje Postupka
 Član 7.
-(1) Odeljenje za javne nabavke ispituje tržište te traži pisani prijedlog cijene ili ponudu od jednog ili više privrednih subjekata koji obavljaju djelatnost koja je predmet javne nabavke.
-Zahtev za ponudu obuhvata detaljan opis roba, usluga ili radova uključujući elemente poput količine, kvaliteta, tehničkog opisa, mjesta i roka isporuke i slično, a što sve odgovara predmetu nabavke.
+(1) Odjeljenje za javne nabavke ispituje tržište te traži pisani prijedlog cijene ili ponudu od jednog ili više privrednih subjekata koji obavljaju djelatnost koja je predmet javne nabavke.
+Zahtjev za ponudu obuhvata detaljan opis roba, usluga ili radova uključujući elemente poput količine, kvaliteta, tehničkog opisa, mjesta i roka isporuke i slično, a što sve odgovara predmetu nabavke.
 (2) Nakon što Ustanova primi prijedlog cijene ili ponudu od jednog ili više ponuđača, a prije zaključivanja direktnog sporazuma, Ustanova:
 a) pregovara sa ponuđačem/ponuđačima o cijeni i/ili
 b) prihvata prijedlog cijene ili ponudu jednog ponuđača i/ili
 v) provodi drugu vrstu postupka definisanu Zakonom.
 VI Izbor Ponuđača
 Član 8.
-(1) Kod izbora ponude na osnovu koje će biti dodeljen ugovor, Ustanova će uzeti u obzir faktore kao što su cijena, količina, kvalitet, tehnički opis, estetski i funkcionalni zahtjevi, karakteristike koje se odnose na okolinu, vrijeme i period isporuke i sl.
-(2) Ustanova bira ponuđača na način koji garantuje najbolju razmenu vrijednosti za novac.
+(1) Kod izbora ponude na osnovu koje će biti dodijeljen ugovor, Ustanova će uzeti u obzir faktore kao što su cijena, količina, kvalitet, tehnički opis, estetski i funkcionalni zahtjevi, karakteristike koje se odnose na okolinu, vrijeme i period isporuke i sl.
+(2) Ustanova bira ponuđača na način koji garantuje najbolju razmjenu vrijednosti za novac.
 Kada Ustanova vodi pregovore koji se odnose na prijedlog cijene ili ponudu, Ustanova djeluje u skladu sa dobrom komercijalnom praksom.
 (3) Kada traži prijedlog cijene ili ponudu.
 Ustanova daje ponuđačima određeni rok da pripreme prijedlog cijene ili ponudu, uzimajući u obzir kompleksnost nabavke.
-(4) Ceneći principe dobre prakse, Ustanova će odabrati ponuđača koji je kvalifikovan da ispravno izvrši dostavu zahtjeva javne nabavke.
+(4) Cijeneći principe dobre prakse, Ustanova će odabrati ponuđača koji je kvalifikovan da ispravno izvrši dostavu zahtjeva javne nabavke.
 (5) Ustanova će pažljivo ocijeniti ponuđenu robu, usluge ili radove u odnosu na zahtjeve koje je utvrdila.
 (6) Ukoliko vodi pregovore koji se odnose na prijedlog cijena, Ustanova će djelovati u skladu sa dobrom komercijalnom praksom o čemu će voditi pismenu prepisku, koja će biti sastavni dio dokumentacije za predmetnu javnu nabavku.
 Član 9.

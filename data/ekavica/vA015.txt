@@ -1,3 +1,5 @@
+# title = Pravni stav Agencije za borbu protiv korupcije
+# source = https://www.acas.rs/storage/attitude_files/Pravni%20stav%2016.10.2013.pdf
 Pravni Stav
 Odredba čl. 45. st. 2. Zakona o Agenciji za borbu protiv korupcije kojom je propisano da se odredba iz st. 1. ovog člana odnosi i na funkcionera koji je član upravnog ili nadzornog odbora javnog preduzeća, ustanove i druge organizacije čiji je osnivač Republika, autonomna pokrajina ili grad Beograd, ako ne prima naknadu po osnovu članstva, ne primenjuje se na funkcionera koji se odrekao naknade za obavljanje funkcije koja je određena posebnim aktom.
 Obrazloženje:

@@ -1,3 +1,5 @@
+# title = Ugovor o delu (uslugama izrade web sajta)
+# source = https://www.scribd.com/document/63967964/Savo-Popović-ugovor-o-delu#
 Ugovor o uslugama izrade web sajta
 Ovaj Ugovor o uslugama izrade web sajta (u daljem tekstu: Ugovor) zaključen je 06.07.2011. godine u Beogradu između:
 1. "INTERNET SOLUTIONS” Samostalna radnja za marketing Goran Ćirković PR Novi Beograd, Gandijeva 132/58A, matični br. 60828377, PIB 104669647, tekući račun br. 265-1040310001028-78 kod Raiffeisen banke a.d. Beograd, koju zastupa osnivač Goran Ćirković (u daljem tekstu: Izvršilac),
@@ -23,7 +25,7 @@ Registracija i zakup domena i servera nisu predmet ovog Ugovora.
 - Tekst u skladu sa UTF-8 standardom,
 - Fotografije u jednom od sljedećih formata JPG, TIF ili PNG, vektore u EPS ili Al formatu,
 - Audio materijal u MP3 formatu.
-Rok za predaju kompletnog Materijala i strukture web sajta koji Naručilac dostavlja Izvršiocu je 10 (deset) dana od dana zaključenja ovog Ugovora i svako kašnjenje prilikom dostavljanja Materijala uslovljava pomeranje krajnjeg roka za izradu web sajta.
+Rok za predaju kompletnog Materijala i strukture web sajta koji Naručilac dostavlja Izvršiocu je 10 (deset) dana od dana zaključenja ovog Ugovora i svako kašnjenje prilikom dostavljanja Materijala uslovljava pomjeranje krajnjeg roka za izradu web sajta.
 Ukoliko Materijal nije u odgovarajućem formatu iz tačke 2.1.3 ovog Ugovora Izvršilac zadržava pravo da takav Materijal ne koristi za izradu web sajta, o čemu je dužan da najkasnije sljedećeg dana od dana prijema takvog Materijala obavijesti Naručioca.
 Ukoliko to zahtijeva Naručilac, Izvršilac može izvršiti dodatnu obradu Materijala koji nije u odgovarajućem formatu, o čemu će saglasno utvrditi cijenu ove dodatne usluge.
 Naručilac svojim potpisom na ovom Ugovoru garantuje moralnom, materijalnom i krivičnom odgovornošću da je on vlasnik dostavljenog Materijala, i da taj Materijal nije pod zaštitom kopiranja od strane trećih lica.
@@ -78,7 +80,7 @@ Izvršilac je dužan da kao poslovnu tajnu trajno čuva svaki svaki dokument ili
 11.
 Obavještenja
 11.1 Ugovorne strane su dužne da jedna drugu obavještavaju o svakoj i o svim promjenama koje mogu biti važne za realizaciju Ugovora.
-Sva obavještenja, profakture, fakture, ovlašćenja, odobrenja, izveštaji i poslovna prepiska koja se zahtijeva po odredbama ovog Ugovora biće dostavljana isključivo u pisanoj formi putem elektronske pošte na srpskom ili engleskom jeziku, na dolje navedene adrese:
+Sva obavještenja, profakture, fakture, ovlašćenja, odobrenja, izvještaji i poslovna prepiska koja se zahtijeva po odredbama ovog Ugovora biće dostavljana isključivo u pisanoj formi putem elektronske pošte na srpskom ili engleskom jeziku, na dolje navedene adrese:
 a) Za Izvršioca
 e-mail: office@freelancer.rs
 b) Za Naručioca
@@ -94,7 +96,7 @@ Primjena Materijalnog Prava
 14.
 Trajanje Ugovora
 14.1 Ugovor se zaključuje na 1 godinu dana.
-14.2 Ovaj Ugovor se smatra zaključenim i stupa na snagu— na dan kada su ga potpisali ovlašćeni predstavnici obje Ugovorne strane, a ako ga ovlašćeni predstavnici nisu potpisali na isti dan, Ugovor se smatra zaključenim na dan drugog potpisa po vremenskom redosljedu.
+14.2 Ovaj Ugovor se smatra zaključenim i stupa na snagu — na dan kada su ga potpisali ovlašćeni predstavnici obje Ugovorne strane, a ako ga ovlašćeni predstavnici nisu potpisali na isti dan, Ugovor se smatra zaključenim na dan drugog potpisa po vremenskom redosljedu.
 15.
 Raskid Ugovora
 15.1 Svaka Ugovorna strana ima pravo da otkaže ovaj Ugovor, u slučaju da druga Ugovorna strana ne izvršava svoje ugovorne obaveze, dostavljanjem pisane izjave o otkazu Izvršiocu, sa otkaznim rokom od 10 dana.
@@ -104,7 +106,7 @@ U ovom slučaju Ugovorna strana koja ne ispunjava obaveze dužna je da drugoj Ug
 15.4 Ugovorne strane mogu sporazumno da raskinu Ugovor, a sporazumom o raskidu Ugovora utvrđuju se visina i način ispunjenja međusobnih dospjelih obaveze do dana sporazumnog raskida Ugovora.
 16.
 Završne Odredbe
-16.1 Ovaj Ugovor se može izmeniti samo pisanim aneksom, potpisanim od strane ovlašćenih zastupnika Ugovornih strana, odnosno sve izmjene i dopune ovog Ugovora i svi usmeni nalozi i dogovori Ugovornih strana moraju biti sadržani u aneksu Ugovora, inače ne proizvode pravno dejstvo.
+16.1 Ovaj Ugovor se može izmijeniti samo pisanim aneksom, potpisanim od strane ovlašćenih zastupnika Ugovornih strana, odnosno sve izmjene i dopune ovog Ugovora i svi usmeni nalozi i dogovori Ugovornih strana moraju biti sadržani u aneksu Ugovora, inače ne proizvode pravno dejstvo.
 16.2 Ovaj Ugovor je sačinjen u 2 (dva) istovjetna primjerka, od kojih je 1 (jedan) primjerak za Izvršioca i 1 (jedan) primjerak za Naručioca.
 Izvršilac: Naručilac: Internet Solutions Advokatska kancelarija RADULOVIĆ
 Goran Ćirković Nataša Radulović-Dimović

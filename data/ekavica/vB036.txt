@@ -1,3 +1,5 @@
+# title = Zakon o opštem upravnom postupku
+# source = http://www.pravno-informacioni-sistem.rs/
 Zakon O Opštem Upravnom Postupku
 ("Sl. glasnik RS", br. 18/2016, 95/2018 - autentično tumačenje i 2/2023 - odluka US)
 Upravni postupak

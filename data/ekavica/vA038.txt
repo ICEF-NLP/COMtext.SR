@@ -1,3 +1,5 @@
+# title = Ugovor o delu (uslugama izrade web sajta)
+# source = https://www.scribd.com/document/63967964/Savo-Popović-ugovor-o-delu#
 Ugovor o uslugama izrade web sajta
 Ovaj Ugovor o uslugama izrade web sajta (u daljem tekstu: Ugovor) zaključen je 06.07.2011. godine u Beogradu između:
 1. "INTERNET SOLUTIONS” Samostalna radnja za marketing Goran Ćirković PR Novi Beograd, Gandijeva 132/58A, matični br. 60828377, PIB 104669647, tekući račun br. 265-1040310001028-78 kod Raiffeisen banke a.d. Beograd, koju zastupa osnivač Goran Ćirković (u daljem tekstu: Izvršilac),
@@ -94,7 +96,7 @@ Primena Materijalnog Prava
 14.
 Trajanje Ugovora
 14.1 Ugovor se zaključuje na 1 godinu dana.
-14.2 Ovaj Ugovor se smatra zaključenim i stupa na snagu— na dan kada su ga potpisali ovlašćeni predstavnici obe Ugovorne strane, a ako ga ovlašćeni predstavnici nisu potpisali na isti dan, Ugovor se smatra zaključenim na dan drugog potpisa po vremenskom redosledu.
+14.2 Ovaj Ugovor se smatra zaključenim i stupa na snagu — na dan kada su ga potpisali ovlašćeni predstavnici obe Ugovorne strane, a ako ga ovlašćeni predstavnici nisu potpisali na isti dan, Ugovor se smatra zaključenim na dan drugog potpisa po vremenskom redosledu.
 15.
 Raskid Ugovora
 15.1 Svaka Ugovorna strana ima pravo da otkaže ovaj Ugovor, u slučaju da druga Ugovorna strana ne izvršava svoje ugovorne obaveze, dostavljanjem pisane izjave o otkazu Izvršiocu, sa otkaznim rokom od 10 dana.

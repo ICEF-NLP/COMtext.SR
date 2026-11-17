@@ -1,3 +1,5 @@
+# title = Sporazum o saradnji
+# source = https://www.rnids.rs/документи/споразум-о-сарадњи-рнидс-а-и-удружења-милутин-миланковић
 Sporazum O Saradnji
 Strane potpisnice:
 1. Fondacija „Registar nacionalnog internet domena Srbije“ (RNIDS), Žorža Klemansoa 18a, Beograd, MB: 17680544, koju zastupa vd direktor Žarko Kecić,

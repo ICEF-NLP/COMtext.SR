@@ -1,4 +1,6 @@
-Ugovor O Ustupanju Imovinskih Autorskih Prava Zaključen u Bečeju, dana 23. novembra 2011. godine između: 1.) Magdalene Otašević iz Bečeja, ulica Patrisa Lumumbe broj 49, JMBG 1011980567898, (u daljem tekstu: Autor), s jedne strane i 2.) Olge Panajotović iz Bečeja, ulica Pavla Papa broj 37, JMBG 703980678129, (u daljem tekstu: Sticalac prava), s druge strane.
+# title = Ugovor o ustupanju imovinskih autorskih prava
+# source = https://www.scribd.com/document/364160989/Ugovor-o-Ustupanju-Autorskih-Imovinskih-Prava-DAN-1
+Ugovor O Ustupanju Imovinskih Autorskih Prava Zaključen u Bečeju, dana 23. novembra 2011. godine između: 1.) Magdalene Otašević iz Bečeja, ulica Patrisa Lumumbe broj 49, JMBG 1011980567898, (u daljem tekstu: Autor), s jedne strane i 2.) Olge Panajotović iz Bečeja, ulica Pavla Papa broj 37, JMBG 0703980838129, (u daljem tekstu: Sticalac prava), s druge strane.
 Član 1.
 Ugovorne strane saglasno konstatuju da je Autor jedini titular imovinskih i moralnih prava na autorskom delu “Jasmin”.
 Član 2.

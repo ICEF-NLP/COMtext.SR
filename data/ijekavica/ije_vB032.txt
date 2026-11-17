@@ -1,3 +1,5 @@
+# title = Zakon o državnom premeru i katastru
+# source = http://www.pravno-informacioni-sistem.rs/
 Zakon O Državnom Premjeru I Katastru
 ("Sl. glasnik RS", br. 72/2009, 18/2010, 65/2013, 15/2015 - odluka US, 96/2015, 47/2017 - autentično tumačenje, 113/2017 - dr. zakon, 27/2018 - dr. zakon, 41/2018 - dr. zakon i 9/2020 - dr. zakon)
 Glava III

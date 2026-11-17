@@ -1,3 +1,5 @@
+# title = Žalba protiv presude Opštinskog suda u Leskovcu
+# source = https://www.scribd.com/document/262204614/Primeri-Tužbi-i-Drugih-Akata-u-Parničnom-Postupku
 Opštinskom Sudu U Leskovcu za OKRUŽNI SUD U LESKOVCU
 Tužilja: PANIĆ NADEŽDA iz Leskovca
 Tuženi: SINĐELIĆ MILOVAN iz Prekopčelice i dr.
@@ -34,14 +36,14 @@ U dispozitivu presude se navodi da je između stranaka zaključeni ugovor «simu
 Očigledno, sud stoji na stanovištu da kupoprodajna cijena nije isplaćena i to mu je fundamentum presude (pošto tu činjenicu najviše i obrazlaže ostajući time na istom nivou zaključivanja kao i u svojoj prvobitnoj ukinutoj odluci), čime pobija svoju tezu o simulovanosti ugovora o kupoprodaji.
 Naime, to implicira zaključak da postoji u svemu punovažan ugovor o kupoprodaji ali da on nije ispunjen, što podrazumijeva primjenu odredaba o raskidu ugovora i neispunjenju.
 2.4.
-S druge strane, činjenično stanje koje je sud utvrdio i na kojem zasniva pobijanu presudu (str. 3. pretposlednji pasus obrazloženja), ukazuje prvenstveno, na zabludu tužilje:
+S druge strane, činjenično stanje koje je sud utvrdio i na kojem zasniva pobijanu presudu (str. 3. pretposljednji pasus obrazloženja), ukazuje prvenstveno, na zabludu tužilje:
 «U sklopu izvedenih dokaza i uvida u pismena i iskaze svjedoka sud je u cijelosti prihvatio iskaz tužilje Nadežde u dijelu u kome ista tvrdi da je sa pok. Živoradom napravila ugovor da je isti gleda i sahrani a da mu poslije smrti ostavi stan, dakle da kao stara i slabo pismena osoba nije znala pravu sadržinu ugovora koji potpisuje i da nikada nije potpisala kupoprodajni ugovor niti prodala stan pok. Živoradu niti ikada primila kupoprodajnu cijenu.
 Činjenicu da je kao stara i slabo pismena osoba smatrala da se radi o drugoj vrsti ugovora koji je trebalo da se realizuje tek poslije njene smrti potvrdili su saslušani svjedoci...
 Sve su ovo činjenice koje ukazuju sudu i potvrđuju iskaz tužilje Nadežde i uvjeravaju sud da je tužilja slabo pismena osoba koja je učena od pok. Živorada da se potpiše i koja je potpisala kupoprodajni ugovor u sudu o prodaji svoga stana ali nije znala da se radi o kupoprodaji već je mislila da se radi o ranije pričanom ugovoru o doživotnom izdržavanju...
 » Sam sud definiše tužiljinu zabludu: «da je za stvarni predmet ugovora saznala tek poslije smrti pok. Živorada» (str. 4 posljednji pasus obrazloženja)
 Ovako precizirano obrazoženje govori da, po nalaženju suda, tužilja nije znala šta potpisuje, odnosno da je potpisujući jedno mislila da potpisuje drugo, da je imala pogrešnu predstavu o ugovoru koji potpisuje, da nije bila svjesna nesaglasnosti između njene stvarne volje i volje izjavljene potpisivanjem ugovora – što sve ukazuje da školsku definiciju zablude ugovornika, ovdje tužilje.
 S druge strane, zabluda tužilje je toliko velika (stan) i dugotrajna (četiri godine) da postaje nevjerovatna i, možda, zapravo ukazuje da je ona znala za pravu sadržinu ugovora?
-Teško je povjerovati da bi tužilja Nadežda, ili koja druga osoba u pitanju (a Nadežda je uz to vrlo borbena i uporna osoba što se dalo vidjeti u sudnici), pasivno, da ga ne pogleda ona ili joj ga rastumači neko drugi, držala sporni ugovor u svom stanu, pogotovo što znatiželju bude reči s kojim joj je, navodno, Živorad dao papire: Sakrij to, a ja ću se poslije tužiti sa tvojom rodbinom!
+Teško je povjerovati da bi tužilja Nadežda, ili koja druga osoba u pitanju (a Nadežda je uz to vrlo borbena i uporna osoba što se dalo vidjeti u sudnici), pasivno, da ga ne pogleda ona ili joj ga rastumači neko drugi, držala sporni ugovor u svom stanu, pogotovo što znatiželju bude riječi s kojim joj je, navodno, Živorad dao papire: Sakrij to, a ja ću se poslije tužiti sa tvojom rodbinom!
 U takvom slučaju radoznao ne bi bio samo onaj ko zna šta piše u tim papirima.
 Dakle, ako bi se činjenično stanje utvrđeno u pobijanoj presudi uzelo za tačno, ono bi jedino moglo da potvrdi zabludu na strani tužilje, ali ne prividnost (simulovanost) zaključenog ugovora o kupoprodaji.
 Kod simulovanog ugovora stranka svjesno formira volju da bi nešto izjavila što u stvari neće.
@@ -50,7 +52,7 @@ Ovdje ne postoje posebne okolnosti koje bi izvana uticale na njenu volju.
 Stranka svjesno izjavljuje nešto neistinito i hoće takvu neistinitu izjavu, ali se sadržina izjave ne podudara sa sadržinom njene istinske volje. (vidjeti Komentar Zakona o obligacionim odnosima u redakciji prof. B. Blagojevića i prof. V. Krulja, Savremena administracija, Beograd, 1980. g. str. 205).
 Sud ni jednog momenta nije utvrdio postojanje takve svijesti na strani tužilje, već naprotiv tvrdi da je ona nesvjesno potpisala ugovor koji nije htjela, čime otpada primjena odredaba o simulovanosti ugovora iz člana 66. ZOO.
 2.5.
-Svoju nedosljednost u obrazlaganju pobijane presude i konfuznost iste, sud potvrđuje i time što u istoj presudi tvrdi i «da tužilja nikada nije potpisala ugovor o kupoprodaji» (str. 3. pretposlednji pasus Obrazloženja presude), a odmah potom «da je potpisala kupoprodajni ugovor u sudu o prodaji svoga stana» (str. 4. pretposlednji pasus Obrazloženja presude).
+Svoju nedosljednost u obrazlaganju pobijane presude i konfuznost iste, sud potvrđuje i time što u istoj presudi tvrdi i «da tužilja nikada nije potpisala ugovor o kupoprodaji» (str. 3. pretposljednji pasus Obrazloženja presude), a odmah potom «da je potpisala kupoprodajni ugovor u sudu o prodaji svoga stana» (str. 4. pretposljednji pasus Obrazloženja presude).
 2.6.
 Sud je nepravilno postupio i što se, ako je već poništio ugovor, nije odredio prema posljedicama poništaja ugovora (član 104. ZOO).
 Poništaj ugovora ima za posljedicu restituciju. «Kad je pravni posao nevažeći, onda je jedna od posljedica pravnog posla i restitucija.

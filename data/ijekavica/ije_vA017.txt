@@ -1,3 +1,5 @@
+# title = Pravilnik o zaštiti podataka o ličnosti
+# source = Karanović & Partners
 Na osnovu Zakona o zaštiti podataka o ličnosti („Službeni glasnik RS”, broj 87/2018) i člana 198. stav 4. Zakona o privrednim društvima („Službeni glasnik RS”, broj 36/2011, 99/2011, 83/2014, - dr. zakon, 5/2015 i 44/2018) Petar Šukara, Gajeva 17/1/7, Novi Sad, LK: 010529149 u funkciji predsjednika skupštine “Udruženja računovođa i poreskih savjetnika – URIPS”, u daljem tekstu Društvo, Pavla Papa 14, 21000 Novi Sad, PIB: 106423094, MB: 28003285, dana 21.08.2019. donosi:
 Pravilnik O Zaštiti Podataka O Ličnosti
 Svrha I Cilj Pravilnika
@@ -13,7 +15,7 @@ Pojmovi I Skraćenice
 - Povjerenik za informacije od javnog značaja i zaštitu podataka o ličnosti Republike Srbije (u daljem tekstu: „Povjerenik”);
 - Podatak o ličnosti je svaki podatak koji se odnosi na fizičko lice čiji je identitet određen ili odrediv, neposredno ili posredno, posebno na osnovu oznake identiteta, kao što je ime i identifikacioni broj, podataka o lokaciji, identifikatora u elektronskim komunikacionim mrežama ili jednog, odnosno više obilježja njegovog fizičkog, fiziološkog, genetskog, mentalnog, ekonomskog, kulturnog i društvenog identiteta;
 - Posebne vrste podataka o ličnosti su podaci kojim se otkriva rasno ili etničko poreklo, političko mišljenje, vjersko ili filozofsko uvjerenje ili članstvo u sindikatu, genetski podaci, biometrijski podaci, podaci o zdravstvenom stanju, seksualnom životu ili seksualnoj orijentaciji fizičkog lica;
-- Obrada podataka o ličnosti je svaka radnja ili skup radnji koje se vrše automatizovano ili neautomatizovano sa podacima o ličnosti ili njihovim skupovima, kao što su prikupljanje, beleženje, razvrstavanje, grupisanje, odnosno strukturisanje, pohranjivanje, upodobljavanje ili mijenjanje, otkrivanje, uvid, upotreba, otkrivanje prenosom, odnosno dostavljanjem, umnožavanje, širenje ili na drugi način činjenje dostupnim, upoređivanje, ograničavanje, brisanje ili uništavanje (u daljem tekstu: obrada);
+- Obrada podataka o ličnosti je svaka radnja ili skup radnji koje se vrše automatizovano ili neautomatizovano sa podacima o ličnosti ili njihovim skupovima, kao što su prikupljanje, bilježenje, razvrstavanje, grupisanje, odnosno strukturisanje, pohranjivanje, upodobljavanje ili mijenjanje, otkrivanje, uvid, upotreba, otkrivanje prenosom, odnosno dostavljanjem, umnožavanje, širenje ili na drugi način činjenje dostupnim, upoređivanje, ograničavanje, brisanje ili uništavanje (u daljem tekstu: obrada);
 - Rukovalac je Društvo kao pravno lice koje u smislu ZZPL određuje svrhu i način obrade podataka o ličnosti.
 - Obrađivač je fizičko ili pravno lice, koje obrađuje podatke o ličnosti u ime rukovaoca.
 Podaci O Ličnosti Koje Obrađuje Rukovalac
@@ -51,7 +53,7 @@ Zapošljavanje i upravljanje ljudskim resursima
 Društvo obrađuje podatke o ličnosti za potrebe uspostavljanja i realizacije radnog odnosa, uključujući i druge ugovorne odnose po osnovu kojih Društvo angažuje saradnike i konsultante, kao što su podaci za potrebe utvrđivanja adekvatnosti i kvalifikacija kandidata za određena radna mjesta, za upravljanje radnim vremenom i odsustvima, za obračun zarada, putnih troškova i dnevnica, za utvrđivanje naknada po osnovu bolovanja i drugih vidova odsustva sa radnog mjesta, za procjenu napredovanja zaposlenih, za obezbjeđivanje dodatnih obuka i edukacija i za disciplinske postupke.
 Poslovne aktivnosti
 Član 7.
-Društvo obrađuje podatke o ličnosti za potrebe upravljanja projektima, organizacije kancelarijskog poslovanja, za plaćanje roba i usluga i poslovni razvoj i za svrhe izveštavanja donatora i naručilaca usluga o realizovanim projektima i za realizaciju obuka i drugih projekata koje Društvo organizuje ili u njima učestvuje, takođe Društvo može slati ponude, reklamni materijal, pozive kao i sva druga obavještenja.
+Društvo obrađuje podatke o ličnosti za potrebe upravljanja projektima, organizacije kancelarijskog poslovanja, za plaćanje roba i usluga i poslovni razvoj i za svrhe izvještavanja donatora i naručilaca usluga o realizovanim projektima i za realizaciju obuka i drugih projekata koje Društvo organizuje ili u njima učestvuje, takođe Društvo može slati ponude, reklamni materijal, pozive kao i sva druga obavještenja.
 Komunikacije, informacione tehnologije i informaciona bezbjednost
 Član 8.
 Društvo obrađuje podatke o ličnosti u svrhu upravljanja i održavanja funkcionisanja komunikacijske i informacione mreže, te održavanja informacione bezbjednosti.

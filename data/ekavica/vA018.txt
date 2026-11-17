@@ -1,3 +1,5 @@
+# title = Posebni kolektivni ugovor za zaposlene u oblasti obrazovanja i kulture RS
+# source = https://vladars.net/sr-SP-Cyrl/Vlada/Ministarstva/mpk/PAO/PublishingImages/Pages/Osnovno_obrazovanje/Посебни%20колективни%20уговор%20за%20запослене%20у%20области%20образовања%20и%20културе%20Републике%20Српске.pdf
 Posebni Kolektivni Ugovor Za Zaposlene U Oblasti Obrazovanja I Kulture Republike Srpske
 Banja Luka, avgust 2019. godine
 Na osnovu člana 240. stav 3. Zakona o radu („Službeni glasnik Republike Srpske“, br. 1/16 i 66/18), člana 18. stav 2. Zakona o platama zaposlenih u osnovnim i srednjim školama i đačkim domovima u Republici Srpskoj („Službeni glasnik Republike Srpske“, broj 11/19) i člana 15. stav 2. Zakona o platama zaposlenih u oblasti kulture Republike Srpske („Službeni glasnik Republike Srpske“, broj 11/19), ministar prosvete i kulture u Vladi Republike Srpske, po ovlašćenju Vlade Republike Srpske, i Sindikat obrazovanja, nauke i kulture Republike Srpske zaključuju Posebni Kolektivni Ugovor Za Zaposlene U Oblasti Obrazovanja I Kulture Republike Srpske
@@ -328,7 +330,7 @@ Osnovni kriterijumi za bodovanje radnika koji su delimično ili u potpunosti izg
 3) zdravstveno stanje radnika i
 4) stepen stručne spreme.
 Član 59.
-(1) Bodovanje po osnovu godina radnog staža, statusa člana porodice poginulog borca Odbrambeno-otadžbinskog rata Republike Srpske, zdravstvenog stanja radnika i stepena stručne spreme vrši se na sljedeći način:
+(1) Bodovanje po osnovu godina radnog staža, statusa člana porodice poginulog borca Odbrambeno-otadžbinskog rata Republike Srpske, zdravstvenog stanja radnika i stepena stručne spreme vrši se na sledeći način:
 1) godine radnog staža:
 1. za jednu godinu radnog staža u vaspitno-obrazovnoj ustanovi .......................................... 6 bodova,
 2. za jednu godinu radnog staža u vaspitno-obrazovnoj ustanovi, kao neverifikovani radnik .................................................................... 3 boda,
@@ -445,7 +447,7 @@ XIII - Prelazne I Završne Odredbe
 (4) Odluka arbitraže donosi se konsenzusom i obavezujuća je za strane u sporu.
 Član 74.
 (1) Ovaj kolektivni ugovor zaključuje se na period od tri godine, a smatra se zaključenim kad ga u istovetnom tekstu potpišu njegovi učesnici.
-(2) Stupanjem na snagu ovog kolektivnog ugovora prestaje da važi Posebni kolektivni ugovor za zaposlene u oblasti obrazovanja i kulture Republike Srpske (“Službeni glasnik Republike Srpske", br. 70/16 i 97/18).
-(3) Ovaj kolektivni ugovor stupa na snagu osmog dana od dana objavljivanja u “Službenom glasniku Republike Srpske".
+(2) Stupanjem na snagu ovog kolektivnog ugovora prestaje da važi Posebni kolektivni ugovor za zaposlene u oblasti obrazovanja i kulture Republike Srpske („Službeni glasnik Republike Srpske“, br. 70/16 i 97/18).
+(3) Ovaj kolektivni ugovor stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srpske“.
 Ministarstvo prosvete i kulture Republike Srpske, ministar, Natalija Trivić, mr
 Sindikat obrazovanja, nauke i kulture Republike Srpske, predsednik, Mr Dragan Gnjatić
